@@ -1,0 +1,2001 @@
+Num. Cliente,Producto,Punto de venta,Día,Hora,Articulos,Precio,Empresa,Categoria,Historial Crediticio
+5432,Tarjeta de crédito,Mercado Libre 558,06/18/2024,01:28:27,Artículo 39,"$6,173.00",Mercado Libre,Restaurant,737
+5432,Tarjeta de débito,Uber Eats 181,06/05/2024,18:32:06,Artículo 45,"$8,908.00",Uber Eats,E-commerce,737
+7555,Afore,NA,06/25/2024,22:55:07,NA,"$4,245.00",Banorte,Sector Financiero,659
+9876,Fondos de Inversión,NA,06/20/2024,02:53:14,NA,"$5,519.00",Banorte,Sector Financiero,591
+9980,Afore,NA,06/24/2024,15:37:03,NA,"$2,598.00",Banorte,Sector Financiero,501
+9876,Afore,NA,06/09/2024,16:25:05,NA,"$9,839.00",Banorte,Sector Financiero,591
+5231,Tarjeta de débito,iShop 422,06/08/2024,18:20:18,Artículo 48,$434.00,iShop,Tecnología,406
+6478,Afore,NA,06/09/2024,07:10:02,NA,"$2,564.00",Banorte,Sector Financiero,611
+9876,Tarjeta de crédito,Oxxo 32,06/20/2024,12:42:31,Artículo 11,"$5,756.00",Oxxo,E-commerce,591
+5432,Afore,NA,06/11/2024,20:57:04,NA,"$1,561.00",Banorte,Sector Financiero,737
+8765,Tarjeta de crédito,Amazon 248,06/20/2024,23:59:09,Artículo 37,$416.00,Amazon,Electronics,480
+7555,Afore,NA,07/01/2024,11:27:25,NA,"$6,511.00",Banorte,Sector Financiero,659
+8765,Fondos de Inversión,NA,06/22/2024,04:20:46,NA,"$8,857.00",Banorte,Sector Financiero,480
+9876,Tarjeta de débito,Spotify 505,06/20/2024,10:32:00,Artículo 4,"$3,411.00",Spotify,Tecnología,591
+8765,Fondos de Inversión,NA,06/15/2024,06:23:09,NA,"$3,572.00",Banorte,Sector Financiero,480
+7555,Afore,NA,06/18/2024,13:53:10,NA,"$8,690.00",Banorte,Sector Financiero,659
+7555,Fondos de Inversión,NA,06/08/2024,13:10:44,NA,"$7,065.00",Banorte,Sector Financiero,659
+9876,Fondos de Inversión,NA,06/13/2024,02:48:35,NA,"$7,802.00",Banorte,Sector Financiero,591
+8765,Tarjeta de débito,Starbucks 743,06/26/2024,05:52:21,Artículo 18,"$2,606.00",Starbucks,Restaurant,480
+5432,Tarjeta de crédito,iShop 261,06/20/2024,10:46:24,Artículo 12,"$1,917.00",iShop,Restaurant,737
+6478,Fondos de Inversión,NA,06/08/2024,03:15:36,NA,"$7,082.00",Banorte,Sector Financiero,611
+7555,Tarjeta de crédito,El Palacio de Hierro 254,06/08/2024,15:08:57,Artículo 2,"$9,929.00",El Palacio de Hierro,Tecnología,659
+5432,Afore,NA,06/24/2024,10:27:09,NA,"$6,860.00",Banorte,Sector Financiero,737
+8765,Fondos de Inversión,NA,07/02/2024,11:48:44,NA,"$6,540.00",Banorte,Sector Financiero,480
+1234,Tarjeta de débito,Chedraui 910,06/28/2024,12:04:43,Artículo 12,"$3,255.00",Chedraui,Clothing,571
+9980,Tarjeta de débito,Cinemex 645,06/30/2024,16:39:15,Artículo 35,"$1,562.00",Cinemex,Entretenimiento,501
+2002,Fondos de Inversión,NA,07/02/2024,21:59:50,NA,"$1,571.00",Banorte,Sector Financiero,389
+7555,Afore,NA,06/29/2024,09:23:02,NA,"$5,044.00",Banorte,Sector Financiero,659
+1001,Tarjeta de crédito,El Palacio de Hierro 502,06/05/2024,19:25:57,Artículo 24,"$4,789.00",El Palacio de Hierro,Retail,736
+9980,Tarjeta de crédito,Amazon 190,06/04/2024,10:16:43,Artículo 27,"$8,566.00",Amazon,Comida a domicilio,501
+5432,Tarjeta de débito,Sanborns 672,06/16/2024,17:49:31,Artículo 29,"$4,665.00",Sanborns,Retail,737
+7555,Tarjeta de débito,Chedraui 994,06/22/2024,04:30:52,Artículo 50,"$8,331.00",Chedraui,Electronics,659
+8765,Afore,NA,06/14/2024,12:41:51,NA,"$1,576.00",Banorte,Sector Financiero,480
+1001,Tarjeta de crédito,El Palacio de Hierro 120,06/14/2024,09:24:27,Artículo 47,"$2,252.00",El Palacio de Hierro,Alimentos y bebidas,736
+9876,Tarjeta de débito,Oxxo 156,06/23/2024,10:35:47,Artículo 28,"$8,123.00",Oxxo,Entretenimiento,591
+6478,Tarjeta de crédito,Liverpool 288,06/15/2024,02:36:41,Artículo 41,"$4,477.00",Liverpool,Clothing,611
+5432,Afore,NA,06/08/2024,22:07:13,NA,"$6,485.00",Banorte,Sector Financiero,737
+9876,Fondos de Inversión,NA,07/03/2024,00:11:25,NA,"$5,998.00",Banorte,Sector Financiero,591
+5432,Afore,NA,06/28/2024,17:33:22,NA,"$1,528.00",Banorte,Sector Financiero,737
+2002,Tarjeta de débito,Amazon 18,06/10/2024,22:30:34,Artículo 4,"$2,480.00",Amazon,Clothing,389
+8765,Fondos de Inversión,NA,06/14/2024,12:45:05,NA,"$6,633.00",Banorte,Sector Financiero,480
+1234,Tarjeta de débito,Liverpool 140,06/30/2024,17:27:48,Artículo 15,"$2,186.00",Liverpool,Entretenimiento,571
+9876,Tarjeta de crédito,Liverpool 553,06/12/2024,16:45:26,Artículo 1,$146.00,Liverpool,Electronics,591
+5432,Fondos de Inversión,NA,06/09/2024,10:26:02,NA,"$1,190.00",Banorte,Sector Financiero,737
+1234,Tarjeta de débito,Amazon 134,07/04/2024,21:18:21,Artículo 6,"$5,140.00",Amazon,E-commerce,571
+5432,Tarjeta de débito,Soriana 179,07/01/2024,23:36:18,Artículo 24,"$5,285.00",Soriana,Entretenimiento,737
+1234,Fondos de Inversión,NA,06/26/2024,07:19:16,NA,"$7,580.00",Banorte,Sector Financiero,571
+1001,Fondos de Inversión,NA,06/08/2024,00:53:54,NA,"$9,909.00",Banorte,Sector Financiero,736
+8765,Fondos de Inversión,NA,06/16/2024,01:07:52,NA,$835.00,Banorte,Sector Financiero,480
+6478,Tarjeta de crédito,Mercado Libre 350,06/08/2024,18:21:03,Artículo 8,"$6,461.00",Mercado Libre,Comida a domicilio,611
+9980,Tarjeta de crédito,Amazon 491,06/16/2024,14:26:07,Artículo 41,"$8,346.00",Amazon,Restaurant,501
+9980,Fondos de Inversión,NA,06/05/2024,02:42:07,NA,"$5,142.00",Banorte,Sector Financiero,501
+9980,Fondos de Inversión,NA,06/07/2024,04:34:50,NA,"$6,355.00",Banorte,Sector Financiero,501
+9980,Fondos de Inversión,NA,06/22/2024,00:29:38,NA,"$3,909.00",Banorte,Sector Financiero,501
+5432,Fondos de Inversión,NA,06/15/2024,11:30:12,NA,"$5,138.00",Banorte,Sector Financiero,737
+1001,Tarjeta de débito,iShop 210,06/25/2024,20:16:23,Artículo 10,"$7,449.00",iShop,E-commerce,736
+7555,Fondos de Inversión,NA,06/06/2024,19:44:52,NA,"$7,635.00",Banorte,Sector Financiero,659
+2002,Fondos de Inversión,NA,06/07/2024,02:15:46,NA,"$6,191.00",Banorte,Sector Financiero,389
+7555,Tarjeta de crédito,Starbucks 427,06/12/2024,22:54:38,Artículo 50,"$4,854.00",Starbucks,Clothing,659
+7555,Tarjeta de crédito,Chedraui 878,06/07/2024,21:45:50,Artículo 9,"$9,770.00",Chedraui,Electronics,659
+9876,Fondos de Inversión,NA,06/22/2024,08:12:48,NA,"$5,198.00",Banorte,Sector Financiero,591
+2002,Afore,NA,06/05/2024,02:15:55,NA,"$6,372.00",Banorte,Sector Financiero,389
+5231,Afore,NA,07/03/2024,01:43:06,NA,"$3,520.00",Banorte,Sector Financiero,406
+9876,Tarjeta de débito,El Palacio de Hierro 127,07/02/2024,23:21:06,Artículo 38,"$9,568.00",El Palacio de Hierro,Restaurant,591
+2002,Afore,NA,06/26/2024,07:44:14,NA,"$1,825.00",Banorte,Sector Financiero,389
+2002,Fondos de Inversión,NA,06/04/2024,03:09:05,NA,"$5,265.00",Banorte,Sector Financiero,389
+6478,Afore,NA,06/22/2024,12:46:28,NA,"$7,207.00",Banorte,Sector Financiero,611
+1001,Tarjeta de crédito,El Palacio de Hierro 946,06/16/2024,01:57:12,Artículo 26,"$6,677.00",El Palacio de Hierro,Restaurant,736
+9980,Fondos de Inversión,NA,06/28/2024,14:26:17,NA,$355.00,Banorte,Sector Financiero,501
+8765,Tarjeta de crédito,Soriana 463,06/17/2024,16:56:52,Artículo 43,"$1,021.00",Soriana,Electronics,480
+9980,Tarjeta de débito,Amazon 29,06/24/2024,19:08:13,Artículo 17,"$5,153.00",Amazon,E-commerce,501
+6478,Tarjeta de crédito,Chedraui 497,06/18/2024,00:41:48,Artículo 25,"$5,399.00",Chedraui,Restaurant,611
+6478,Fondos de Inversión,NA,06/29/2024,13:54:55,NA,"$9,713.00",Banorte,Sector Financiero,611
+1001,Tarjeta de crédito,Mercado Libre 309,06/30/2024,09:13:35,Artículo 33,"$8,462.00",Mercado Libre,Clothing,736
+9980,Tarjeta de débito,iShop 91,07/04/2024,23:21:07,Artículo 42,$718.00,iShop,Entretenimiento,501
+9980,Afore,NA,06/06/2024,07:06:48,NA,"$4,098.00",Banorte,Sector Financiero,501
+1234,Tarjeta de crédito,Walmart 651,07/01/2024,18:08:07,Artículo 14,$547.00,Walmart,Supermercado,571
+2002,Tarjeta de débito,Spotify 546,06/24/2024,12:51:35,Artículo 39,"$3,397.00",Spotify,Alimentos y bebidas,389
+1234,Tarjeta de crédito,Uber Eats 134,06/08/2024,13:33:50,Artículo 34,"$2,742.00",Uber Eats,Retail,571
+9980,Tarjeta de crédito,Oxxo 16,06/19/2024,16:57:15,Artículo 4,"$2,643.00",Oxxo,Restaurant,501
+7555,Fondos de Inversión,NA,06/13/2024,12:11:44,NA,"$7,085.00",Banorte,Sector Financiero,659
+9876,Tarjeta de crédito,Cinemex 882,06/28/2024,06:21:02,Artículo 5,"$5,760.00",Cinemex,E-commerce,591
+5231,Fondos de Inversión,NA,06/06/2024,10:13:37,NA,"$6,751.00",Banorte,Sector Financiero,406
+9876,Tarjeta de crédito,Chedraui 650,06/27/2024,17:05:27,Artículo 4,"$5,904.00",Chedraui,E-commerce,591
+1234,Tarjeta de crédito,Banorte 20,06/29/2024,06:39:17,Artículo 30,"$9,208.00",Banorte,Clothing,571
+1234,Afore,NA,06/14/2024,00:39:56,NA,"$5,223.00",Banorte,Sector Financiero,571
+6478,Tarjeta de débito,Soriana 570,06/27/2024,23:37:20,Artículo 40,"$1,052.00",Soriana,Comida a domicilio,611
+6478,Tarjeta de crédito,Uber Eats 8,06/11/2024,16:06:45,Artículo 10,"$3,458.00",Uber Eats,Restaurant,611
+6478,Tarjeta de crédito,Amazon 449,06/11/2024,19:12:25,Artículo 41,"$3,725.00",Amazon,Entretenimiento,611
+9980,Tarjeta de crédito,Amazon 788,06/06/2024,03:14:55,Artículo 23,"$6,227.00",Amazon,Comida a domicilio,501
+9876,Fondos de Inversión,NA,06/12/2024,22:31:43,NA,$506.00,Banorte,Sector Financiero,591
+1234,Tarjeta de crédito,Walmart 761,06/08/2024,17:13:54,Artículo 13,$727.00,Walmart,Restaurant,571
+7555,Tarjeta de crédito,Mercado Libre 606,07/04/2024,16:54:33,Artículo 13,"$4,408.00",Mercado Libre,Retail,659
+5432,Fondos de Inversión,NA,06/28/2024,06:13:22,NA,$63.00,Banorte,Sector Financiero,737
+7555,Tarjeta de crédito,Mercado Libre 493,06/28/2024,00:38:19,Artículo 49,"$5,042.00",Mercado Libre,Restaurant,659
+5432,Fondos de Inversión,NA,06/12/2024,12:13:48,NA,$492.00,Banorte,Sector Financiero,737
+5432,Fondos de Inversión,NA,06/27/2024,09:52:44,NA,$802.00,Banorte,Sector Financiero,737
+9876,Fondos de Inversión,NA,06/09/2024,04:44:25,NA,"$9,694.00",Banorte,Sector Financiero,591
+7555,Afore,NA,06/18/2024,07:53:06,NA,"$9,762.00",Banorte,Sector Financiero,659
+6478,Tarjeta de crédito,Liverpool 496,06/27/2024,18:58:57,Artículo 47,"$8,944.00",Liverpool,Electronics,611
+5432,Fondos de Inversión,NA,06/11/2024,16:20:14,NA,"$6,067.00",Banorte,Sector Financiero,737
+5231,Tarjeta de crédito,Oxxo 250,06/24/2024,07:12:12,Artículo 48,"$5,464.00",Oxxo,Tecnología,406
+7555,Tarjeta de débito,Chedraui 79,06/28/2024,09:39:01,Artículo 18,"$6,557.00",Chedraui,Retail,659
+1001,Fondos de Inversión,NA,06/23/2024,19:11:29,NA,"$5,911.00",Banorte,Sector Financiero,736
+9876,Tarjeta de crédito,Chedraui 303,07/02/2024,02:15:38,Artículo 20,"$8,638.00",Chedraui,Clothing,591
+7555,Tarjeta de crédito,Walmart 301,06/26/2024,12:42:21,Artículo 36,"$1,562.00",Walmart,Tecnología,659
+1001,Afore,NA,06/08/2024,16:35:40,NA,"$7,430.00",Banorte,Sector Financiero,736
+6478,Afore,NA,06/11/2024,17:13:21,NA,"$8,672.00",Banorte,Sector Financiero,611
+9876,Tarjeta de crédito,Cinemex 308,06/08/2024,18:27:55,Artículo 11,"$7,263.00",Cinemex,Supermercado,591
+1001,Tarjeta de débito,Starbucks 409,06/30/2024,10:17:18,Artículo 38,"$5,597.00",Starbucks,Alimentos y bebidas,736
+8765,Fondos de Inversión,NA,07/02/2024,12:13:46,NA,"$6,799.00",Banorte,Sector Financiero,480
+5231,Tarjeta de débito,Cinemex 872,06/07/2024,04:40:18,Artículo 23,"$5,186.00",Cinemex,Alimentos y bebidas,406
+5432,Tarjeta de débito,El Palacio de Hierro 734,06/20/2024,20:05:21,Artículo 40,"$1,544.00",El Palacio de Hierro,Tecnología,737
+7555,Fondos de Inversión,NA,07/02/2024,09:05:10,NA,"$4,940.00",Banorte,Sector Financiero,659
+5231,Afore,NA,06/13/2024,09:58:24,NA,"$9,520.00",Banorte,Sector Financiero,406
+7555,Fondos de Inversión,NA,06/30/2024,19:06:44,NA,"$3,877.00",Banorte,Sector Financiero,659
+1234,Afore,NA,07/02/2024,20:22:56,NA,"$3,420.00",Banorte,Sector Financiero,571
+1234,Fondos de Inversión,NA,06/21/2024,18:52:06,NA,"$9,472.00",Banorte,Sector Financiero,571
+1001,Fondos de Inversión,NA,06/28/2024,19:57:32,NA,"$6,747.00",Banorte,Sector Financiero,736
+7555,Tarjeta de débito,Sanborns 439,06/21/2024,13:03:18,Artículo 43,$908.00,Sanborns,Entretenimiento,659
+1234,Tarjeta de crédito,Amazon 451,07/04/2024,19:20:40,Artículo 31,$210.00,Amazon,Supermercado,571
+9876,Afore,NA,07/02/2024,23:03:08,NA,"$6,679.00",Banorte,Sector Financiero,591
+8765,Fondos de Inversión,NA,07/01/2024,12:54:33,NA,"$2,525.00",Banorte,Sector Financiero,480
+8765,Tarjeta de crédito,Banorte 903,06/22/2024,23:25:35,Artículo 32,"$8,027.00",Banorte,Entretenimiento,480
+1001,Fondos de Inversión,NA,07/04/2024,05:36:29,NA,"$8,537.00",Banorte,Sector Financiero,736
+6478,Fondos de Inversión,NA,06/30/2024,03:54:02,NA,"$9,740.00",Banorte,Sector Financiero,611
+9876,Fondos de Inversión,NA,06/25/2024,22:59:31,NA,"$2,869.00",Banorte,Sector Financiero,591
+2002,Tarjeta de crédito,iShop 341,06/20/2024,03:11:57,Artículo 23,"$2,550.00",iShop,Alimentos y bebidas,389
+1001,Tarjeta de débito,Chedraui 665,06/14/2024,18:53:45,Artículo 33,"$3,334.00",Chedraui,Restaurant,736
+5231,Fondos de Inversión,NA,06/22/2024,08:12:02,NA,"$8,623.00",Banorte,Sector Financiero,406
+9980,Tarjeta de crédito,Sanborns 30,06/29/2024,00:45:09,Artículo 11,"$1,103.00",Sanborns,Alimentos y bebidas,501
+9876,Tarjeta de crédito,Liverpool 509,06/28/2024,06:13:04,Artículo 13,"$2,160.00",Liverpool,Electronics,591
+1234,Tarjeta de débito,iShop 709,06/20/2024,14:05:54,Artículo 18,"$3,179.00",iShop,Retail,571
+1234,Fondos de Inversión,NA,06/22/2024,18:59:23,NA,$421.00,Banorte,Sector Financiero,571
+2002,Tarjeta de crédito,iShop 937,06/20/2024,15:14:55,Artículo 8,"$3,355.00",iShop,E-commerce,389
+5432,Fondos de Inversión,NA,06/28/2024,11:19:35,NA,"$8,753.00",Banorte,Sector Financiero,737
+8765,Tarjeta de débito,Cinemex 428,06/14/2024,03:10:19,Artículo 7,"$5,503.00",Cinemex,Tecnología,480
+7555,Afore,NA,06/20/2024,01:51:02,NA,"$8,215.00",Banorte,Sector Financiero,659
+5231,Afore,NA,06/08/2024,08:12:22,NA,"$6,714.00",Banorte,Sector Financiero,406
+1234,Fondos de Inversión,NA,06/07/2024,13:22:16,NA,"$1,130.00",Banorte,Sector Financiero,571
+2002,Fondos de Inversión,NA,06/04/2024,20:19:40,NA,"$3,486.00",Banorte,Sector Financiero,389
+9980,Fondos de Inversión,NA,07/04/2024,23:29:20,NA,"$6,200.00",Banorte,Sector Financiero,501
+1001,Afore,NA,06/06/2024,23:10:09,NA,"$5,829.00",Banorte,Sector Financiero,736
+5231,Tarjeta de crédito,Uber Eats 281,06/05/2024,07:54:07,Artículo 29,"$3,549.00",Uber Eats,E-commerce,406
+1001,Tarjeta de débito,Starbucks 792,06/28/2024,08:11:05,Artículo 44,"$3,361.00",Starbucks,E-commerce,736
+1001,Fondos de Inversión,NA,06/21/2024,19:48:23,NA,"$2,377.00",Banorte,Sector Financiero,736
+2002,Tarjeta de débito,Liverpool 920,06/12/2024,19:16:39,Artículo 12,"$7,319.00",Liverpool,Alimentos y bebidas,389
+1001,Tarjeta de débito,El Palacio de Hierro 909,06/29/2024,10:52:49,Artículo 21,"$8,981.00",El Palacio de Hierro,Alimentos y bebidas,736
+1234,Tarjeta de débito,Mercado Libre 193,06/22/2024,08:10:27,Artículo 16,"$3,453.00",Mercado Libre,Restaurant,571
+2002,Fondos de Inversión,NA,06/24/2024,21:35:51,NA,"$4,317.00",Banorte,Sector Financiero,389
+6478,Fondos de Inversión,NA,06/24/2024,16:49:09,NA,"$9,757.00",Banorte,Sector Financiero,611
+9980,Tarjeta de crédito,Walmart 974,06/23/2024,03:27:56,Artículo 39,"$5,142.00",Walmart,Supermercado,501
+6478,Fondos de Inversión,NA,06/10/2024,23:23:02,NA,"$1,596.00",Banorte,Sector Financiero,611
+2002,Tarjeta de crédito,Cinemex 862,07/01/2024,06:08:09,Artículo 39,"$2,866.00",Cinemex,Restaurant,389
+2002,Tarjeta de crédito,Walmart 155,06/30/2024,00:37:10,Artículo 44,"$2,280.00",Walmart,Retail,389
+5231,Tarjeta de crédito,El Palacio de Hierro 972,06/09/2024,13:41:26,Artículo 20,"$7,407.00",El Palacio de Hierro,Supermercado,406
+1001,Tarjeta de crédito,Sanborns 561,06/23/2024,06:55:28,Artículo 3,"$8,312.00",Sanborns,Retail,736
+5231,Afore,NA,06/04/2024,16:48:15,NA,"$3,991.00",Banorte,Sector Financiero,406
+2002,Tarjeta de crédito,Uber Eats 373,07/03/2024,09:25:28,Artículo 21,"$5,993.00",Uber Eats,Supermercado,389
+1234,Afore,NA,06/26/2024,19:28:42,NA,"$4,630.00",Banorte,Sector Financiero,571
+1001,Afore,NA,06/26/2024,12:08:19,NA,"$6,817.00",Banorte,Sector Financiero,736
+1001,Afore,NA,06/16/2024,09:27:26,NA,"$4,773.00",Banorte,Sector Financiero,736
+1234,Tarjeta de crédito,Amazon 249,06/10/2024,23:44:20,Artículo 27,"$1,896.00",Amazon,Alimentos y bebidas,571
+7555,Tarjeta de débito,Cinemex 796,06/08/2024,20:16:46,Artículo 46,"$8,488.00",Cinemex,Clothing,659
+7555,Fondos de Inversión,NA,06/29/2024,13:14:04,NA,"$9,282.00",Banorte,Sector Financiero,659
+1001,Tarjeta de crédito,Oxxo 356,06/20/2024,07:44:34,Artículo 40,"$6,894.00",Oxxo,Tecnología,736
+1001,Fondos de Inversión,NA,06/04/2024,16:06:24,NA,"$5,382.00",Banorte,Sector Financiero,736
+1001,Tarjeta de crédito,Uber Eats 808,06/18/2024,15:33:08,Artículo 17,"$7,475.00",Uber Eats,Restaurant,736
+9876,Tarjeta de débito,Amazon 35,06/08/2024,23:00:57,Artículo 14,"$1,217.00",Amazon,Tecnología,591
+1001,Tarjeta de débito,El Palacio de Hierro 731,06/16/2024,20:44:31,Artículo 19,"$5,618.00",El Palacio de Hierro,E-commerce,736
+7555,Fondos de Inversión,NA,06/26/2024,16:34:01,NA,"$7,573.00",Banorte,Sector Financiero,659
+9980,Tarjeta de débito,Amazon 83,06/07/2024,00:37:05,Artículo 45,"$4,871.00",Amazon,Restaurant,501
+5231,Tarjeta de crédito,Uber Eats 143,06/07/2024,18:52:20,Artículo 34,$303.00,Uber Eats,Electronics,406
+5432,Afore,NA,07/02/2024,00:41:15,NA,"$8,822.00",Banorte,Sector Financiero,737
+2002,Fondos de Inversión,NA,06/17/2024,18:31:12,NA,$691.00,Banorte,Sector Financiero,389
+9980,Fondos de Inversión,NA,06/12/2024,05:34:49,NA,$454.00,Banorte,Sector Financiero,501
+7555,Tarjeta de crédito,iShop 503,06/15/2024,04:58:11,Artículo 41,$915.00,iShop,Tecnología,659
+9980,Fondos de Inversión,NA,06/07/2024,09:17:07,NA,$31.00,Banorte,Sector Financiero,501
+5432,Tarjeta de débito,Chedraui 950,06/30/2024,11:16:28,Artículo 45,"$7,113.00",Chedraui,Supermercado,737
+5432,Tarjeta de débito,El Palacio de Hierro 21,06/17/2024,15:13:49,Artículo 9,"$9,662.00",El Palacio de Hierro,Restaurant,737
+9876,Tarjeta de crédito,Chedraui 443,06/11/2024,15:17:01,Artículo 32,"$9,043.00",Chedraui,Restaurant,591
+8765,Fondos de Inversión,NA,06/29/2024,12:36:48,NA,"$5,320.00",Banorte,Sector Financiero,480
+8765,Afore,NA,06/29/2024,21:35:01,NA,"$2,137.00",Banorte,Sector Financiero,480
+5432,Tarjeta de débito,Liverpool 998,06/29/2024,19:14:05,Artículo 40,"$3,945.00",Liverpool,Alimentos y bebidas,737
+7555,Tarjeta de crédito,Mercado Libre 12,06/21/2024,05:27:03,Artículo 44,"$5,329.00",Mercado Libre,Restaurant,659
+9876,Afore,NA,07/04/2024,21:32:06,NA,"$7,372.00",Banorte,Sector Financiero,591
+9876,Afore,NA,06/07/2024,02:56:16,NA,"$7,401.00",Banorte,Sector Financiero,591
+8765,Tarjeta de débito,iShop 162,06/19/2024,06:46:38,Artículo 1,"$7,047.00",iShop,Electronics,480
+5231,Tarjeta de débito,Uber Eats 164,06/07/2024,07:25:11,Artículo 29,"$7,885.00",Uber Eats,Restaurant,406
+2002,Fondos de Inversión,NA,06/16/2024,00:34:27,NA,"$2,754.00",Banorte,Sector Financiero,389
+6478,Tarjeta de crédito,Cinemex 463,06/30/2024,06:52:57,Artículo 1,"$3,904.00",Cinemex,Clothing,611
+8765,Tarjeta de débito,Spotify 631,06/28/2024,01:40:18,Artículo 32,"$2,602.00",Spotify,Supermercado,480
+1001,Tarjeta de débito,Starbucks 962,06/21/2024,09:28:03,Artículo 39,"$4,207.00",Starbucks,Alimentos y bebidas,736
+9980,Tarjeta de crédito,Soriana 332,06/13/2024,07:43:59,Artículo 47,"$2,290.00",Soriana,Electronics,501
+1234,Tarjeta de crédito,Chedraui 926,07/02/2024,08:58:54,Artículo 38,"$8,949.00",Chedraui,Electronics,571
+5231,Tarjeta de débito,Oxxo 331,06/08/2024,23:55:05,Artículo 30,"$9,906.00",Oxxo,Tecnología,406
+2002,Tarjeta de débito,Banorte 379,06/29/2024,15:38:53,Artículo 10,"$5,536.00",Banorte,Tecnología,389
+5231,Tarjeta de crédito,Soriana 652,06/28/2024,05:14:25,Artículo 16,"$9,109.00",Soriana,Entretenimiento,406
+5432,Tarjeta de débito,Uber Eats 843,06/26/2024,15:58:14,Artículo 49,"$3,142.00",Uber Eats,Alimentos y bebidas,737
+8765,Tarjeta de crédito,Banorte 741,06/14/2024,15:25:42,Artículo 48,"$2,356.00",Banorte,Comida a domicilio,480
+5231,Fondos de Inversión,NA,06/24/2024,21:28:07,NA,"$5,017.00",Banorte,Sector Financiero,406
+9876,Tarjeta de débito,Amazon 759,06/25/2024,23:19:23,Artículo 27,"$5,530.00",Amazon,Alimentos y bebidas,591
+5231,Tarjeta de débito,Banorte 58,06/18/2024,05:37:15,Artículo 46,"$8,175.00",Banorte,Retail,406
+7555,Afore,NA,06/20/2024,17:12:44,NA,"$9,681.00",Banorte,Sector Financiero,659
+9980,Fondos de Inversión,NA,06/19/2024,05:03:24,NA,"$1,069.00",Banorte,Sector Financiero,501
+9980,Fondos de Inversión,NA,06/23/2024,12:25:57,NA,"$2,730.00",Banorte,Sector Financiero,501
+1234,Afore,NA,06/25/2024,11:14:45,NA,"$1,982.00",Banorte,Sector Financiero,571
+8765,Tarjeta de crédito,Banorte 200,06/15/2024,17:34:16,Artículo 45,"$3,379.00",Banorte,Clothing,480
+9876,Afore,NA,06/20/2024,16:12:15,NA,"$6,090.00",Banorte,Sector Financiero,591
+5432,Afore,NA,06/15/2024,21:10:31,NA,"$2,300.00",Banorte,Sector Financiero,737
+5432,Afore,NA,06/25/2024,05:35:02,NA,"$5,009.00",Banorte,Sector Financiero,737
+2002,Afore,NA,06/08/2024,19:02:03,NA,"$4,556.00",Banorte,Sector Financiero,389
+5231,Tarjeta de débito,El Palacio de Hierro 99,06/15/2024,03:02:42,Artículo 33,"$4,740.00",El Palacio de Hierro,Comida a domicilio,406
+6478,Afore,NA,07/04/2024,07:08:21,NA,"$8,389.00",Banorte,Sector Financiero,611
+9876,Fondos de Inversión,NA,06/07/2024,19:00:24,NA,"$6,406.00",Banorte,Sector Financiero,591
+7555,Fondos de Inversión,NA,06/08/2024,14:55:36,NA,"$4,380.00",Banorte,Sector Financiero,659
+9876,Fondos de Inversión,NA,06/23/2024,18:19:18,NA,"$6,991.00",Banorte,Sector Financiero,591
+7555,Afore,NA,06/12/2024,12:07:59,NA,"$5,015.00",Banorte,Sector Financiero,659
+6478,Tarjeta de débito,Liverpool 960,06/17/2024,22:29:34,Artículo 22,"$8,200.00",Liverpool,Supermercado,611
+7555,Afore,NA,06/27/2024,01:00:50,NA,"$6,519.00",Banorte,Sector Financiero,659
+5231,Tarjeta de crédito,Spotify 994,06/26/2024,05:12:38,Artículo 9,"$9,577.00",Spotify,Tecnología,406
+9876,Fondos de Inversión,NA,06/04/2024,11:21:43,NA,"$7,616.00",Banorte,Sector Financiero,591
+2002,Fondos de Inversión,NA,06/19/2024,23:56:20,NA,"$3,663.00",Banorte,Sector Financiero,389
+5432,Afore,NA,06/10/2024,10:44:07,NA,"$1,310.00",Banorte,Sector Financiero,737
+8765,Tarjeta de crédito,El Palacio de Hierro 8,06/13/2024,07:12:48,Artículo 29,"$5,286.00",El Palacio de Hierro,E-commerce,480
+5231,Tarjeta de débito,Amazon 941,06/16/2024,14:37:04,Artículo 3,"$8,532.00",Amazon,Electronics,406
+7555,Fondos de Inversión,NA,06/18/2024,23:00:03,NA,"$8,526.00",Banorte,Sector Financiero,659
+2002,Tarjeta de crédito,Mercado Libre 848,06/29/2024,02:48:06,Artículo 47,"$6,561.00",Mercado Libre,Alimentos y bebidas,389
+1001,Tarjeta de débito,Banorte 581,07/04/2024,08:39:14,Artículo 44,"$5,277.00",Banorte,Entretenimiento,736
+2002,Afore,NA,06/30/2024,05:54:28,NA,"$8,871.00",Banorte,Sector Financiero,389
+5432,Fondos de Inversión,NA,06/17/2024,23:33:37,NA,"$9,535.00",Banorte,Sector Financiero,737
+5432,Tarjeta de débito,Liverpool 665,06/26/2024,09:08:24,Artículo 18,"$8,263.00",Liverpool,Retail,737
+2002,Afore,NA,06/19/2024,16:36:13,NA,"$6,741.00",Banorte,Sector Financiero,389
+2002,Afore,NA,07/04/2024,00:52:49,NA,"$6,623.00",Banorte,Sector Financiero,389
+8765,Afore,NA,07/04/2024,09:04:51,NA,"$6,695.00",Banorte,Sector Financiero,480
+1001,Fondos de Inversión,NA,07/04/2024,18:32:55,NA,"$1,923.00",Banorte,Sector Financiero,736
+1234,Tarjeta de débito,Amazon 232,07/01/2024,03:00:32,Artículo 24,$957.00,Amazon,Tecnología,571
+7555,Afore,NA,06/24/2024,05:26:14,NA,"$2,851.00",Banorte,Sector Financiero,659
+7555,Fondos de Inversión,NA,06/25/2024,18:29:40,NA,"$4,889.00",Banorte,Sector Financiero,659
+7555,Tarjeta de crédito,El Palacio de Hierro 284,06/11/2024,18:31:55,Artículo 32,"$8,939.00",El Palacio de Hierro,Retail,659
+2002,Tarjeta de crédito,Walmart 318,06/05/2024,16:04:24,Artículo 50,"$5,540.00",Walmart,Supermercado,389
+6478,Tarjeta de débito,Oxxo 394,07/02/2024,11:57:40,Artículo 29,"$6,202.00",Oxxo,Clothing,611
+1001,Fondos de Inversión,NA,06/08/2024,19:41:47,NA,"$2,828.00",Banorte,Sector Financiero,736
+7555,Tarjeta de crédito,Walmart 31,06/09/2024,19:42:14,Artículo 36,"$5,161.00",Walmart,Supermercado,659
+8765,Tarjeta de débito,El Palacio de Hierro 770,07/01/2024,22:11:48,Artículo 37,"$6,294.00",El Palacio de Hierro,Electronics,480
+8765,Afore,NA,06/20/2024,02:35:43,NA,"$5,513.00",Banorte,Sector Financiero,480
+6478,Afore,NA,06/27/2024,12:47:37,NA,"$6,562.00",Banorte,Sector Financiero,611
+1234,Tarjeta de débito,iShop 150,06/19/2024,17:49:56,Artículo 4,"$2,453.00",iShop,Comida a domicilio,571
+8765,Fondos de Inversión,NA,06/11/2024,23:11:07,NA,"$3,675.00",Banorte,Sector Financiero,480
+6478,Afore,NA,06/06/2024,02:21:18,NA,"$8,955.00",Banorte,Sector Financiero,611
+5231,Tarjeta de crédito,Walmart 717,06/06/2024,19:11:59,Artículo 3,"$1,144.00",Walmart,Clothing,406
+8765,Tarjeta de débito,iShop 472,07/01/2024,17:20:03,Artículo 46,"$6,822.00",iShop,E-commerce,480
+5432,Fondos de Inversión,NA,07/02/2024,23:01:18,NA,"$4,886.00",Banorte,Sector Financiero,737
+2002,Afore,NA,06/16/2024,02:14:06,NA,"$4,419.00",Banorte,Sector Financiero,389
+1234,Tarjeta de débito,Cinemex 984,06/22/2024,19:29:12,Artículo 19,"$3,382.00",Cinemex,Supermercado,571
+8765,Tarjeta de crédito,Liverpool 198,06/11/2024,12:12:01,Artículo 39,"$6,595.00",Liverpool,Clothing,480
+5432,Afore,NA,06/15/2024,18:12:36,NA,"$4,843.00",Banorte,Sector Financiero,737
+6478,Tarjeta de crédito,Cinemex 157,07/02/2024,12:04:01,Artículo 47,$127.00,Cinemex,E-commerce,611
+2002,Tarjeta de débito,Soriana 225,06/06/2024,07:00:51,Artículo 11,$503.00,Soriana,Restaurant,389
+2002,Fondos de Inversión,NA,06/16/2024,15:05:46,NA,"$5,803.00",Banorte,Sector Financiero,389
+9980,Fondos de Inversión,NA,06/24/2024,19:57:37,NA,"$5,058.00",Banorte,Sector Financiero,501
+5432,Fondos de Inversión,NA,06/10/2024,13:40:00,NA,"$1,685.00",Banorte,Sector Financiero,737
+1001,Fondos de Inversión,NA,06/20/2024,10:16:40,NA,"$5,911.00",Banorte,Sector Financiero,736
+5432,Afore,NA,06/15/2024,02:59:11,NA,"$8,111.00",Banorte,Sector Financiero,737
+1001,Afore,NA,06/23/2024,20:30:36,NA,"$6,418.00",Banorte,Sector Financiero,736
+6478,Tarjeta de débito,Sanborns 675,06/13/2024,04:53:41,Artículo 38,"$5,937.00",Sanborns,Restaurant,611
+1001,Tarjeta de débito,Spotify 577,06/06/2024,21:56:40,Artículo 31,"$1,659.00",Spotify,Supermercado,736
+5432,Tarjeta de crédito,El Palacio de Hierro 287,06/26/2024,19:55:31,Artículo 50,"$8,958.00",El Palacio de Hierro,Restaurant,737
+6478,Afore,NA,06/17/2024,03:30:03,NA,"$5,331.00",Banorte,Sector Financiero,611
+8765,Tarjeta de débito,El Palacio de Hierro 422,06/05/2024,01:13:39,Artículo 39,"$5,191.00",El Palacio de Hierro,Comida a domicilio,480
+6478,Afore,NA,06/19/2024,20:25:56,NA,"$3,006.00",Banorte,Sector Financiero,611
+5231,Tarjeta de débito,Sanborns 771,06/21/2024,03:35:26,Artículo 44,"$7,986.00",Sanborns,E-commerce,406
+5231,Tarjeta de débito,Spotify 339,06/11/2024,10:00:12,Artículo 2,"$1,895.00",Spotify,Clothing,406
+5231,Fondos de Inversión,NA,06/14/2024,06:58:27,NA,$891.00,Banorte,Sector Financiero,406
+5432,Tarjeta de crédito,iShop 436,06/26/2024,01:56:55,Artículo 45,"$8,380.00",iShop,Clothing,737
+1001,Tarjeta de crédito,Oxxo 412,06/15/2024,02:10:05,Artículo 33,"$4,749.00",Oxxo,Clothing,736
+9980,Tarjeta de débito,Uber Eats 139,07/02/2024,01:55:12,Artículo 35,"$2,197.00",Uber Eats,Restaurant,501
+1234,Tarjeta de crédito,Starbucks 96,06/20/2024,00:22:28,Artículo 19,"$2,813.00",Starbucks,Clothing,571
+9980,Tarjeta de débito,Cinemex 331,06/28/2024,15:56:04,Artículo 17,"$5,512.00",Cinemex,Restaurant,501
+1234,Tarjeta de débito,Soriana 862,06/21/2024,14:50:48,Artículo 9,"$6,490.00",Soriana,E-commerce,571
+1001,Tarjeta de crédito,Amazon 700,07/04/2024,23:19:25,Artículo 20,"$8,845.00",Amazon,Restaurant,736
+7555,Afore,NA,06/26/2024,13:18:32,NA,"$9,798.00",Banorte,Sector Financiero,659
+5432,Tarjeta de crédito,Starbucks 183,06/22/2024,00:30:05,Artículo 11,"$9,872.00",Starbucks,Retail,737
+2002,Tarjeta de crédito,Spotify 901,06/09/2024,04:33:03,Artículo 42,"$6,194.00",Spotify,E-commerce,389
+5432,Tarjeta de crédito,Sanborns 844,06/29/2024,16:05:47,Artículo 18,"$5,420.00",Sanborns,Supermercado,737
+5231,Fondos de Inversión,NA,06/23/2024,04:15:55,NA,"$7,118.00",Banorte,Sector Financiero,406
+1234,Fondos de Inversión,NA,06/17/2024,09:00:22,NA,"$2,503.00",Banorte,Sector Financiero,571
+8765,Tarjeta de crédito,Amazon 668,07/01/2024,04:34:56,Artículo 48,$113.00,Amazon,E-commerce,480
+8765,Afore,NA,06/15/2024,15:23:02,NA,"$6,207.00",Banorte,Sector Financiero,480
+1234,Afore,NA,06/07/2024,02:03:43,NA,"$2,333.00",Banorte,Sector Financiero,571
+8765,Tarjeta de débito,Banorte 85,06/09/2024,12:11:41,Artículo 6,"$8,040.00",Banorte,Retail,480
+1001,Fondos de Inversión,NA,06/29/2024,17:53:47,NA,"$5,029.00",Banorte,Sector Financiero,736
+5432,Afore,NA,06/11/2024,04:24:07,NA,"$7,417.00",Banorte,Sector Financiero,737
+6478,Tarjeta de crédito,Chedraui 150,06/04/2024,09:00:18,Artículo 19,"$7,377.00",Chedraui,Restaurant,611
+7555,Tarjeta de débito,Uber Eats 995,07/04/2024,08:23:11,Artículo 26,"$6,614.00",Uber Eats,Tecnología,659
+1001,Afore,NA,06/09/2024,12:00:01,NA,"$8,617.00",Banorte,Sector Financiero,736
+9876,Tarjeta de débito,Walmart 494,06/11/2024,08:39:25,Artículo 16,"$1,878.00",Walmart,Electronics,591
+1234,Fondos de Inversión,NA,06/12/2024,03:29:53,NA,"$5,584.00",Banorte,Sector Financiero,571
+7555,Tarjeta de crédito,El Palacio de Hierro 615,06/17/2024,14:38:45,Artículo 41,"$3,024.00",El Palacio de Hierro,Clothing,659
+6478,Tarjeta de crédito,Walmart 775,06/04/2024,00:46:32,Artículo 32,"$8,510.00",Walmart,Supermercado,611
+1234,Tarjeta de crédito,Liverpool 780,06/06/2024,08:49:13,Artículo 45,"$2,481.00",Liverpool,E-commerce,571
+7555,Fondos de Inversión,NA,06/25/2024,15:30:37,NA,"$1,689.00",Banorte,Sector Financiero,659
+1234,Fondos de Inversión,NA,06/19/2024,09:59:04,NA,"$1,721.00",Banorte,Sector Financiero,571
+2002,Tarjeta de débito,Liverpool 411,06/16/2024,08:32:14,Artículo 2,"$2,518.00",Liverpool,Electronics,389
+9876,Tarjeta de débito,Oxxo 822,06/23/2024,05:40:32,Artículo 27,"$1,483.00",Oxxo,Entretenimiento,591
+5432,Afore,NA,06/29/2024,07:06:47,NA,$104.00,Banorte,Sector Financiero,737
+5231,Tarjeta de débito,Spotify 957,06/27/2024,00:03:20,Artículo 26,"$2,509.00",Spotify,Restaurant,406
+9876,Tarjeta de crédito,Oxxo 291,06/30/2024,02:16:23,Artículo 1,"$5,065.00",Oxxo,Comida a domicilio,591
+5432,Fondos de Inversión,NA,06/18/2024,07:15:14,NA,"$8,361.00",Banorte,Sector Financiero,737
+7555,Fondos de Inversión,NA,06/18/2024,13:21:10,NA,"$5,166.00",Banorte,Sector Financiero,659
+9876,Fondos de Inversión,NA,07/03/2024,05:54:41,NA,"$6,428.00",Banorte,Sector Financiero,591
+9876,Tarjeta de débito,Walmart 161,06/10/2024,13:47:17,Artículo 18,"$6,254.00",Walmart,Clothing,591
+7555,Afore,NA,06/20/2024,11:24:27,NA,"$2,604.00",Banorte,Sector Financiero,659
+8765,Fondos de Inversión,NA,06/10/2024,12:34:32,NA,$910.00,Banorte,Sector Financiero,480
+8765,Tarjeta de crédito,Soriana 742,06/16/2024,09:08:56,Artículo 20,"$5,116.00",Soriana,Retail,480
+5432,Tarjeta de débito,Mercado Libre 865,06/16/2024,18:15:35,Artículo 43,"$9,193.00",Mercado Libre,Clothing,737
+9980,Tarjeta de crédito,iShop 583,06/07/2024,12:20:42,Artículo 23,"$6,159.00",iShop,Alimentos y bebidas,501
+7555,Tarjeta de débito,Oxxo 370,06/18/2024,05:08:48,Artículo 20,"$2,736.00",Oxxo,Retail,659
+9876,Tarjeta de débito,Chedraui 504,06/19/2024,11:43:21,Artículo 43,"$6,846.00",Chedraui,Electronics,591
+5432,Tarjeta de crédito,Walmart 661,06/20/2024,13:49:50,Artículo 7,"$1,155.00",Walmart,Clothing,737
+2002,Tarjeta de crédito,Mercado Libre 835,06/17/2024,09:12:54,Artículo 23,"$2,409.00",Mercado Libre,Tecnología,389
+5231,Fondos de Inversión,NA,06/22/2024,16:18:32,NA,"$3,608.00",Banorte,Sector Financiero,406
+5231,Tarjeta de crédito,Mercado Libre 422,06/17/2024,05:04:30,Artículo 34,"$3,650.00",Mercado Libre,E-commerce,406
+5231,Fondos de Inversión,NA,06/11/2024,17:21:40,NA,"$2,705.00",Banorte,Sector Financiero,406
+9980,Fondos de Inversión,NA,06/11/2024,00:32:38,NA,"$5,635.00",Banorte,Sector Financiero,501
+1234,Tarjeta de débito,Amazon 367,06/23/2024,21:25:13,Artículo 2,"$7,472.00",Amazon,Comida a domicilio,571
+8765,Afore,NA,06/23/2024,01:06:37,NA,"$6,289.00",Banorte,Sector Financiero,480
+7555,Afore,NA,06/26/2024,00:17:13,NA,"$6,123.00",Banorte,Sector Financiero,659
+2002,Tarjeta de crédito,Walmart 20,06/06/2024,08:15:35,Artículo 12,"$5,312.00",Walmart,Alimentos y bebidas,389
+1234,Afore,NA,06/24/2024,04:35:56,NA,"$4,957.00",Banorte,Sector Financiero,571
+1001,Afore,NA,06/25/2024,06:36:19,NA,"$9,257.00",Banorte,Sector Financiero,736
+1234,Tarjeta de crédito,Soriana 386,06/13/2024,21:11:36,Artículo 17,"$9,878.00",Soriana,Clothing,571
+9980,Afore,NA,07/01/2024,18:29:49,NA,"$5,518.00",Banorte,Sector Financiero,501
+1001,Afore,NA,06/04/2024,18:31:37,NA,$332.00,Banorte,Sector Financiero,736
+6478,Afore,NA,06/20/2024,15:21:52,NA,"$5,229.00",Banorte,Sector Financiero,611
+1234,Tarjeta de débito,Uber Eats 1000,07/02/2024,03:08:15,Artículo 35,"$9,674.00",Uber Eats,Alimentos y bebidas,571
+1234,Afore,NA,06/16/2024,13:58:12,NA,"$8,729.00",Banorte,Sector Financiero,571
+2002,Afore,NA,06/15/2024,06:08:38,NA,"$9,401.00",Banorte,Sector Financiero,389
+8765,Tarjeta de crédito,Soriana 56,06/17/2024,04:40:19,Artículo 3,"$7,724.00",Soriana,Retail,480
+5231,Tarjeta de crédito,iShop 299,06/19/2024,02:20:38,Artículo 39,$175.00,iShop,Entretenimiento,406
+6478,Afore,NA,06/30/2024,04:13:23,NA,$484.00,Banorte,Sector Financiero,611
+5231,Tarjeta de débito,Cinemex 425,06/26/2024,13:52:24,Artículo 2,$587.00,Cinemex,Clothing,406
+9876,Tarjeta de débito,Spotify 881,07/01/2024,01:37:26,Artículo 32,"$2,668.00",Spotify,Comida a domicilio,591
+1234,Fondos de Inversión,NA,06/26/2024,08:45:49,NA,"$4,497.00",Banorte,Sector Financiero,571
+9876,Afore,NA,06/26/2024,07:38:53,NA,"$7,661.00",Banorte,Sector Financiero,591
+7555,Tarjeta de crédito,Sanborns 553,06/21/2024,07:37:49,Artículo 22,"$2,557.00",Sanborns,Retail,659
+5231,Tarjeta de débito,Soriana 265,07/02/2024,08:15:14,Artículo 28,"$7,185.00",Soriana,Entretenimiento,406
+7555,Tarjeta de crédito,Uber Eats 967,06/09/2024,04:39:09,Artículo 9,$31.00,Uber Eats,Restaurant,659
+5231,Tarjeta de débito,Uber Eats 391,06/22/2024,22:06:04,Artículo 5,"$5,979.00",Uber Eats,Comida a domicilio,406
+2002,Fondos de Inversión,NA,06/30/2024,01:54:58,NA,$563.00,Banorte,Sector Financiero,389
+9876,Fondos de Inversión,NA,07/03/2024,15:32:21,NA,"$9,721.00",Banorte,Sector Financiero,591
+6478,Tarjeta de débito,Uber Eats 603,07/01/2024,17:09:21,Artículo 23,"$7,247.00",Uber Eats,Supermercado,611
+5432,Tarjeta de débito,Banorte 566,06/19/2024,05:31:23,Artículo 17,"$6,888.00",Banorte,Clothing,737
+9980,Fondos de Inversión,NA,06/16/2024,05:31:30,NA,"$4,267.00",Banorte,Sector Financiero,501
+1234,Tarjeta de débito,Amazon 34,06/19/2024,21:14:13,Artículo 37,"$6,108.00",Amazon,Supermercado,571
+2002,Tarjeta de débito,Uber Eats 804,06/16/2024,02:49:19,Artículo 16,$525.00,Uber Eats,Comida a domicilio,389
+1001,Afore,NA,06/10/2024,12:56:14,NA,"$8,762.00",Banorte,Sector Financiero,736
+9980,Tarjeta de débito,Walmart 500,06/07/2024,03:35:02,Artículo 47,"$3,548.00",Walmart,Supermercado,501
+1234,Tarjeta de débito,Spotify 755,06/24/2024,18:30:39,Artículo 2,"$5,826.00",Spotify,Electronics,571
+9876,Afore,NA,06/23/2024,03:38:21,NA,"$8,378.00",Banorte,Sector Financiero,591
+8765,Tarjeta de débito,Walmart 800,06/30/2024,03:43:31,Artículo 28,"$7,686.00",Walmart,E-commerce,480
+2002,Afore,NA,06/16/2024,15:08:13,NA,"$1,515.00",Banorte,Sector Financiero,389
+9980,Afore,NA,07/03/2024,22:00:50,NA,"$2,340.00",Banorte,Sector Financiero,501
+5231,Fondos de Inversión,NA,06/17/2024,14:45:36,NA,"$7,138.00",Banorte,Sector Financiero,406
+1001,Fondos de Inversión,NA,06/25/2024,19:40:21,NA,"$3,515.00",Banorte,Sector Financiero,736
+1001,Afore,NA,06/24/2024,17:05:59,NA,"$1,251.00",Banorte,Sector Financiero,736
+5231,Fondos de Inversión,NA,06/22/2024,02:05:28,NA,$780.00,Banorte,Sector Financiero,406
+8765,Fondos de Inversión,NA,06/25/2024,10:22:45,NA,$100.00,Banorte,Sector Financiero,480
+5231,Fondos de Inversión,NA,06/24/2024,21:33:03,NA,$83.00,Banorte,Sector Financiero,406
+1234,Tarjeta de crédito,Oxxo 356,06/12/2024,00:21:56,Artículo 31,"$9,309.00",Oxxo,Alimentos y bebidas,571
+1234,Tarjeta de débito,Walmart 419,06/08/2024,13:31:32,Artículo 47,"$5,037.00",Walmart,Electronics,571
+2002,Afore,NA,06/20/2024,16:59:36,NA,"$1,061.00",Banorte,Sector Financiero,389
+9980,Afore,NA,06/18/2024,17:13:09,NA,"$1,533.00",Banorte,Sector Financiero,501
+1234,Fondos de Inversión,NA,06/24/2024,14:05:14,NA,"$6,139.00",Banorte,Sector Financiero,571
+6478,Afore,NA,06/10/2024,02:04:35,NA,$691.00,Banorte,Sector Financiero,611
+7555,Fondos de Inversión,NA,06/28/2024,16:22:06,NA,"$3,869.00",Banorte,Sector Financiero,659
+7555,Fondos de Inversión,NA,06/07/2024,08:02:22,NA,"$6,230.00",Banorte,Sector Financiero,659
+1001,Fondos de Inversión,NA,06/11/2024,12:34:30,NA,"$1,130.00",Banorte,Sector Financiero,736
+2002,Fondos de Inversión,NA,06/04/2024,05:47:44,NA,$173.00,Banorte,Sector Financiero,389
+8765,Tarjeta de crédito,Mercado Libre 945,07/02/2024,21:49:00,Artículo 38,"$6,269.00",Mercado Libre,Electronics,480
+2002,Afore,NA,07/02/2024,01:16:31,NA,"$6,597.00",Banorte,Sector Financiero,389
+9980,Afore,NA,06/24/2024,10:01:01,NA,"$9,594.00",Banorte,Sector Financiero,501
+1234,Tarjeta de débito,El Palacio de Hierro 580,07/03/2024,14:20:56,Artículo 19,"$7,569.00",El Palacio de Hierro,Retail,571
+1001,Afore,NA,06/15/2024,20:19:07,NA,"$5,357.00",Banorte,Sector Financiero,736
+2002,Fondos de Inversión,NA,06/30/2024,18:33:37,NA,"$1,736.00",Banorte,Sector Financiero,389
+5231,Tarjeta de crédito,El Palacio de Hierro 858,06/29/2024,06:16:23,Artículo 50,"$1,873.00",El Palacio de Hierro,Clothing,406
+1234,Tarjeta de débito,El Palacio de Hierro 952,07/03/2024,18:43:51,Artículo 8,"$9,436.00",El Palacio de Hierro,Tecnología,571
+5231,Tarjeta de crédito,Starbucks 859,06/24/2024,16:12:56,Artículo 45,"$8,759.00",Starbucks,Retail,406
+1001,Tarjeta de débito,Liverpool 20,06/10/2024,12:27:41,Artículo 15,"$5,157.00",Liverpool,Comida a domicilio,736
+9980,Tarjeta de débito,Spotify 730,06/10/2024,01:38:17,Artículo 25,"$2,316.00",Spotify,Supermercado,501
+5231,Tarjeta de crédito,Uber Eats 479,06/10/2024,10:38:23,Artículo 23,"$7,249.00",Uber Eats,Supermercado,406
+5432,Afore,NA,06/25/2024,02:33:07,NA,"$2,227.00",Banorte,Sector Financiero,737
+5231,Tarjeta de crédito,Mercado Libre 418,06/13/2024,13:25:38,Artículo 24,"$2,163.00",Mercado Libre,Alimentos y bebidas,406
+2002,Fondos de Inversión,NA,06/21/2024,22:57:56,NA,$381.00,Banorte,Sector Financiero,389
+9876,Tarjeta de crédito,Walmart 609,06/25/2024,08:08:37,Artículo 7,"$5,274.00",Walmart,Entretenimiento,591
+8765,Tarjeta de crédito,Walmart 733,06/20/2024,17:15:56,Artículo 22,"$3,740.00",Walmart,E-commerce,480
+1001,Fondos de Inversión,NA,06/11/2024,00:13:24,NA,"$8,706.00",Banorte,Sector Financiero,736
+1234,Afore,NA,06/12/2024,00:33:59,NA,"$5,295.00",Banorte,Sector Financiero,571
+8765,Tarjeta de débito,Mercado Libre 588,06/18/2024,21:33:00,Artículo 50,"$3,888.00",Mercado Libre,Retail,480
+6478,Tarjeta de débito,Chedraui 124,06/07/2024,10:23:38,Artículo 6,$785.00,Chedraui,Entretenimiento,611
+6478,Fondos de Inversión,NA,06/27/2024,22:52:49,NA,"$5,521.00",Banorte,Sector Financiero,611
+9980,Fondos de Inversión,NA,06/22/2024,02:52:04,NA,"$9,906.00",Banorte,Sector Financiero,501
+8765,Afore,NA,06/25/2024,11:27:38,NA,"$3,996.00",Banorte,Sector Financiero,480
+8765,Fondos de Inversión,NA,07/02/2024,22:53:16,NA,"$3,022.00",Banorte,Sector Financiero,480
+1234,Afore,NA,06/05/2024,09:52:06,NA,"$3,126.00",Banorte,Sector Financiero,571
+8765,Tarjeta de crédito,Liverpool 195,06/06/2024,04:24:28,Artículo 47,"$8,754.00",Liverpool,Retail,480
+1234,Fondos de Inversión,NA,06/08/2024,12:51:58,NA,"$4,097.00",Banorte,Sector Financiero,571
+1001,Fondos de Inversión,NA,06/18/2024,03:31:22,NA,"$8,865.00",Banorte,Sector Financiero,736
+5432,Afore,NA,06/08/2024,05:13:41,NA,"$8,285.00",Banorte,Sector Financiero,737
+5432,Fondos de Inversión,NA,07/04/2024,21:08:34,NA,"$5,886.00",Banorte,Sector Financiero,737
+8765,Tarjeta de crédito,Sanborns 999,06/04/2024,23:47:51,Artículo 46,"$3,319.00",Sanborns,Comida a domicilio,480
+9980,Fondos de Inversión,NA,06/24/2024,04:57:36,NA,"$4,453.00",Banorte,Sector Financiero,501
+1001,Fondos de Inversión,NA,06/11/2024,10:17:27,NA,"$8,934.00",Banorte,Sector Financiero,736
+1001,Tarjeta de crédito,El Palacio de Hierro 665,06/20/2024,07:42:15,Artículo 41,"$5,386.00",El Palacio de Hierro,Alimentos y bebidas,736
+9876,Tarjeta de débito,Spotify 66,07/03/2024,18:04:25,Artículo 30,$501.00,Spotify,Comida a domicilio,591
+5432,Fondos de Inversión,NA,07/04/2024,03:37:03,NA,"$2,561.00",Banorte,Sector Financiero,737
+2002,Tarjeta de débito,Walmart 372,06/23/2024,07:10:40,Artículo 23,"$3,361.00",Walmart,Restaurant,389
+1234,Afore,NA,06/13/2024,03:13:00,NA,"$3,967.00",Banorte,Sector Financiero,571
+9980,Fondos de Inversión,NA,07/04/2024,15:20:50,NA,"$5,730.00",Banorte,Sector Financiero,501
+6478,Tarjeta de crédito,iShop 193,06/10/2024,19:41:47,Artículo 16,"$5,909.00",iShop,Restaurant,611
+1234,Tarjeta de débito,Sanborns 9,06/07/2024,04:17:53,Artículo 41,"$8,847.00",Sanborns,Tecnología,571
+5231,Tarjeta de débito,Chedraui 228,06/13/2024,21:59:52,Artículo 30,"$3,361.00",Chedraui,Entretenimiento,406
+5432,Afore,NA,06/04/2024,12:30:21,NA,"$9,159.00",Banorte,Sector Financiero,737
+7555,Tarjeta de débito,Walmart 982,06/23/2024,23:18:30,Artículo 11,"$5,190.00",Walmart,Electronics,659
+7555,Afore,NA,06/29/2024,05:33:30,NA,"$7,921.00",Banorte,Sector Financiero,659
+8765,Tarjeta de crédito,Walmart 682,06/26/2024,11:26:46,Artículo 11,"$9,361.00",Walmart,Tecnología,480
+6478,Tarjeta de crédito,Starbucks 346,06/20/2024,16:37:13,Artículo 26,"$9,183.00",Starbucks,E-commerce,611
+1234,Tarjeta de crédito,Banorte 372,07/03/2024,11:03:49,Artículo 35,"$4,723.00",Banorte,Tecnología,571
+2002,Tarjeta de débito,iShop 988,06/07/2024,03:12:19,Artículo 35,"$9,907.00",iShop,Clothing,389
+5432,Tarjeta de crédito,Mercado Libre 288,06/21/2024,03:51:09,Artículo 16,"$1,871.00",Mercado Libre,Electronics,737
+1001,Tarjeta de crédito,iShop 772,06/12/2024,04:34:14,Artículo 12,"$5,249.00",iShop,Alimentos y bebidas,736
+9876,Tarjeta de crédito,Oxxo 48,06/19/2024,00:19:01,Artículo 13,"$7,904.00",Oxxo,Comida a domicilio,591
+9980,Fondos de Inversión,NA,06/14/2024,18:32:34,NA,"$5,108.00",Banorte,Sector Financiero,501
+1234,Tarjeta de crédito,Uber Eats 305,06/13/2024,04:31:02,Artículo 45,$713.00,Uber Eats,Entretenimiento,571
+7555,Tarjeta de débito,Mercado Libre 166,06/17/2024,19:53:02,Artículo 39,"$7,945.00",Mercado Libre,Supermercado,659
+8765,Tarjeta de crédito,Banorte 181,06/08/2024,23:54:09,Artículo 42,"$5,848.00",Banorte,Clothing,480
+1001,Afore,NA,07/03/2024,09:46:36,NA,"$2,636.00",Banorte,Sector Financiero,736
+8765,Fondos de Inversión,NA,06/04/2024,12:36:57,NA,"$6,072.00",Banorte,Sector Financiero,480
+1001,Afore,NA,06/22/2024,02:28:43,NA,"$5,557.00",Banorte,Sector Financiero,736
+2002,Tarjeta de débito,Walmart 240,06/09/2024,17:10:36,Artículo 35,"$2,290.00",Walmart,Alimentos y bebidas,389
+9980,Fondos de Inversión,NA,06/20/2024,00:51:33,NA,"$2,657.00",Banorte,Sector Financiero,501
+9876,Tarjeta de débito,Starbucks 8,06/07/2024,02:06:59,Artículo 44,"$7,706.00",Starbucks,Alimentos y bebidas,591
+5231,Afore,NA,06/22/2024,13:38:15,NA,"$6,148.00",Banorte,Sector Financiero,406
+2002,Tarjeta de crédito,Starbucks 153,06/23/2024,20:43:13,Artículo 27,"$9,831.00",Starbucks,Alimentos y bebidas,389
+9876,Tarjeta de crédito,Chedraui 433,06/13/2024,13:32:07,Artículo 41,"$7,311.00",Chedraui,Electronics,591
+8765,Afore,NA,06/25/2024,13:39:13,NA,"$4,490.00",Banorte,Sector Financiero,480
+6478,Afore,NA,07/03/2024,04:31:27,NA,"$3,633.00",Banorte,Sector Financiero,611
+8765,Fondos de Inversión,NA,06/07/2024,23:39:55,NA,"$1,078.00",Banorte,Sector Financiero,480
+7555,Tarjeta de crédito,Oxxo 521,06/20/2024,09:03:42,Artículo 17,"$6,565.00",Oxxo,Clothing,659
+5231,Afore,NA,06/07/2024,12:10:05,NA,$292.00,Banorte,Sector Financiero,406
+7555,Tarjeta de débito,Uber Eats 145,06/10/2024,17:51:43,Artículo 29,"$7,958.00",Uber Eats,Entretenimiento,659
+9980,Fondos de Inversión,NA,06/05/2024,14:21:24,NA,$397.00,Banorte,Sector Financiero,501
+9876,Fondos de Inversión,NA,06/11/2024,15:20:53,NA,$385.00,Banorte,Sector Financiero,591
+1001,Tarjeta de débito,Soriana 882,07/04/2024,02:14:12,Artículo 5,"$6,750.00",Soriana,Retail,736
+5432,Tarjeta de débito,Liverpool 528,06/30/2024,10:55:53,Artículo 31,$714.00,Liverpool,Retail,737
+2002,Fondos de Inversión,NA,06/12/2024,23:44:32,NA,"$8,423.00",Banorte,Sector Financiero,389
+2002,Tarjeta de crédito,Cinemex 900,06/04/2024,22:43:32,Artículo 32,"$5,407.00",Cinemex,Supermercado,389
+6478,Tarjeta de crédito,iShop 949,07/02/2024,11:09:19,Artículo 9,"$1,179.00",iShop,Clothing,611
+1001,Afore,NA,06/23/2024,20:44:09,NA,$440.00,Banorte,Sector Financiero,736
+5231,Afore,NA,06/06/2024,09:23:43,NA,"$3,432.00",Banorte,Sector Financiero,406
+9876,Fondos de Inversión,NA,06/22/2024,06:43:16,NA,"$9,546.00",Banorte,Sector Financiero,591
+7555,Fondos de Inversión,NA,06/05/2024,16:18:43,NA,"$5,028.00",Banorte,Sector Financiero,659
+2002,Tarjeta de débito,Chedraui 756,06/27/2024,07:59:25,Artículo 41,"$3,930.00",Chedraui,Electronics,389
+2002,Fondos de Inversión,NA,06/22/2024,04:50:23,NA,"$5,123.00",Banorte,Sector Financiero,389
+7555,Tarjeta de débito,Walmart 887,06/07/2024,01:03:24,Artículo 47,"$8,464.00",Walmart,Supermercado,659
+9980,Tarjeta de débito,Oxxo 25,06/07/2024,00:21:09,Artículo 39,"$2,321.00",Oxxo,Entretenimiento,501
+1001,Afore,NA,06/13/2024,02:22:04,NA,$449.00,Banorte,Sector Financiero,736
+2002,Tarjeta de crédito,Oxxo 786,06/04/2024,15:37:25,Artículo 46,"$4,402.00",Oxxo,Restaurant,389
+9980,Tarjeta de débito,Uber Eats 37,06/16/2024,09:31:45,Artículo 24,$389.00,Uber Eats,Alimentos y bebidas,501
+1001,Tarjeta de crédito,Soriana 832,06/11/2024,20:16:52,Artículo 31,"$4,496.00",Soriana,Entretenimiento,736
+9980,Tarjeta de débito,El Palacio de Hierro 835,06/18/2024,22:23:08,Artículo 36,"$7,635.00",El Palacio de Hierro,Alimentos y bebidas,501
+7555,Afore,NA,06/11/2024,14:44:39,NA,"$5,919.00",Banorte,Sector Financiero,659
+5231,Tarjeta de débito,Starbucks 518,06/28/2024,20:22:08,Artículo 44,"$6,893.00",Starbucks,Comida a domicilio,406
+9980,Tarjeta de crédito,Walmart 285,06/21/2024,18:26:49,Artículo 46,"$3,465.00",Walmart,Restaurant,501
+6478,Tarjeta de débito,Sanborns 982,06/24/2024,13:20:19,Artículo 39,"$1,717.00",Sanborns,Clothing,611
+6478,Fondos de Inversión,NA,06/08/2024,20:25:42,NA,"$6,490.00",Banorte,Sector Financiero,611
+5231,Afore,NA,06/13/2024,07:33:12,NA,"$7,543.00",Banorte,Sector Financiero,406
+8765,Tarjeta de crédito,Banorte 8,06/08/2024,15:21:54,Artículo 48,"$5,842.00",Banorte,Supermercado,480
+5432,Tarjeta de crédito,Sanborns 804,06/30/2024,19:41:25,Artículo 25,"$6,436.00",Sanborns,Retail,737
+2002,Tarjeta de crédito,Spotify 193,07/03/2024,05:42:38,Artículo 27,$261.00,Spotify,Clothing,389
+1001,Afore,NA,06/08/2024,07:07:17,NA,"$2,561.00",Banorte,Sector Financiero,736
+6478,Afore,NA,06/13/2024,14:30:39,NA,"$2,017.00",Banorte,Sector Financiero,611
+9980,Tarjeta de crédito,Banorte 518,07/03/2024,23:33:20,Artículo 24,"$4,130.00",Banorte,Entretenimiento,501
+2002,Tarjeta de crédito,Uber Eats 395,06/21/2024,10:17:57,Artículo 14,"$8,243.00",Uber Eats,E-commerce,389
+6478,Tarjeta de crédito,Oxxo 415,06/07/2024,23:36:18,Artículo 25,"$3,776.00",Oxxo,Comida a domicilio,611
+9876,Fondos de Inversión,NA,06/09/2024,06:17:57,NA,$844.00,Banorte,Sector Financiero,591
+1001,Fondos de Inversión,NA,06/22/2024,07:06:43,NA,"$9,640.00",Banorte,Sector Financiero,736
+7555,Fondos de Inversión,NA,07/04/2024,06:36:48,NA,"$9,212.00",Banorte,Sector Financiero,659
+9980,Tarjeta de débito,Uber Eats 834,06/07/2024,11:24:17,Artículo 12,"$7,445.00",Uber Eats,E-commerce,501
+9876,Tarjeta de crédito,Soriana 496,06/06/2024,05:18:18,Artículo 47,"$8,156.00",Soriana,Supermercado,591
+1001,Tarjeta de débito,Spotify 749,06/10/2024,02:38:29,Artículo 36,"$4,737.00",Spotify,Supermercado,736
+9980,Afore,NA,06/17/2024,12:24:43,NA,"$2,333.00",Banorte,Sector Financiero,501
+7555,Afore,NA,06/17/2024,03:33:20,NA,"$4,652.00",Banorte,Sector Financiero,659
+5432,Fondos de Inversión,NA,06/18/2024,20:47:42,NA,"$1,798.00",Banorte,Sector Financiero,737
+7555,Tarjeta de crédito,Chedraui 896,06/27/2024,11:00:14,Artículo 2,"$4,777.00",Chedraui,Entretenimiento,659
+5231,Tarjeta de débito,Soriana 907,06/20/2024,05:24:12,Artículo 11,"$7,005.00",Soriana,Restaurant,406
+8765,Fondos de Inversión,NA,06/22/2024,00:18:53,NA,"$9,769.00",Banorte,Sector Financiero,480
+8765,Tarjeta de débito,Mercado Libre 124,06/30/2024,01:19:14,Artículo 23,"$1,613.00",Mercado Libre,Tecnología,480
+7555,Afore,NA,06/27/2024,19:38:28,NA,"$3,690.00",Banorte,Sector Financiero,659
+2002,Tarjeta de crédito,Spotify 795,06/23/2024,09:40:14,Artículo 8,"$1,550.00",Spotify,Entretenimiento,389
+8765,Fondos de Inversión,NA,07/02/2024,14:22:58,NA,"$9,024.00",Banorte,Sector Financiero,480
+1234,Tarjeta de débito,Walmart 307,06/19/2024,16:41:08,Artículo 21,"$6,955.00",Walmart,Entretenimiento,571
+9980,Tarjeta de débito,Banorte 228,06/19/2024,21:29:56,Artículo 46,"$6,606.00",Banorte,Restaurant,501
+5231,Tarjeta de crédito,iShop 601,06/23/2024,11:45:53,Artículo 10,"$6,826.00",iShop,E-commerce,406
+1234,Tarjeta de débito,Amazon 53,06/30/2024,18:36:14,Artículo 38,"$5,179.00",Amazon,Clothing,571
+8765,Tarjeta de débito,Spotify 862,06/30/2024,23:00:33,Artículo 38,"$4,182.00",Spotify,Tecnología,480
+2002,Tarjeta de crédito,Cinemex 714,06/06/2024,04:42:50,Artículo 19,"$9,126.00",Cinemex,Restaurant,389
+6478,Tarjeta de crédito,El Palacio de Hierro 908,06/21/2024,14:10:55,Artículo 50,$21.00,El Palacio de Hierro,Comida a domicilio,611
+9876,Afore,NA,06/19/2024,16:23:06,NA,"$6,359.00",Banorte,Sector Financiero,591
+8765,Afore,NA,07/03/2024,03:23:32,NA,"$8,209.00",Banorte,Sector Financiero,480
+7555,Tarjeta de débito,Walmart 160,06/10/2024,16:27:18,Artículo 35,"$1,033.00",Walmart,Electronics,659
+1001,Tarjeta de crédito,Cinemex 425,06/13/2024,03:34:13,Artículo 6,"$5,642.00",Cinemex,Electronics,736
+9876,Fondos de Inversión,NA,07/02/2024,21:41:13,NA,"$8,023.00",Banorte,Sector Financiero,591
+8765,Afore,NA,06/25/2024,06:18:22,NA,"$4,560.00",Banorte,Sector Financiero,480
+8765,Afore,NA,07/04/2024,05:46:36,NA,"$4,206.00",Banorte,Sector Financiero,480
+5432,Tarjeta de crédito,Soriana 9,06/06/2024,08:46:53,Artículo 41,$34.00,Soriana,Restaurant,737
+9980,Tarjeta de débito,Banorte 385,07/04/2024,03:29:29,Artículo 39,$736.00,Banorte,Comida a domicilio,501
+1001,Tarjeta de débito,Uber Eats 858,06/18/2024,10:22:04,Artículo 15,"$1,469.00",Uber Eats,Electronics,736
+9980,Afore,NA,07/01/2024,11:12:19,NA,"$1,035.00",Banorte,Sector Financiero,501
+1001,Fondos de Inversión,NA,06/24/2024,02:37:39,NA,"$3,555.00",Banorte,Sector Financiero,736
+2002,Tarjeta de crédito,Amazon 946,06/27/2024,05:32:01,Artículo 28,"$5,609.00",Amazon,Supermercado,389
+5432,Tarjeta de crédito,Starbucks 74,06/13/2024,22:03:33,Artículo 34,"$3,288.00",Starbucks,Clothing,737
+7555,Fondos de Inversión,NA,07/01/2024,02:01:15,NA,"$5,688.00",Banorte,Sector Financiero,659
+1001,Fondos de Inversión,NA,06/16/2024,10:47:40,NA,"$4,989.00",Banorte,Sector Financiero,736
+1234,Tarjeta de débito,iShop 671,06/11/2024,21:24:17,Artículo 1,$204.00,iShop,Retail,571
+9980,Tarjeta de crédito,Spotify 83,06/27/2024,18:38:44,Artículo 29,"$2,479.00",Spotify,Electronics,501
+1234,Tarjeta de crédito,Cinemex 404,06/07/2024,11:16:48,Artículo 2,"$9,881.00",Cinemex,Restaurant,571
+6478,Fondos de Inversión,NA,06/18/2024,04:39:16,NA,"$6,996.00",Banorte,Sector Financiero,611
+9876,Afore,NA,06/25/2024,00:55:44,NA,"$1,415.00",Banorte,Sector Financiero,591
+5432,Tarjeta de crédito,Uber Eats 152,06/14/2024,08:18:44,Artículo 6,"$9,453.00",Uber Eats,E-commerce,737
+1234,Fondos de Inversión,NA,07/02/2024,13:04:29,NA,$302.00,Banorte,Sector Financiero,571
+6478,Tarjeta de crédito,Soriana 32,06/28/2024,08:45:51,Artículo 38,"$7,321.00",Soriana,Electronics,611
+9980,Tarjeta de crédito,Soriana 722,07/01/2024,19:49:33,Artículo 26,"$7,517.00",Soriana,Supermercado,501
+8765,Fondos de Inversión,NA,06/24/2024,12:16:46,NA,"$2,683.00",Banorte,Sector Financiero,480
+2002,Fondos de Inversión,NA,06/20/2024,13:11:59,NA,"$6,258.00",Banorte,Sector Financiero,389
+5432,Tarjeta de débito,Oxxo 741,06/21/2024,16:33:55,Artículo 29,"$2,410.00",Oxxo,Tecnología,737
+7555,Afore,NA,06/07/2024,03:13:33,NA,"$6,064.00",Banorte,Sector Financiero,659
+9876,Tarjeta de débito,El Palacio de Hierro 395,06/17/2024,07:02:20,Artículo 18,"$6,384.00",El Palacio de Hierro,Alimentos y bebidas,591
+5231,Afore,NA,06/25/2024,23:43:50,NA,"$2,035.00",Banorte,Sector Financiero,406
+9876,Afore,NA,06/04/2024,22:29:46,NA,"$5,304.00",Banorte,Sector Financiero,591
+6478,Fondos de Inversión,NA,06/19/2024,02:48:17,NA,"$7,447.00",Banorte,Sector Financiero,611
+1001,Afore,NA,06/08/2024,21:01:38,NA,"$3,769.00",Banorte,Sector Financiero,736
+8765,Afore,NA,06/08/2024,22:26:11,NA,"$1,753.00",Banorte,Sector Financiero,480
+5432,Fondos de Inversión,NA,07/02/2024,10:01:48,NA,"$4,870.00",Banorte,Sector Financiero,737
+7555,Afore,NA,07/01/2024,21:00:21,NA,"$1,839.00",Banorte,Sector Financiero,659
+1001,Fondos de Inversión,NA,06/19/2024,16:08:41,NA,"$8,432.00",Banorte,Sector Financiero,736
+1001,Tarjeta de débito,Banorte 561,06/27/2024,02:08:31,Artículo 26,"$4,977.00",Banorte,Electronics,736
+9980,Tarjeta de débito,Cinemex 660,06/09/2024,14:45:50,Artículo 19,"$3,855.00",Cinemex,E-commerce,501
+5432,Tarjeta de débito,Amazon 660,06/07/2024,06:10:44,Artículo 5,"$4,622.00",Amazon,E-commerce,737
+9980,Tarjeta de débito,Oxxo 454,06/24/2024,19:53:41,Artículo 50,"$7,681.00",Oxxo,Electronics,501
+9980,Afore,NA,06/10/2024,01:56:35,NA,"$3,087.00",Banorte,Sector Financiero,501
+9980,Tarjeta de débito,Starbucks 257,06/13/2024,08:15:31,Artículo 28,"$4,675.00",Starbucks,Clothing,501
+2002,Tarjeta de débito,Oxxo 492,06/19/2024,11:21:53,Artículo 6,$922.00,Oxxo,Tecnología,389
+9980,Afore,NA,06/09/2024,02:42:28,NA,"$3,252.00",Banorte,Sector Financiero,501
+2002,Afore,NA,06/30/2024,23:26:16,NA,"$3,724.00",Banorte,Sector Financiero,389
+7555,Afore,NA,06/11/2024,07:24:03,NA,"$5,998.00",Banorte,Sector Financiero,659
+9980,Fondos de Inversión,NA,07/01/2024,16:46:55,NA,"$5,187.00",Banorte,Sector Financiero,501
+9876,Fondos de Inversión,NA,06/26/2024,00:55:55,NA,"$3,370.00",Banorte,Sector Financiero,591
+6478,Tarjeta de crédito,Mercado Libre 858,06/10/2024,00:40:49,Artículo 14,"$3,192.00",Mercado Libre,Alimentos y bebidas,611
+9980,Fondos de Inversión,NA,07/03/2024,01:00:22,NA,"$6,786.00",Banorte,Sector Financiero,501
+9876,Fondos de Inversión,NA,06/29/2024,07:24:34,NA,"$9,535.00",Banorte,Sector Financiero,591
+7555,Fondos de Inversión,NA,06/26/2024,12:31:56,NA,"$7,265.00",Banorte,Sector Financiero,659
+5231,Fondos de Inversión,NA,06/30/2024,17:06:26,NA,"$3,041.00",Banorte,Sector Financiero,406
+9876,Tarjeta de débito,Banorte 340,06/18/2024,20:08:17,Artículo 33,"$9,257.00",Banorte,Entretenimiento,591
+8765,Tarjeta de crédito,Chedraui 238,06/13/2024,05:03:33,Artículo 47,"$8,210.00",Chedraui,E-commerce,480
+1234,Fondos de Inversión,NA,06/21/2024,10:40:14,NA,"$1,584.00",Banorte,Sector Financiero,571
+1234,Tarjeta de débito,Banorte 828,07/04/2024,13:03:44,Artículo 42,"$5,877.00",Banorte,E-commerce,571
+5432,Fondos de Inversión,NA,06/21/2024,05:26:47,NA,"$8,254.00",Banorte,Sector Financiero,737
+5432,Tarjeta de crédito,Chedraui 293,06/07/2024,08:37:27,Artículo 43,"$7,445.00",Chedraui,E-commerce,737
+5432,Afore,NA,06/21/2024,17:26:20,NA,$850.00,Banorte,Sector Financiero,737
+7555,Afore,NA,06/17/2024,09:08:52,NA,"$4,455.00",Banorte,Sector Financiero,659
+9876,Afore,NA,06/30/2024,05:15:32,NA,"$6,254.00",Banorte,Sector Financiero,591
+1234,Fondos de Inversión,NA,06/17/2024,03:49:53,NA,"$6,835.00",Banorte,Sector Financiero,571
+9876,Tarjeta de crédito,Walmart 762,07/01/2024,14:50:30,Artículo 27,"$5,942.00",Walmart,Tecnología,591
+9876,Afore,NA,06/22/2024,22:15:35,NA,"$4,898.00",Banorte,Sector Financiero,591
+9876,Tarjeta de débito,Sanborns 666,06/08/2024,07:11:19,Artículo 21,"$2,319.00",Sanborns,Retail,591
+7555,Tarjeta de débito,Oxxo 587,06/05/2024,15:04:59,Artículo 28,"$5,162.00",Oxxo,Clothing,659
+8765,Tarjeta de crédito,iShop 601,06/20/2024,07:29:52,Artículo 18,"$6,932.00",iShop,Comida a domicilio,480
+5432,Tarjeta de débito,Oxxo 796,06/29/2024,16:08:38,Artículo 16,"$4,899.00",Oxxo,Comida a domicilio,737
+1001,Tarjeta de crédito,Oxxo 584,06/07/2024,15:15:39,Artículo 39,"$2,343.00",Oxxo,Tecnología,736
+1234,Tarjeta de crédito,Spotify 930,06/28/2024,00:19:37,Artículo 16,"$4,307.00",Spotify,Entretenimiento,571
+5231,Tarjeta de crédito,iShop 196,06/22/2024,17:37:43,Artículo 29,"$3,653.00",iShop,Entretenimiento,406
+9980,Tarjeta de débito,Walmart 128,06/12/2024,14:54:47,Artículo 23,"$2,378.00",Walmart,Supermercado,501
+1234,Fondos de Inversión,NA,06/27/2024,10:32:57,NA,"$9,707.00",Banorte,Sector Financiero,571
+1001,Fondos de Inversión,NA,06/24/2024,13:55:02,NA,"$1,767.00",Banorte,Sector Financiero,736
+7555,Afore,NA,06/04/2024,17:26:24,NA,"$4,666.00",Banorte,Sector Financiero,659
+9876,Fondos de Inversión,NA,06/15/2024,20:26:17,NA,"$4,142.00",Banorte,Sector Financiero,591
+6478,Tarjeta de crédito,Liverpool 50,06/27/2024,14:32:15,Artículo 6,"$6,887.00",Liverpool,Entretenimiento,611
+1001,Tarjeta de débito,Uber Eats 781,07/02/2024,14:32:15,Artículo 13,"$9,995.00",Uber Eats,Clothing,736
+2002,Fondos de Inversión,NA,06/22/2024,03:03:49,NA,"$7,593.00",Banorte,Sector Financiero,389
+9980,Tarjeta de débito,Oxxo 29,06/13/2024,19:04:44,Artículo 50,"$1,728.00",Oxxo,Electronics,501
+5231,Afore,NA,06/20/2024,01:15:33,NA,$624.00,Banorte,Sector Financiero,406
+1234,Tarjeta de débito,Chedraui 501,06/24/2024,23:21:04,Artículo 42,"$5,848.00",Chedraui,Supermercado,571
+5231,Tarjeta de débito,Oxxo 68,06/11/2024,23:53:02,Artículo 49,"$8,568.00",Oxxo,Alimentos y bebidas,406
+9876,Afore,NA,07/01/2024,03:18:58,NA,$136.00,Banorte,Sector Financiero,591
+1234,Tarjeta de crédito,Uber Eats 238,06/10/2024,17:52:39,Artículo 44,"$7,739.00",Uber Eats,Retail,571
+9876,Tarjeta de débito,El Palacio de Hierro 137,06/18/2024,10:02:52,Artículo 42,"$9,107.00",El Palacio de Hierro,Tecnología,591
+9876,Fondos de Inversión,NA,06/14/2024,10:42:15,NA,"$3,934.00",Banorte,Sector Financiero,591
+1234,Tarjeta de débito,Liverpool 736,06/27/2024,04:05:31,Artículo 36,"$7,516.00",Liverpool,E-commerce,571
+5432,Tarjeta de crédito,Spotify 783,06/21/2024,15:46:33,Artículo 39,"$3,878.00",Spotify,Comida a domicilio,737
+9876,Fondos de Inversión,NA,06/15/2024,15:52:59,NA,"$7,553.00",Banorte,Sector Financiero,591
+8765,Tarjeta de crédito,Chedraui 757,06/09/2024,04:21:05,Artículo 6,"$3,883.00",Chedraui,Electronics,480
+9876,Afore,NA,06/11/2024,17:06:00,NA,"$7,474.00",Banorte,Sector Financiero,591
+5432,Fondos de Inversión,NA,07/01/2024,01:20:19,NA,$771.00,Banorte,Sector Financiero,737
+1001,Tarjeta de débito,Sanborns 725,06/23/2024,20:50:10,Artículo 43,"$1,864.00",Sanborns,Alimentos y bebidas,736
+7555,Tarjeta de débito,Starbucks 280,06/30/2024,21:59:08,Artículo 27,"$9,681.00",Starbucks,Electronics,659
+8765,Fondos de Inversión,NA,06/11/2024,22:26:04,NA,"$1,018.00",Banorte,Sector Financiero,480
+1001,Fondos de Inversión,NA,06/21/2024,19:46:25,NA,"$1,814.00",Banorte,Sector Financiero,736
+5231,Tarjeta de crédito,Banorte 340,06/27/2024,04:02:09,Artículo 49,"$1,390.00",Banorte,Retail,406
+1234,Fondos de Inversión,NA,06/14/2024,15:15:04,NA,"$7,445.00",Banorte,Sector Financiero,571
+9876,Afore,NA,07/01/2024,14:56:40,NA,"$9,351.00",Banorte,Sector Financiero,591
+9980,Fondos de Inversión,NA,06/27/2024,12:15:47,NA,"$6,361.00",Banorte,Sector Financiero,501
+6478,Tarjeta de débito,iShop 916,06/12/2024,07:51:34,Artículo 23,"$6,018.00",iShop,Tecnología,611
+2002,Tarjeta de débito,Amazon 79,06/10/2024,18:45:38,Artículo 23,"$7,605.00",Amazon,E-commerce,389
+9980,Fondos de Inversión,NA,06/08/2024,04:05:33,NA,"$5,368.00",Banorte,Sector Financiero,501
+6478,Tarjeta de débito,El Palacio de Hierro 261,06/21/2024,03:39:02,Artículo 4,"$5,567.00",El Palacio de Hierro,Alimentos y bebidas,611
+6478,Fondos de Inversión,NA,06/28/2024,03:02:04,NA,"$1,506.00",Banorte,Sector Financiero,611
+9980,Tarjeta de crédito,Cinemex 184,06/13/2024,19:49:11,Artículo 13,"$9,741.00",Cinemex,Retail,501
+5432,Tarjeta de débito,Spotify 252,06/27/2024,15:20:51,Artículo 28,"$8,553.00",Spotify,Supermercado,737
+9980,Afore,NA,06/20/2024,14:25:55,NA,"$3,942.00",Banorte,Sector Financiero,501
+5231,Afore,NA,06/13/2024,08:24:25,NA,"$4,713.00",Banorte,Sector Financiero,406
+8765,Fondos de Inversión,NA,06/09/2024,00:06:56,NA,"$3,145.00",Banorte,Sector Financiero,480
+6478,Tarjeta de débito,Sanborns 463,06/29/2024,05:29:42,Artículo 33,"$1,237.00",Sanborns,Restaurant,611
+6478,Tarjeta de débito,Banorte 563,06/23/2024,11:04:15,Artículo 44,"$8,936.00",Banorte,Clothing,611
+8765,Tarjeta de débito,iShop 433,06/22/2024,16:35:54,Artículo 46,"$4,287.00",iShop,Restaurant,480
+8765,Tarjeta de crédito,Mercado Libre 841,06/18/2024,21:25:15,Artículo 10,"$6,984.00",Mercado Libre,E-commerce,480
+9876,Tarjeta de crédito,Walmart 770,06/30/2024,10:08:10,Artículo 32,"$7,735.00",Walmart,E-commerce,591
+1001,Afore,NA,06/05/2024,22:54:51,NA,"$8,933.00",Banorte,Sector Financiero,736
+7555,Afore,NA,06/10/2024,11:27:11,NA,"$1,038.00",Banorte,Sector Financiero,659
+5432,Tarjeta de crédito,Chedraui 60,07/04/2024,19:42:17,Artículo 27,"$4,553.00",Chedraui,Alimentos y bebidas,737
+5432,Tarjeta de crédito,Starbucks 358,06/30/2024,03:48:52,Artículo 40,"$1,203.00",Starbucks,Electronics,737
+1234,Tarjeta de crédito,Amazon 701,06/22/2024,14:54:08,Artículo 27,"$7,864.00",Amazon,Supermercado,571
+9876,Tarjeta de crédito,Oxxo 985,06/25/2024,14:12:02,Artículo 36,$941.00,Oxxo,Entretenimiento,591
+7555,Tarjeta de crédito,Liverpool 911,06/20/2024,06:49:43,Artículo 42,"$3,189.00",Liverpool,Retail,659
+1001,Tarjeta de débito,iShop 311,07/04/2024,00:36:28,Artículo 48,"$9,252.00",iShop,Entretenimiento,736
+5432,Tarjeta de débito,Mercado Libre 544,06/24/2024,22:29:00,Artículo 25,"$2,270.00",Mercado Libre,Alimentos y bebidas,737
+2002,Tarjeta de crédito,Cinemex 187,06/29/2024,16:44:53,Artículo 30,"$4,375.00",Cinemex,Alimentos y bebidas,389
+5432,Tarjeta de crédito,Liverpool 476,06/29/2024,21:31:12,Artículo 38,"$5,760.00",Liverpool,Supermercado,737
+7555,Afore,NA,06/06/2024,05:21:15,NA,"$5,206.00",Banorte,Sector Financiero,659
+6478,Afore,NA,06/12/2024,11:19:50,NA,"$9,474.00",Banorte,Sector Financiero,611
+5231,Tarjeta de crédito,Sanborns 753,06/18/2024,15:53:00,Artículo 15,"$5,894.00",Sanborns,Clothing,406
+1001,Fondos de Inversión,NA,07/02/2024,13:24:12,NA,"$9,335.00",Banorte,Sector Financiero,736
+9876,Afore,NA,06/21/2024,16:58:05,NA,"$3,138.00",Banorte,Sector Financiero,591
+6478,Afore,NA,06/11/2024,00:56:20,NA,"$3,440.00",Banorte,Sector Financiero,611
+5432,Afore,NA,07/01/2024,17:04:35,NA,"$9,002.00",Banorte,Sector Financiero,737
+5231,Fondos de Inversión,NA,06/14/2024,09:02:25,NA,"$7,384.00",Banorte,Sector Financiero,406
+5231,Afore,NA,06/20/2024,20:34:35,NA,"$2,957.00",Banorte,Sector Financiero,406
+5432,Fondos de Inversión,NA,07/04/2024,00:00:07,NA,"$4,171.00",Banorte,Sector Financiero,737
+2002,Afore,NA,06/11/2024,12:33:03,NA,"$4,538.00",Banorte,Sector Financiero,389
+9980,Fondos de Inversión,NA,06/18/2024,19:05:38,NA,"$7,873.00",Banorte,Sector Financiero,501
+8765,Afore,NA,07/04/2024,04:11:40,NA,$771.00,Banorte,Sector Financiero,480
+8765,Tarjeta de crédito,Oxxo 110,06/12/2024,15:58:54,Artículo 12,"$4,679.00",Oxxo,Supermercado,480
+5432,Afore,NA,06/13/2024,12:35:58,NA,"$2,561.00",Banorte,Sector Financiero,737
+1001,Fondos de Inversión,NA,06/14/2024,14:35:55,NA,"$7,992.00",Banorte,Sector Financiero,736
+7555,Fondos de Inversión,NA,06/06/2024,15:02:04,NA,"$1,742.00",Banorte,Sector Financiero,659
+9876,Tarjeta de crédito,Starbucks 367,06/14/2024,01:56:20,Artículo 1,"$9,085.00",Starbucks,Comida a domicilio,591
+1001,Tarjeta de crédito,Oxxo 438,06/17/2024,22:48:10,Artículo 13,"$5,792.00",Oxxo,Electronics,736
+9980,Fondos de Inversión,NA,06/29/2024,17:12:12,NA,"$6,833.00",Banorte,Sector Financiero,501
+5231,Fondos de Inversión,NA,07/02/2024,20:18:23,NA,"$2,618.00",Banorte,Sector Financiero,406
+5231,Fondos de Inversión,NA,06/16/2024,14:09:41,NA,"$7,963.00",Banorte,Sector Financiero,406
+2002,Afore,NA,06/19/2024,20:55:16,NA,"$8,895.00",Banorte,Sector Financiero,389
+6478,Tarjeta de crédito,Soriana 290,06/07/2024,13:54:30,Artículo 49,$746.00,Soriana,Restaurant,611
+7555,Fondos de Inversión,NA,06/21/2024,01:39:46,NA,"$7,618.00",Banorte,Sector Financiero,659
+5231,Tarjeta de crédito,Starbucks 124,06/26/2024,15:25:28,Artículo 8,"$2,445.00",Starbucks,Clothing,406
+5231,Fondos de Inversión,NA,06/24/2024,14:23:41,NA,"$4,845.00",Banorte,Sector Financiero,406
+5432,Tarjeta de crédito,Sanborns 398,07/01/2024,19:45:24,Artículo 28,"$8,357.00",Sanborns,Alimentos y bebidas,737
+8765,Tarjeta de crédito,Mercado Libre 902,06/28/2024,11:52:56,Artículo 5,"$6,606.00",Mercado Libre,E-commerce,480
+9876,Fondos de Inversión,NA,06/27/2024,04:41:34,NA,"$7,272.00",Banorte,Sector Financiero,591
+9876,Tarjeta de débito,Chedraui 434,06/19/2024,16:11:25,Artículo 1,"$7,964.00",Chedraui,Entretenimiento,591
+1001,Tarjeta de débito,Oxxo 545,06/06/2024,00:31:25,Artículo 46,"$6,337.00",Oxxo,Tecnología,736
+8765,Tarjeta de crédito,Banorte 479,06/23/2024,23:21:40,Artículo 8,"$4,866.00",Banorte,Retail,480
+1001,Fondos de Inversión,NA,06/26/2024,05:46:04,NA,"$7,163.00",Banorte,Sector Financiero,736
+5432,Tarjeta de crédito,Starbucks 559,06/06/2024,14:27:12,Artículo 39,"$1,937.00",Starbucks,Tecnología,737
+9980,Tarjeta de crédito,Uber Eats 937,06/11/2024,13:09:30,Artículo 12,"$1,002.00",Uber Eats,Entretenimiento,501
+2002,Tarjeta de débito,Chedraui 187,06/05/2024,23:37:56,Artículo 18,"$4,165.00",Chedraui,Retail,389
+9980,Fondos de Inversión,NA,06/30/2024,23:30:00,NA,"$7,352.00",Banorte,Sector Financiero,501
+6478,Tarjeta de débito,Cinemex 136,06/05/2024,02:35:22,Artículo 16,"$9,273.00",Cinemex,E-commerce,611
+7555,Fondos de Inversión,NA,06/13/2024,14:37:56,NA,"$2,220.00",Banorte,Sector Financiero,659
+5231,Tarjeta de crédito,Mercado Libre 229,06/09/2024,01:21:35,Artículo 22,"$9,680.00",Mercado Libre,Restaurant,406
+5432,Tarjeta de crédito,Liverpool 842,06/27/2024,17:21:18,Artículo 38,"$7,460.00",Liverpool,Clothing,737
+6478,Tarjeta de crédito,iShop 819,06/21/2024,18:05:25,Artículo 35,"$5,194.00",iShop,Retail,611
+1001,Fondos de Inversión,NA,06/22/2024,10:58:47,NA,"$3,098.00",Banorte,Sector Financiero,736
+9876,Afore,NA,07/04/2024,06:27:34,NA,"$4,274.00",Banorte,Sector Financiero,591
+6478,Tarjeta de crédito,Banorte 194,06/04/2024,12:13:24,Artículo 2,"$9,531.00",Banorte,Electronics,611
+8765,Afore,NA,06/21/2024,13:56:23,NA,"$8,004.00",Banorte,Sector Financiero,480
+5432,Tarjeta de débito,Walmart 844,06/24/2024,12:44:49,Artículo 39,"$4,516.00",Walmart,Supermercado,737
+1234,Tarjeta de débito,Walmart 945,06/04/2024,14:37:26,Artículo 12,"$5,473.00",Walmart,Electronics,571
+7555,Fondos de Inversión,NA,06/28/2024,01:06:33,NA,$659.00,Banorte,Sector Financiero,659
+5432,Tarjeta de débito,Chedraui 915,06/16/2024,21:45:28,Artículo 16,"$5,064.00",Chedraui,Entretenimiento,737
+9980,Fondos de Inversión,NA,06/26/2024,02:01:46,NA,"$5,614.00",Banorte,Sector Financiero,501
+5231,Tarjeta de crédito,Chedraui 192,06/19/2024,19:49:56,Artículo 24,"$8,281.00",Chedraui,E-commerce,406
+9980,Afore,NA,06/26/2024,15:04:24,NA,"$8,468.00",Banorte,Sector Financiero,501
+2002,Fondos de Inversión,NA,06/08/2024,16:20:22,NA,"$3,250.00",Banorte,Sector Financiero,389
+1001,Afore,NA,06/24/2024,03:54:55,NA,"$8,476.00",Banorte,Sector Financiero,736
+2002,Tarjeta de crédito,El Palacio de Hierro 391,06/29/2024,21:07:41,Artículo 29,"$1,274.00",El Palacio de Hierro,Comida a domicilio,389
+9876,Tarjeta de crédito,Starbucks 263,06/07/2024,14:14:00,Artículo 2,"$9,260.00",Starbucks,Restaurant,591
+5432,Afore,NA,07/01/2024,18:28:34,NA,"$6,675.00",Banorte,Sector Financiero,737
+9876,Fondos de Inversión,NA,06/16/2024,17:44:06,NA,"$5,209.00",Banorte,Sector Financiero,591
+5432,Tarjeta de débito,El Palacio de Hierro 847,06/15/2024,16:08:30,Artículo 27,"$4,232.00",El Palacio de Hierro,Entretenimiento,737
+5432,Fondos de Inversión,NA,06/09/2024,21:04:15,NA,"$9,858.00",Banorte,Sector Financiero,737
+1001,Fondos de Inversión,NA,06/23/2024,02:58:14,NA,"$3,828.00",Banorte,Sector Financiero,736
+5231,Afore,NA,06/18/2024,09:35:11,NA,"$3,233.00",Banorte,Sector Financiero,406
+5231,Tarjeta de crédito,iShop 723,07/02/2024,18:43:53,Artículo 16,"$7,703.00",iShop,Alimentos y bebidas,406
+7555,Tarjeta de débito,Oxxo 424,06/22/2024,15:07:21,Artículo 3,"$5,111.00",Oxxo,Tecnología,659
+7555,Tarjeta de crédito,Amazon 352,06/24/2024,06:57:13,Artículo 36,$33.00,Amazon,Supermercado,659
+6478,Fondos de Inversión,NA,07/03/2024,00:04:57,NA,"$7,995.00",Banorte,Sector Financiero,611
+6478,Fondos de Inversión,NA,07/04/2024,03:07:23,NA,"$7,018.00",Banorte,Sector Financiero,611
+9980,Tarjeta de débito,Chedraui 188,06/24/2024,11:18:04,Artículo 1,"$5,436.00",Chedraui,Clothing,501
+9876,Tarjeta de crédito,El Palacio de Hierro 881,06/26/2024,18:36:32,Artículo 23,"$3,837.00",El Palacio de Hierro,Entretenimiento,591
+5432,Fondos de Inversión,NA,06/08/2024,01:38:01,NA,"$4,223.00",Banorte,Sector Financiero,737
+1001,Afore,NA,06/29/2024,13:49:11,NA,"$9,652.00",Banorte,Sector Financiero,736
+5432,Fondos de Inversión,NA,06/14/2024,04:01:16,NA,"$5,804.00",Banorte,Sector Financiero,737
+9980,Fondos de Inversión,NA,06/10/2024,04:08:39,NA,"$3,636.00",Banorte,Sector Financiero,501
+5432,Afore,NA,06/16/2024,15:21:39,NA,"$8,612.00",Banorte,Sector Financiero,737
+5432,Tarjeta de crédito,Chedraui 947,06/04/2024,23:38:02,Artículo 24,"$4,822.00",Chedraui,Supermercado,737
+9876,Tarjeta de crédito,Banorte 220,07/02/2024,06:49:27,Artículo 42,"$7,003.00",Banorte,Retail,591
+6478,Afore,NA,06/08/2024,06:06:30,NA,"$7,120.00",Banorte,Sector Financiero,611
+5432,Fondos de Inversión,NA,06/04/2024,23:08:02,NA,$690.00,Banorte,Sector Financiero,737
+9876,Tarjeta de débito,Chedraui 270,06/23/2024,00:34:29,Artículo 25,"$8,456.00",Chedraui,Clothing,591
+9876,Fondos de Inversión,NA,06/04/2024,08:01:21,NA,"$2,033.00",Banorte,Sector Financiero,591
+2002,Fondos de Inversión,NA,06/11/2024,17:06:40,NA,"$9,549.00",Banorte,Sector Financiero,389
+1001,Fondos de Inversión,NA,06/16/2024,15:33:23,NA,"$6,136.00",Banorte,Sector Financiero,736
+5432,Afore,NA,06/23/2024,14:41:02,NA,"$1,278.00",Banorte,Sector Financiero,737
+9876,Fondos de Inversión,NA,06/25/2024,01:28:58,NA,"$5,598.00",Banorte,Sector Financiero,591
+2002,Fondos de Inversión,NA,06/06/2024,21:10:48,NA,"$2,544.00",Banorte,Sector Financiero,389
+6478,Tarjeta de débito,Liverpool 458,06/22/2024,07:11:07,Artículo 34,"$6,459.00",Liverpool,Entretenimiento,611
+6478,Afore,NA,06/21/2024,21:55:25,NA,"$1,406.00",Banorte,Sector Financiero,611
+5231,Fondos de Inversión,NA,06/15/2024,20:48:25,NA,"$8,408.00",Banorte,Sector Financiero,406
+5231,Tarjeta de débito,Oxxo 203,06/29/2024,21:15:34,Artículo 24,"$5,327.00",Oxxo,Alimentos y bebidas,406
+2002,Afore,NA,06/18/2024,07:20:25,NA,"$1,153.00",Banorte,Sector Financiero,389
+5231,Fondos de Inversión,NA,06/04/2024,12:28:56,NA,"$1,833.00",Banorte,Sector Financiero,406
+9876,Afore,NA,07/03/2024,11:33:36,NA,"$1,912.00",Banorte,Sector Financiero,591
+5231,Tarjeta de débito,Walmart 955,06/15/2024,11:59:42,Artículo 4,"$8,607.00",Walmart,Supermercado,406
+5231,Tarjeta de crédito,Uber Eats 185,06/11/2024,08:47:51,Artículo 4,"$5,517.00",Uber Eats,Entretenimiento,406
+5432,Tarjeta de débito,iShop 725,06/07/2024,01:31:12,Artículo 35,"$3,762.00",iShop,Electronics,737
+9876,Afore,NA,06/28/2024,02:14:42,NA,"$3,478.00",Banorte,Sector Financiero,591
+5432,Afore,NA,07/04/2024,23:48:36,NA,"$6,529.00",Banorte,Sector Financiero,737
+8765,Afore,NA,06/26/2024,12:04:19,NA,$229.00,Banorte,Sector Financiero,480
+7555,Tarjeta de crédito,Cinemex 531,06/15/2024,22:18:13,Artículo 19,"$8,261.00",Cinemex,Clothing,659
+8765,Fondos de Inversión,NA,07/01/2024,11:53:21,NA,"$3,272.00",Banorte,Sector Financiero,480
+1234,Tarjeta de débito,Banorte 601,06/14/2024,12:13:22,Artículo 30,"$3,534.00",Banorte,Entretenimiento,571
+5231,Fondos de Inversión,NA,06/06/2024,17:52:55,NA,"$2,700.00",Banorte,Sector Financiero,406
+5432,Tarjeta de crédito,El Palacio de Hierro 995,06/26/2024,06:06:01,Artículo 42,"$6,537.00",El Palacio de Hierro,Tecnología,737
+6478,Tarjeta de débito,El Palacio de Hierro 731,06/06/2024,11:14:05,Artículo 10,"$6,788.00",El Palacio de Hierro,Clothing,611
+2002,Fondos de Inversión,NA,06/28/2024,06:26:36,NA,"$6,846.00",Banorte,Sector Financiero,389
+8765,Afore,NA,06/25/2024,06:13:49,NA,"$2,035.00",Banorte,Sector Financiero,480
+1001,Tarjeta de crédito,Walmart 942,06/07/2024,00:27:09,Artículo 30,"$8,360.00",Walmart,Electronics,736
+6478,Afore,NA,07/02/2024,09:14:23,NA,$650.00,Banorte,Sector Financiero,611
+9876,Afore,NA,06/18/2024,06:29:04,NA,"$1,667.00",Banorte,Sector Financiero,591
+6478,Tarjeta de débito,Amazon 171,06/08/2024,21:49:59,Artículo 27,"$8,555.00",Amazon,Alimentos y bebidas,611
+8765,Tarjeta de débito,Starbucks 152,06/29/2024,08:02:31,Artículo 42,"$2,558.00",Starbucks,Retail,480
+5231,Fondos de Inversión,NA,06/15/2024,02:50:13,NA,"$9,955.00",Banorte,Sector Financiero,406
+1001,Fondos de Inversión,NA,06/09/2024,09:12:29,NA,"$7,951.00",Banorte,Sector Financiero,736
+9980,Fondos de Inversión,NA,07/02/2024,18:25:18,NA,"$4,035.00",Banorte,Sector Financiero,501
+6478,Fondos de Inversión,NA,07/03/2024,06:51:42,NA,"$4,585.00",Banorte,Sector Financiero,611
+5231,Tarjeta de crédito,iShop 403,06/19/2024,21:55:00,Artículo 2,"$6,471.00",iShop,Restaurant,406
+8765,Tarjeta de crédito,Starbucks 88,07/02/2024,17:58:16,Artículo 10,"$4,655.00",Starbucks,Alimentos y bebidas,480
+9876,Fondos de Inversión,NA,07/03/2024,10:58:15,NA,"$4,607.00",Banorte,Sector Financiero,591
+8765,Afore,NA,06/18/2024,06:46:11,NA,"$6,748.00",Banorte,Sector Financiero,480
+8765,Fondos de Inversión,NA,06/04/2024,16:30:15,NA,"$5,846.00",Banorte,Sector Financiero,480
+8765,Tarjeta de crédito,Spotify 130,06/25/2024,19:22:04,Artículo 44,"$2,959.00",Spotify,Alimentos y bebidas,480
+2002,Fondos de Inversión,NA,06/28/2024,11:06:45,NA,$156.00,Banorte,Sector Financiero,389
+5231,Fondos de Inversión,NA,06/29/2024,21:20:24,NA,"$9,221.00",Banorte,Sector Financiero,406
+2002,Afore,NA,06/10/2024,08:54:17,NA,"$3,468.00",Banorte,Sector Financiero,389
+7555,Tarjeta de débito,Chedraui 833,06/17/2024,00:25:02,Artículo 34,"$7,916.00",Chedraui,E-commerce,659
+9980,Afore,NA,07/04/2024,23:34:25,NA,"$8,271.00",Banorte,Sector Financiero,501
+1234,Fondos de Inversión,NA,06/27/2024,15:19:19,NA,"$9,029.00",Banorte,Sector Financiero,571
+5231,Afore,NA,06/11/2024,15:11:44,NA,"$7,047.00",Banorte,Sector Financiero,406
+7555,Tarjeta de débito,Soriana 658,06/27/2024,20:31:41,Artículo 44,"$6,344.00",Soriana,Retail,659
+1001,Tarjeta de crédito,Cinemex 411,06/05/2024,17:10:32,Artículo 12,"$5,436.00",Cinemex,Supermercado,736
+2002,Tarjeta de crédito,Uber Eats 602,06/30/2024,21:03:31,Artículo 20,"$4,808.00",Uber Eats,Alimentos y bebidas,389
+9980,Tarjeta de débito,iShop 94,06/26/2024,12:27:16,Artículo 2,"$7,207.00",iShop,Alimentos y bebidas,501
+9980,Afore,NA,06/13/2024,18:41:54,NA,$272.00,Banorte,Sector Financiero,501
+1234,Fondos de Inversión,NA,06/26/2024,03:37:20,NA,"$7,531.00",Banorte,Sector Financiero,571
+1234,Tarjeta de débito,Cinemex 565,06/19/2024,18:02:44,Artículo 50,$93.00,Cinemex,Comida a domicilio,571
+5432,Tarjeta de débito,Sanborns 455,06/22/2024,13:24:25,Artículo 22,"$8,518.00",Sanborns,Restaurant,737
+2002,Fondos de Inversión,NA,06/21/2024,15:41:32,NA,"$2,867.00",Banorte,Sector Financiero,389
+5432,Afore,NA,06/10/2024,08:16:59,NA,"$3,777.00",Banorte,Sector Financiero,737
+1001,Fondos de Inversión,NA,06/30/2024,05:33:57,NA,"$4,630.00",Banorte,Sector Financiero,736
+5231,Tarjeta de crédito,Uber Eats 642,06/10/2024,12:38:34,Artículo 39,"$1,422.00",Uber Eats,Clothing,406
+5432,Tarjeta de crédito,El Palacio de Hierro 836,06/19/2024,13:23:04,Artículo 18,"$5,492.00",El Palacio de Hierro,Comida a domicilio,737
+9876,Afore,NA,07/03/2024,00:05:35,NA,"$1,949.00",Banorte,Sector Financiero,591
+1001,Tarjeta de débito,Mercado Libre 952,07/03/2024,03:46:16,Artículo 20,"$2,735.00",Mercado Libre,Clothing,736
+5432,Afore,NA,07/04/2024,05:46:45,NA,"$4,562.00",Banorte,Sector Financiero,737
+1001,Tarjeta de crédito,Oxxo 293,06/21/2024,22:58:43,Artículo 9,"$9,355.00",Oxxo,Alimentos y bebidas,736
+6478,Tarjeta de débito,Amazon 704,06/09/2024,06:31:21,Artículo 12,$577.00,Amazon,Entretenimiento,611
+9980,Tarjeta de crédito,Mercado Libre 380,06/14/2024,21:21:24,Artículo 1,"$7,689.00",Mercado Libre,Restaurant,501
+5231,Fondos de Inversión,NA,06/18/2024,16:12:11,NA,"$7,045.00",Banorte,Sector Financiero,406
+7555,Afore,NA,06/09/2024,03:34:11,NA,"$9,436.00",Banorte,Sector Financiero,659
+9980,Tarjeta de débito,Banorte 396,06/24/2024,08:44:04,Artículo 6,"$7,623.00",Banorte,Comida a domicilio,501
+9980,Tarjeta de crédito,Walmart 106,07/04/2024,04:44:49,Artículo 44,"$2,178.00",Walmart,Tecnología,501
+9876,Tarjeta de crédito,Cinemex 793,06/25/2024,19:07:01,Artículo 27,"$4,940.00",Cinemex,Supermercado,591
+6478,Afore,NA,06/21/2024,18:23:08,NA,"$4,415.00",Banorte,Sector Financiero,611
+8765,Afore,NA,06/24/2024,19:44:37,NA,$727.00,Banorte,Sector Financiero,480
+2002,Tarjeta de débito,Amazon 365,06/27/2024,18:23:22,Artículo 19,"$7,427.00",Amazon,Supermercado,389
+9876,Tarjeta de crédito,Uber Eats 875,07/01/2024,14:41:08,Artículo 24,"$6,374.00",Uber Eats,Retail,591
+2002,Afore,NA,06/06/2024,08:30:05,NA,"$9,575.00",Banorte,Sector Financiero,389
+5231,Tarjeta de crédito,Banorte 638,06/22/2024,21:26:42,Artículo 33,"$3,159.00",Banorte,Electronics,406
+1234,Tarjeta de débito,Mercado Libre 381,06/11/2024,14:25:36,Artículo 48,"$2,240.00",Mercado Libre,Alimentos y bebidas,571
+2002,Tarjeta de débito,Amazon 949,06/24/2024,10:14:29,Artículo 28,"$3,469.00",Amazon,Comida a domicilio,389
+1234,Tarjeta de débito,Chedraui 315,06/15/2024,10:14:28,Artículo 36,"$5,702.00",Chedraui,Electronics,571
+6478,Tarjeta de crédito,Chedraui 759,06/06/2024,08:07:41,Artículo 9,"$5,342.00",Chedraui,Clothing,611
+5432,Fondos de Inversión,NA,06/14/2024,09:49:15,NA,"$7,782.00",Banorte,Sector Financiero,737
+7555,Tarjeta de crédito,Starbucks 393,06/18/2024,11:02:44,Artículo 32,"$3,538.00",Starbucks,Electronics,659
+5432,Afore,NA,06/25/2024,19:02:23,NA,"$7,471.00",Banorte,Sector Financiero,737
+5231,Afore,NA,06/08/2024,06:17:28,NA,"$2,084.00",Banorte,Sector Financiero,406
+2002,Fondos de Inversión,NA,07/03/2024,04:47:38,NA,"$5,272.00",Banorte,Sector Financiero,389
+7555,Afore,NA,07/01/2024,06:17:12,NA,"$6,060.00",Banorte,Sector Financiero,659
+5432,Tarjeta de crédito,Amazon 375,07/02/2024,03:44:24,Artículo 41,"$2,495.00",Amazon,Comida a domicilio,737
+7555,Afore,NA,06/10/2024,02:25:15,NA,"$8,459.00",Banorte,Sector Financiero,659
+2002,Tarjeta de crédito,iShop 529,06/17/2024,08:00:48,Artículo 5,"$2,123.00",iShop,Comida a domicilio,389
+1001,Fondos de Inversión,NA,06/11/2024,14:15:53,NA,"$3,747.00",Banorte,Sector Financiero,736
+5231,Afore,NA,06/15/2024,02:03:45,NA,"$6,352.00",Banorte,Sector Financiero,406
+5231,Tarjeta de débito,Amazon 49,06/07/2024,12:55:15,Artículo 22,"$4,032.00",Amazon,Electronics,406
+9980,Tarjeta de débito,Soriana 623,06/07/2024,13:10:19,Artículo 34,$287.00,Soriana,Electronics,501
+1001,Afore,NA,06/23/2024,08:35:48,NA,"$4,999.00",Banorte,Sector Financiero,736
+8765,Fondos de Inversión,NA,06/27/2024,07:44:46,NA,"$8,860.00",Banorte,Sector Financiero,480
+7555,Tarjeta de crédito,Soriana 571,06/16/2024,23:26:41,Artículo 37,"$3,616.00",Soriana,Alimentos y bebidas,659
+9980,Fondos de Inversión,NA,06/27/2024,00:45:08,NA,$507.00,Banorte,Sector Financiero,501
+9876,Tarjeta de débito,Starbucks 3,06/14/2024,22:12:10,Artículo 8,"$6,523.00",Starbucks,Supermercado,591
+9876,Tarjeta de débito,Mercado Libre 342,06/07/2024,11:42:04,Artículo 10,"$6,026.00",Mercado Libre,Alimentos y bebidas,591
+9980,Tarjeta de débito,Mercado Libre 265,06/25/2024,01:04:52,Artículo 37,"$9,818.00",Mercado Libre,E-commerce,501
+5432,Afore,NA,06/21/2024,15:22:36,NA,"$2,607.00",Banorte,Sector Financiero,737
+5231,Tarjeta de débito,Uber Eats 384,06/14/2024,07:42:24,Artículo 47,"$6,158.00",Uber Eats,Electronics,406
+1234,Afore,NA,06/30/2024,14:14:43,NA,$972.00,Banorte,Sector Financiero,571
+9876,Afore,NA,06/26/2024,05:30:27,NA,"$1,083.00",Banorte,Sector Financiero,591
+5231,Tarjeta de débito,Sanborns 884,06/29/2024,15:52:12,Artículo 17,"$5,087.00",Sanborns,Entretenimiento,406
+2002,Tarjeta de débito,Liverpool 684,06/18/2024,06:02:44,Artículo 26,"$1,575.00",Liverpool,Comida a domicilio,389
+7555,Tarjeta de débito,Soriana 125,07/01/2024,19:31:18,Artículo 17,"$5,196.00",Soriana,Restaurant,659
+9876,Fondos de Inversión,NA,07/04/2024,20:09:20,NA,"$1,295.00",Banorte,Sector Financiero,591
+7555,Fondos de Inversión,NA,06/08/2024,11:15:25,NA,"$8,420.00",Banorte,Sector Financiero,659
+7555,Tarjeta de débito,Amazon 107,06/15/2024,20:36:42,Artículo 12,"$4,941.00",Amazon,Restaurant,659
+5432,Tarjeta de débito,Sanborns 179,06/21/2024,01:52:35,Artículo 19,"$1,707.00",Sanborns,Alimentos y bebidas,737
+7555,Fondos de Inversión,NA,06/10/2024,00:23:27,NA,"$5,699.00",Banorte,Sector Financiero,659
+9980,Afore,NA,06/06/2024,23:21:27,NA,$358.00,Banorte,Sector Financiero,501
+5432,Tarjeta de débito,Uber Eats 931,06/28/2024,19:06:11,Artículo 32,"$5,332.00",Uber Eats,Entretenimiento,737
+5231,Fondos de Inversión,NA,06/26/2024,19:39:14,NA,"$4,793.00",Banorte,Sector Financiero,406
+6478,Tarjeta de débito,Mercado Libre 291,06/05/2024,13:27:30,Artículo 43,"$2,097.00",Mercado Libre,Comida a domicilio,611
+9876,Tarjeta de débito,Sanborns 918,06/29/2024,20:22:33,Artículo 28,"$3,046.00",Sanborns,Restaurant,591
+8765,Fondos de Inversión,NA,06/26/2024,00:20:59,NA,"$6,978.00",Banorte,Sector Financiero,480
+9876,Fondos de Inversión,NA,06/14/2024,14:25:02,NA,"$7,865.00",Banorte,Sector Financiero,591
+9876,Tarjeta de débito,iShop 401,06/19/2024,10:09:37,Artículo 7,"$4,327.00",iShop,E-commerce,591
+7555,Fondos de Inversión,NA,06/22/2024,06:14:51,NA,"$2,237.00",Banorte,Sector Financiero,659
+7555,Tarjeta de crédito,Oxxo 448,06/12/2024,16:22:57,Artículo 23,"$6,504.00",Oxxo,Restaurant,659
+7555,Afore,NA,06/19/2024,16:45:06,NA,"$9,242.00",Banorte,Sector Financiero,659
+8765,Tarjeta de débito,Cinemex 661,06/25/2024,21:57:06,Artículo 35,"$4,078.00",Cinemex,E-commerce,480
+9980,Fondos de Inversión,NA,06/08/2024,16:30:04,NA,"$3,906.00",Banorte,Sector Financiero,501
+6478,Tarjeta de débito,Mercado Libre 393,06/16/2024,07:21:09,Artículo 17,"$7,386.00",Mercado Libre,Clothing,611
+8765,Fondos de Inversión,NA,06/23/2024,00:00:03,NA,"$2,685.00",Banorte,Sector Financiero,480
+1001,Afore,NA,06/24/2024,23:00:41,NA,"$6,790.00",Banorte,Sector Financiero,736
+5432,Afore,NA,06/18/2024,06:33:58,NA,"$5,857.00",Banorte,Sector Financiero,737
+2002,Afore,NA,06/16/2024,20:09:33,NA,"$4,754.00",Banorte,Sector Financiero,389
+1234,Tarjeta de crédito,Starbucks 798,07/02/2024,07:51:23,Artículo 45,"$4,045.00",Starbucks,Comida a domicilio,571
+9876,Tarjeta de crédito,Sanborns 126,06/20/2024,01:01:26,Artículo 39,"$6,966.00",Sanborns,Electronics,591
+5432,Afore,NA,06/17/2024,00:11:39,NA,$774.00,Banorte,Sector Financiero,737
+7555,Fondos de Inversión,NA,06/07/2024,03:01:18,NA,"$2,421.00",Banorte,Sector Financiero,659
+6478,Tarjeta de débito,Starbucks 500,07/02/2024,23:32:54,Artículo 17,"$5,942.00",Starbucks,Alimentos y bebidas,611
+7555,Afore,NA,06/05/2024,23:26:58,NA,"$6,387.00",Banorte,Sector Financiero,659
+6478,Tarjeta de crédito,Cinemex 581,06/22/2024,20:32:17,Artículo 36,"$7,914.00",Cinemex,Tecnología,611
+1234,Fondos de Inversión,NA,06/15/2024,16:35:10,NA,$838.00,Banorte,Sector Financiero,571
+9876,Tarjeta de crédito,Soriana 444,06/18/2024,19:10:11,Artículo 29,"$3,320.00",Soriana,Entretenimiento,591
+8765,Tarjeta de débito,Banorte 764,06/28/2024,01:59:55,Artículo 31,"$5,971.00",Banorte,Electronics,480
+5231,Tarjeta de crédito,Banorte 510,06/08/2024,12:10:15,Artículo 31,$276.00,Banorte,Restaurant,406
+9980,Tarjeta de débito,Chedraui 715,06/07/2024,23:45:29,Artículo 2,"$9,243.00",Chedraui,Restaurant,501
+1001,Tarjeta de débito,Soriana 790,06/12/2024,18:34:58,Artículo 3,"$8,422.00",Soriana,Alimentos y bebidas,736
+9876,Tarjeta de débito,Mercado Libre 947,06/19/2024,17:10:48,Artículo 49,"$4,280.00",Mercado Libre,Alimentos y bebidas,591
+2002,Fondos de Inversión,NA,06/06/2024,09:01:54,NA,"$4,633.00",Banorte,Sector Financiero,389
+5231,Afore,NA,06/18/2024,07:09:00,NA,"$3,565.00",Banorte,Sector Financiero,406
+5432,Tarjeta de débito,Walmart 681,06/05/2024,21:59:28,Artículo 18,"$6,655.00",Walmart,Supermercado,737
+7555,Fondos de Inversión,NA,06/26/2024,02:17:25,NA,"$2,783.00",Banorte,Sector Financiero,659
+8765,Afore,NA,07/02/2024,22:59:50,NA,"$8,306.00",Banorte,Sector Financiero,480
+9876,Tarjeta de crédito,El Palacio de Hierro 366,06/15/2024,23:28:39,Artículo 50,"$1,180.00",El Palacio de Hierro,Alimentos y bebidas,591
+5231,Tarjeta de débito,Oxxo 720,06/12/2024,03:21:15,Artículo 18,"$8,494.00",Oxxo,Comida a domicilio,406
+7555,Tarjeta de crédito,Walmart 699,07/02/2024,16:14:40,Artículo 50,"$7,648.00",Walmart,E-commerce,659
+9876,Afore,NA,06/18/2024,14:44:14,NA,"$7,087.00",Banorte,Sector Financiero,591
+1234,Tarjeta de crédito,Banorte 426,06/04/2024,15:57:41,Artículo 40,"$4,596.00",Banorte,Retail,571
+6478,Fondos de Inversión,NA,06/19/2024,15:09:59,NA,"$3,625.00",Banorte,Sector Financiero,611
+1234,Tarjeta de débito,Liverpool 207,06/17/2024,16:05:13,Artículo 10,"$4,662.00",Liverpool,Tecnología,571
+1001,Afore,NA,06/07/2024,06:02:17,NA,"$1,594.00",Banorte,Sector Financiero,736
+9980,Afore,NA,06/23/2024,19:28:47,NA,"$9,715.00",Banorte,Sector Financiero,501
+7555,Afore,NA,06/12/2024,17:23:56,NA,$348.00,Banorte,Sector Financiero,659
+5432,Afore,NA,06/17/2024,20:24:51,NA,$150.00,Banorte,Sector Financiero,737
+6478,Tarjeta de débito,Sanborns 106,06/16/2024,10:03:07,Artículo 15,"$4,755.00",Sanborns,Electronics,611
+7555,Fondos de Inversión,NA,06/30/2024,17:55:25,NA,"$2,338.00",Banorte,Sector Financiero,659
+1001,Tarjeta de crédito,Spotify 760,06/15/2024,14:02:38,Artículo 40,"$8,656.00",Spotify,Comida a domicilio,736
+1234,Fondos de Inversión,NA,06/21/2024,18:44:58,NA,"$2,965.00",Banorte,Sector Financiero,571
+8765,Tarjeta de crédito,Soriana 696,06/28/2024,23:52:18,Artículo 49,"$1,702.00",Soriana,Electronics,480
+5231,Fondos de Inversión,NA,06/08/2024,17:09:54,NA,"$2,978.00",Banorte,Sector Financiero,406
+9876,Tarjeta de débito,Starbucks 96,06/23/2024,06:28:08,Artículo 19,"$1,873.00",Starbucks,Tecnología,591
+1001,Tarjeta de crédito,Uber Eats 986,06/22/2024,03:58:56,Artículo 20,$982.00,Uber Eats,Restaurant,736
+2002,Fondos de Inversión,NA,06/22/2024,04:28:25,NA,"$8,456.00",Banorte,Sector Financiero,389
+1001,Tarjeta de débito,Starbucks 746,06/09/2024,10:22:14,Artículo 30,"$1,800.00",Starbucks,E-commerce,736
+6478,Tarjeta de débito,Chedraui 884,06/25/2024,13:16:13,Artículo 26,"$1,461.00",Chedraui,E-commerce,611
+2002,Tarjeta de crédito,Cinemex 498,06/23/2024,12:32:22,Artículo 2,"$9,567.00",Cinemex,E-commerce,389
+9980,Fondos de Inversión,NA,06/10/2024,05:37:06,NA,"$2,869.00",Banorte,Sector Financiero,501
+2002,Fondos de Inversión,NA,06/24/2024,18:38:26,NA,"$1,744.00",Banorte,Sector Financiero,389
+2002,Fondos de Inversión,NA,06/10/2024,02:41:49,NA,$779.00,Banorte,Sector Financiero,389
+5432,Afore,NA,06/29/2024,10:19:50,NA,"$1,523.00",Banorte,Sector Financiero,737
+1234,Tarjeta de débito,Mercado Libre 398,06/05/2024,00:03:37,Artículo 6,"$4,141.00",Mercado Libre,Supermercado,571
+8765,Tarjeta de crédito,Soriana 923,06/07/2024,18:49:26,Artículo 19,"$2,865.00",Soriana,Alimentos y bebidas,480
+1001,Fondos de Inversión,NA,06/12/2024,12:36:53,NA,"$8,029.00",Banorte,Sector Financiero,736
+5432,Tarjeta de crédito,Cinemex 1,06/07/2024,09:05:45,Artículo 23,"$5,822.00",Cinemex,Alimentos y bebidas,737
+1234,Tarjeta de débito,Amazon 238,06/28/2024,09:09:03,Artículo 33,"$5,827.00",Amazon,Retail,571
+6478,Tarjeta de débito,Uber Eats 718,06/10/2024,06:27:35,Artículo 38,"$7,200.00",Uber Eats,Retail,611
+5432,Tarjeta de débito,iShop 637,06/20/2024,07:16:31,Artículo 44,"$5,382.00",iShop,Comida a domicilio,737
+9980,Fondos de Inversión,NA,07/02/2024,08:16:10,NA,$200.00,Banorte,Sector Financiero,501
+2002,Tarjeta de crédito,Uber Eats 567,06/22/2024,06:53:36,Artículo 27,"$3,958.00",Uber Eats,Supermercado,389
+9980,Tarjeta de débito,Soriana 542,06/23/2024,16:03:46,Artículo 38,"$1,503.00",Soriana,Retail,501
+9876,Tarjeta de crédito,Mercado Libre 513,06/23/2024,01:58:49,Artículo 45,"$4,693.00",Mercado Libre,E-commerce,591
+8765,Fondos de Inversión,NA,06/11/2024,14:22:55,NA,$864.00,Banorte,Sector Financiero,480
+7555,Tarjeta de crédito,Sanborns 439,06/06/2024,06:12:40,Artículo 19,"$3,728.00",Sanborns,Restaurant,659
+5231,Tarjeta de débito,El Palacio de Hierro 376,06/17/2024,09:40:12,Artículo 28,"$2,248.00",El Palacio de Hierro,Clothing,406
+5432,Fondos de Inversión,NA,06/08/2024,22:55:07,NA,"$3,983.00",Banorte,Sector Financiero,737
+8765,Tarjeta de débito,Oxxo 808,06/07/2024,08:17:23,Artículo 45,"$7,813.00",Oxxo,Clothing,480
+1001,Fondos de Inversión,NA,06/18/2024,14:16:12,NA,"$9,787.00",Banorte,Sector Financiero,736
+8765,Fondos de Inversión,NA,06/27/2024,14:29:46,NA,"$4,694.00",Banorte,Sector Financiero,480
+5432,Tarjeta de débito,Banorte 204,06/06/2024,01:16:24,Artículo 9,"$4,092.00",Banorte,Entretenimiento,737
+9980,Afore,NA,07/03/2024,23:13:21,NA,"$3,692.00",Banorte,Sector Financiero,501
+1234,Fondos de Inversión,NA,07/04/2024,08:21:18,NA,"$9,265.00",Banorte,Sector Financiero,571
+9876,Tarjeta de crédito,Cinemex 370,06/13/2024,04:24:03,Artículo 35,"$2,810.00",Cinemex,Alimentos y bebidas,591
+1001,Tarjeta de débito,Mercado Libre 228,06/13/2024,07:03:18,Artículo 1,"$9,943.00",Mercado Libre,Electronics,736
+6478,Fondos de Inversión,NA,06/23/2024,21:04:22,NA,"$8,243.00",Banorte,Sector Financiero,611
+5231,Fondos de Inversión,NA,07/03/2024,04:00:42,NA,"$4,463.00",Banorte,Sector Financiero,406
+1234,Tarjeta de crédito,Banorte 19,06/16/2024,22:35:52,Artículo 41,"$6,665.00",Banorte,E-commerce,571
+5432,Tarjeta de débito,Spotify 3,07/03/2024,15:43:40,Artículo 28,"$2,353.00",Spotify,Alimentos y bebidas,737
+1234,Fondos de Inversión,NA,06/18/2024,06:07:14,NA,"$2,317.00",Banorte,Sector Financiero,571
+5231,Fondos de Inversión,NA,07/01/2024,09:48:27,NA,"$1,927.00",Banorte,Sector Financiero,406
+1234,Tarjeta de débito,Sanborns 615,06/29/2024,15:55:33,Artículo 32,"$6,897.00",Sanborns,Electronics,571
+6478,Tarjeta de crédito,Walmart 529,07/01/2024,21:23:13,Artículo 50,"$3,434.00",Walmart,Entretenimiento,611
+6478,Fondos de Inversión,NA,06/06/2024,16:06:54,NA,"$6,002.00",Banorte,Sector Financiero,611
+5231,Tarjeta de crédito,Starbucks 756,07/01/2024,08:01:26,Artículo 34,"$7,051.00",Starbucks,Alimentos y bebidas,406
+9876,Fondos de Inversión,NA,06/08/2024,10:56:39,NA,"$1,299.00",Banorte,Sector Financiero,591
+8765,Tarjeta de crédito,Banorte 990,06/10/2024,22:51:32,Artículo 4,"$5,789.00",Banorte,E-commerce,480
+2002,Afore,NA,06/14/2024,08:08:12,NA,"$5,789.00",Banorte,Sector Financiero,389
+2002,Tarjeta de débito,Uber Eats 558,06/15/2024,21:26:05,Artículo 25,"$1,004.00",Uber Eats,Supermercado,389
+1234,Afore,NA,06/05/2024,19:26:23,NA,"$7,732.00",Banorte,Sector Financiero,571
+2002,Tarjeta de crédito,Uber Eats 45,06/30/2024,21:56:16,Artículo 47,"$9,923.00",Uber Eats,Electronics,389
+1001,Tarjeta de crédito,Amazon 858,06/11/2024,13:55:11,Artículo 25,"$2,975.00",Amazon,Entretenimiento,736
+6478,Afore,NA,07/01/2024,08:52:48,NA,"$4,225.00",Banorte,Sector Financiero,611
+1001,Afore,NA,06/06/2024,19:08:06,NA,"$5,228.00",Banorte,Sector Financiero,736
+9876,Tarjeta de crédito,Spotify 273,06/06/2024,20:03:29,Artículo 11,"$7,473.00",Spotify,Entretenimiento,591
+8765,Tarjeta de crédito,Sanborns 461,06/16/2024,06:13:44,Artículo 16,"$3,553.00",Sanborns,E-commerce,480
+1234,Tarjeta de crédito,Oxxo 430,06/12/2024,02:11:40,Artículo 30,"$6,714.00",Oxxo,Retail,571
+7555,Tarjeta de débito,Uber Eats 755,06/11/2024,07:25:40,Artículo 36,$351.00,Uber Eats,Supermercado,659
+9876,Tarjeta de crédito,Amazon 257,06/30/2024,13:11:09,Artículo 34,$949.00,Amazon,Retail,591
+5432,Tarjeta de débito,Amazon 56,06/28/2024,03:09:24,Artículo 33,"$1,172.00",Amazon,Entretenimiento,737
+1234,Tarjeta de crédito,Spotify 614,06/25/2024,14:45:54,Artículo 15,"$8,724.00",Spotify,Tecnología,571
+8765,Tarjeta de débito,Walmart 672,06/17/2024,17:56:37,Artículo 10,"$4,429.00",Walmart,Comida a domicilio,480
+5231,Tarjeta de crédito,Soriana 27,06/13/2024,03:12:44,Artículo 14,"$6,473.00",Soriana,Alimentos y bebidas,406
+1001,Tarjeta de crédito,Starbucks 802,06/20/2024,01:19:44,Artículo 41,"$8,637.00",Starbucks,Entretenimiento,736
+2002,Afore,NA,06/08/2024,21:57:51,NA,"$7,165.00",Banorte,Sector Financiero,389
+1001,Fondos de Inversión,NA,06/16/2024,20:39:05,NA,"$1,354.00",Banorte,Sector Financiero,736
+6478,Fondos de Inversión,NA,06/09/2024,20:49:43,NA,"$7,230.00",Banorte,Sector Financiero,611
+1001,Tarjeta de débito,Starbucks 30,06/16/2024,11:02:35,Artículo 23,"$3,517.00",Starbucks,Tecnología,736
+2002,Tarjeta de débito,Uber Eats 22,06/06/2024,19:05:32,Artículo 6,"$2,940.00",Uber Eats,Tecnología,389
+1001,Fondos de Inversión,NA,06/08/2024,06:39:09,NA,"$4,284.00",Banorte,Sector Financiero,736
+1234,Tarjeta de crédito,Uber Eats 739,06/27/2024,14:40:05,Artículo 38,"$8,243.00",Uber Eats,Restaurant,571
+9980,Tarjeta de crédito,Cinemex 259,06/27/2024,21:06:39,Artículo 50,"$8,759.00",Cinemex,Alimentos y bebidas,501
+7555,Tarjeta de crédito,Oxxo 120,06/24/2024,01:17:14,Artículo 25,"$8,058.00",Oxxo,E-commerce,659
+6478,Tarjeta de débito,Uber Eats 552,06/14/2024,14:56:28,Artículo 25,"$1,655.00",Uber Eats,Retail,611
+7555,Tarjeta de débito,Starbucks 743,06/24/2024,06:55:45,Artículo 22,"$3,725.00",Starbucks,Retail,659
+7555,Tarjeta de crédito,Spotify 942,07/03/2024,23:49:53,Artículo 11,$451.00,Spotify,Entretenimiento,659
+5432,Fondos de Inversión,NA,06/14/2024,00:54:24,NA,"$3,608.00",Banorte,Sector Financiero,737
+9980,Afore,NA,06/08/2024,12:11:26,NA,"$7,674.00",Banorte,Sector Financiero,501
+2002,Fondos de Inversión,NA,06/14/2024,18:32:43,NA,"$6,493.00",Banorte,Sector Financiero,389
+6478,Tarjeta de débito,Soriana 498,06/04/2024,03:44:34,Artículo 5,"$6,048.00",Soriana,Clothing,611
+9980,Tarjeta de crédito,iShop 818,06/09/2024,22:55:28,Artículo 26,"$9,025.00",iShop,Restaurant,501
+5432,Tarjeta de crédito,Liverpool 952,06/20/2024,19:49:53,Artículo 15,"$6,326.00",Liverpool,Entretenimiento,737
+9876,Fondos de Inversión,NA,06/26/2024,06:41:23,NA,"$2,513.00",Banorte,Sector Financiero,591
+2002,Fondos de Inversión,NA,06/27/2024,11:42:24,NA,"$6,187.00",Banorte,Sector Financiero,389
+9876,Fondos de Inversión,NA,06/14/2024,10:51:51,NA,"$6,509.00",Banorte,Sector Financiero,591
+8765,Tarjeta de crédito,Mercado Libre 822,07/01/2024,13:09:39,Artículo 8,"$4,557.00",Mercado Libre,Tecnología,480
+1234,Afore,NA,06/12/2024,09:18:03,NA,"$7,039.00",Banorte,Sector Financiero,571
+7555,Tarjeta de débito,Soriana 883,06/17/2024,10:52:09,Artículo 38,"$8,916.00",Soriana,Alimentos y bebidas,659
+9980,Tarjeta de débito,Liverpool 628,06/15/2024,15:50:40,Artículo 28,"$9,829.00",Liverpool,Entretenimiento,501
+9980,Afore,NA,06/22/2024,01:55:46,NA,"$3,481.00",Banorte,Sector Financiero,501
+1001,Tarjeta de débito,iShop 97,06/26/2024,02:39:58,Artículo 41,"$7,223.00",iShop,Tecnología,736
+6478,Fondos de Inversión,NA,06/24/2024,10:25:18,NA,"$3,640.00",Banorte,Sector Financiero,611
+9980,Afore,NA,06/26/2024,01:17:02,NA,"$4,375.00",Banorte,Sector Financiero,501
+8765,Tarjeta de débito,Chedraui 153,06/28/2024,07:11:42,Artículo 18,"$3,066.00",Chedraui,Electronics,480
+2002,Tarjeta de crédito,Chedraui 590,07/01/2024,04:26:42,Artículo 40,"$5,921.00",Chedraui,Electronics,389
+9876,Tarjeta de crédito,El Palacio de Hierro 230,06/27/2024,22:43:21,Artículo 28,"$3,974.00",El Palacio de Hierro,Restaurant,591
+7555,Afore,NA,06/29/2024,04:10:50,NA,"$2,224.00",Banorte,Sector Financiero,659
+5432,Afore,NA,06/05/2024,16:33:32,NA,$39.00,Banorte,Sector Financiero,737
+9980,Afore,NA,06/14/2024,12:47:30,NA,"$9,037.00",Banorte,Sector Financiero,501
+9980,Afore,NA,06/26/2024,10:18:55,NA,"$1,868.00",Banorte,Sector Financiero,501
+6478,Tarjeta de crédito,Banorte 388,06/20/2024,19:23:43,Artículo 34,"$7,095.00",Banorte,Entretenimiento,611
+8765,Tarjeta de crédito,Spotify 986,06/07/2024,17:22:32,Artículo 20,"$5,704.00",Spotify,Entretenimiento,480
+6478,Tarjeta de crédito,Starbucks 295,07/01/2024,21:34:12,Artículo 18,"$7,661.00",Starbucks,Electronics,611
+6478,Afore,NA,06/10/2024,01:04:30,NA,"$8,728.00",Banorte,Sector Financiero,611
+1001,Tarjeta de débito,iShop 511,06/23/2024,17:46:45,Artículo 23,"$4,551.00",iShop,E-commerce,736
+1001,Tarjeta de crédito,iShop 454,06/06/2024,09:39:00,Artículo 17,"$5,111.00",iShop,Tecnología,736
+1234,Tarjeta de débito,Chedraui 822,06/05/2024,10:05:52,Artículo 18,"$6,513.00",Chedraui,Retail,571
+1001,Afore,NA,06/14/2024,08:11:47,NA,"$2,005.00",Banorte,Sector Financiero,736
+9980,Afore,NA,06/24/2024,00:06:21,NA,$256.00,Banorte,Sector Financiero,501
+1234,Tarjeta de crédito,Chedraui 678,06/24/2024,04:26:28,Artículo 10,"$8,347.00",Chedraui,Entretenimiento,571
+2002,Tarjeta de débito,Banorte 39,06/20/2024,19:43:25,Artículo 47,"$7,430.00",Banorte,Entretenimiento,389
+1001,Fondos de Inversión,NA,06/18/2024,07:01:30,NA,"$4,171.00",Banorte,Sector Financiero,736
+8765,Afore,NA,06/16/2024,09:37:44,NA,$61.00,Banorte,Sector Financiero,480
+5231,Tarjeta de crédito,Amazon 990,06/16/2024,03:10:06,Artículo 8,"$3,298.00",Amazon,Electronics,406
+1234,Tarjeta de débito,Banorte 33,06/11/2024,07:00:55,Artículo 13,"$4,385.00",Banorte,Comida a domicilio,571
+8765,Afore,NA,06/12/2024,07:03:56,NA,"$9,467.00",Banorte,Sector Financiero,480
+7555,Afore,NA,06/25/2024,14:36:28,NA,$935.00,Banorte,Sector Financiero,659
+8765,Afore,NA,06/28/2024,07:20:50,NA,"$9,889.00",Banorte,Sector Financiero,480
+5432,Fondos de Inversión,NA,06/10/2024,09:44:22,NA,"$3,368.00",Banorte,Sector Financiero,737
+6478,Tarjeta de crédito,iShop 290,06/22/2024,17:06:09,Artículo 37,$149.00,iShop,Entretenimiento,611
+5231,Tarjeta de crédito,Walmart 309,06/05/2024,08:13:17,Artículo 3,"$2,553.00",Walmart,Electronics,406
+5231,Afore,NA,06/22/2024,10:57:12,NA,"$3,529.00",Banorte,Sector Financiero,406
+8765,Afore,NA,06/15/2024,15:09:57,NA,"$7,885.00",Banorte,Sector Financiero,480
+1234,Fondos de Inversión,NA,06/06/2024,01:01:00,NA,$180.00,Banorte,Sector Financiero,571
+5432,Tarjeta de crédito,Cinemex 569,06/23/2024,08:19:42,Artículo 41,"$1,797.00",Cinemex,Restaurant,737
+7555,Afore,NA,06/27/2024,19:16:25,NA,"$3,073.00",Banorte,Sector Financiero,659
+2002,Tarjeta de crédito,Liverpool 183,06/05/2024,14:46:31,Artículo 48,"$7,322.00",Liverpool,Supermercado,389
+9876,Afore,NA,06/12/2024,02:30:58,NA,"$5,723.00",Banorte,Sector Financiero,591
+1234,Tarjeta de débito,Oxxo 268,06/30/2024,10:35:03,Artículo 44,"$7,988.00",Oxxo,E-commerce,571
+5432,Afore,NA,06/19/2024,14:02:00,NA,"$2,631.00",Banorte,Sector Financiero,737
+7555,Fondos de Inversión,NA,06/19/2024,17:40:58,NA,"$4,248.00",Banorte,Sector Financiero,659
+8765,Tarjeta de crédito,Amazon 430,06/19/2024,07:59:01,Artículo 8,"$7,961.00",Amazon,Electronics,480
+9876,Afore,NA,06/27/2024,19:57:26,NA,"$4,425.00",Banorte,Sector Financiero,591
+2002,Tarjeta de débito,Chedraui 12,06/19/2024,01:19:21,Artículo 27,"$9,064.00",Chedraui,Restaurant,389
+1234,Afore,NA,06/06/2024,08:32:16,NA,"$1,096.00",Banorte,Sector Financiero,571
+1234,Fondos de Inversión,NA,06/30/2024,23:27:24,NA,"$3,821.00",Banorte,Sector Financiero,571
+1001,Tarjeta de débito,Spotify 324,06/10/2024,20:11:41,Artículo 1,"$8,299.00",Spotify,Clothing,736
+9980,Tarjeta de crédito,iShop 194,06/08/2024,18:29:15,Artículo 17,"$6,016.00",iShop,Clothing,501
+2002,Tarjeta de crédito,Mercado Libre 279,07/02/2024,04:05:58,Artículo 35,"$2,413.00",Mercado Libre,Electronics,389
+1001,Tarjeta de crédito,Spotify 465,06/26/2024,02:36:33,Artículo 38,"$2,595.00",Spotify,Restaurant,736
+9980,Tarjeta de débito,Chedraui 634,06/11/2024,07:37:53,Artículo 46,"$6,940.00",Chedraui,Restaurant,501
+2002,Fondos de Inversión,NA,07/04/2024,06:28:57,NA,"$6,624.00",Banorte,Sector Financiero,389
+1001,Tarjeta de débito,Sanborns 266,07/04/2024,06:21:27,Artículo 24,"$4,004.00",Sanborns,Electronics,736
+8765,Afore,NA,06/19/2024,20:36:25,NA,"$5,856.00",Banorte,Sector Financiero,480
+1234,Fondos de Inversión,NA,06/10/2024,06:51:06,NA,"$6,562.00",Banorte,Sector Financiero,571
+1234,Tarjeta de crédito,Liverpool 108,06/19/2024,13:41:14,Artículo 35,"$6,960.00",Liverpool,Alimentos y bebidas,571
+1001,Tarjeta de débito,Oxxo 522,06/26/2024,23:48:00,Artículo 36,"$5,156.00",Oxxo,Alimentos y bebidas,736
+1234,Tarjeta de crédito,Cinemex 512,06/30/2024,11:20:53,Artículo 14,"$8,781.00",Cinemex,E-commerce,571
+1001,Fondos de Inversión,NA,06/23/2024,11:29:37,NA,"$2,575.00",Banorte,Sector Financiero,736
+2002,Fondos de Inversión,NA,06/06/2024,21:03:57,NA,"$3,934.00",Banorte,Sector Financiero,389
+7555,Fondos de Inversión,NA,06/20/2024,04:57:06,NA,"$5,568.00",Banorte,Sector Financiero,659
+2002,Tarjeta de débito,iShop 957,06/30/2024,00:47:38,Artículo 12,"$5,313.00",iShop,Alimentos y bebidas,389
+7555,Afore,NA,06/18/2024,23:20:14,NA,"$5,610.00",Banorte,Sector Financiero,659
+9980,Fondos de Inversión,NA,06/19/2024,02:45:54,NA,"$1,787.00",Banorte,Sector Financiero,501
+5231,Tarjeta de débito,Starbucks 913,07/02/2024,01:44:39,Artículo 6,"$3,149.00",Starbucks,Retail,406
+5231,Afore,NA,06/27/2024,19:17:14,NA,$174.00,Banorte,Sector Financiero,406
+8765,Afore,NA,06/15/2024,02:01:10,NA,"$2,900.00",Banorte,Sector Financiero,480
+2002,Afore,NA,06/16/2024,21:31:34,NA,"$4,610.00",Banorte,Sector Financiero,389
+7555,Afore,NA,06/23/2024,03:06:56,NA,"$8,929.00",Banorte,Sector Financiero,659
+2002,Tarjeta de crédito,Amazon 81,06/24/2024,07:00:45,Artículo 21,"$5,934.00",Amazon,Supermercado,389
+1001,Afore,NA,06/11/2024,11:54:43,NA,"$8,438.00",Banorte,Sector Financiero,736
+9876,Tarjeta de crédito,iShop 647,06/19/2024,18:28:29,Artículo 35,"$2,344.00",iShop,E-commerce,591
+7555,Afore,NA,06/05/2024,21:12:02,NA,"$4,291.00",Banorte,Sector Financiero,659
+6478,Tarjeta de crédito,Cinemex 954,06/10/2024,03:16:26,Artículo 27,"$6,792.00",Cinemex,Tecnología,611
+2002,Fondos de Inversión,NA,07/03/2024,17:51:47,NA,"$4,391.00",Banorte,Sector Financiero,389
+1001,Afore,NA,06/06/2024,19:15:59,NA,"$2,270.00",Banorte,Sector Financiero,736
+5432,Fondos de Inversión,NA,06/17/2024,11:06:08,NA,"$3,858.00",Banorte,Sector Financiero,737
+6478,Afore,NA,06/22/2024,21:53:25,NA,"$8,146.00",Banorte,Sector Financiero,611
+2002,Afore,NA,06/14/2024,12:14:17,NA,"$5,553.00",Banorte,Sector Financiero,389
+5432,Fondos de Inversión,NA,06/10/2024,04:48:11,NA,"$6,796.00",Banorte,Sector Financiero,737
+8765,Fondos de Inversión,NA,07/03/2024,08:09:15,NA,"$2,798.00",Banorte,Sector Financiero,480
+5231,Fondos de Inversión,NA,07/04/2024,05:24:15,NA,$467.00,Banorte,Sector Financiero,406
+2002,Afore,NA,06/26/2024,20:25:37,NA,"$1,799.00",Banorte,Sector Financiero,389
+8765,Tarjeta de crédito,Amazon 182,06/17/2024,22:23:43,Artículo 11,"$6,091.00",Amazon,E-commerce,480
+1001,Tarjeta de crédito,Sanborns 191,06/30/2024,07:46:37,Artículo 7,"$4,534.00",Sanborns,Restaurant,736
+9980,Tarjeta de crédito,Soriana 979,07/04/2024,00:43:39,Artículo 8,"$1,518.00",Soriana,Comida a domicilio,501
+5231,Fondos de Inversión,NA,06/25/2024,02:47:17,NA,"$9,912.00",Banorte,Sector Financiero,406
+2002,Tarjeta de débito,Oxxo 94,06/26/2024,11:43:27,Artículo 31,"$6,325.00",Oxxo,Tecnología,389
+6478,Tarjeta de crédito,Starbucks 677,06/08/2024,16:40:02,Artículo 27,"$9,493.00",Starbucks,Entretenimiento,611
+5432,Afore,NA,06/10/2024,21:31:25,NA,"$3,327.00",Banorte,Sector Financiero,737
+5432,Tarjeta de débito,iShop 833,06/17/2024,08:17:42,Artículo 14,"$5,512.00",iShop,Comida a domicilio,737
+5231,Tarjeta de crédito,Starbucks 615,06/17/2024,04:37:56,Artículo 45,"$4,000.00",Starbucks,Supermercado,406
+5432,Tarjeta de débito,Liverpool 272,06/21/2024,18:18:18,Artículo 33,"$1,361.00",Liverpool,Restaurant,737
+1234,Tarjeta de débito,Mercado Libre 742,06/11/2024,06:08:51,Artículo 47,"$7,358.00",Mercado Libre,Retail,571
+6478,Afore,NA,07/01/2024,19:28:50,NA,"$8,565.00",Banorte,Sector Financiero,611
+8765,Fondos de Inversión,NA,06/24/2024,09:50:06,NA,"$4,354.00",Banorte,Sector Financiero,480
+6478,Afore,NA,06/04/2024,17:07:47,NA,"$4,218.00",Banorte,Sector Financiero,611
+5432,Afore,NA,06/21/2024,11:33:56,NA,"$9,608.00",Banorte,Sector Financiero,737
+5432,Fondos de Inversión,NA,06/28/2024,21:53:46,NA,"$1,269.00",Banorte,Sector Financiero,737
+7555,Fondos de Inversión,NA,06/26/2024,12:10:49,NA,"$2,377.00",Banorte,Sector Financiero,659
+1001,Tarjeta de débito,Soriana 634,06/28/2024,14:06:31,Artículo 36,"$2,384.00",Soriana,Tecnología,736
+9980,Afore,NA,06/28/2024,16:42:29,NA,"$3,818.00",Banorte,Sector Financiero,501
+1234,Afore,NA,06/04/2024,16:11:50,NA,"$1,318.00",Banorte,Sector Financiero,571
+9980,Tarjeta de débito,Uber Eats 23,06/05/2024,20:28:32,Artículo 4,"$7,922.00",Uber Eats,Comida a domicilio,501
+9980,Afore,NA,06/24/2024,05:11:04,NA,"$7,413.00",Banorte,Sector Financiero,501
+1001,Afore,NA,06/19/2024,07:54:50,NA,"$9,099.00",Banorte,Sector Financiero,736
+1001,Fondos de Inversión,NA,06/23/2024,12:40:04,NA,"$6,892.00",Banorte,Sector Financiero,736
+9980,Fondos de Inversión,NA,07/02/2024,11:29:07,NA,"$4,208.00",Banorte,Sector Financiero,501
+9980,Afore,NA,06/04/2024,00:02:42,NA,"$6,566.00",Banorte,Sector Financiero,501
+1001,Afore,NA,06/19/2024,07:31:19,NA,"$2,505.00",Banorte,Sector Financiero,736
+6478,Afore,NA,06/19/2024,19:52:01,NA,"$9,014.00",Banorte,Sector Financiero,611
+9980,Tarjeta de débito,Sanborns 451,06/26/2024,11:45:33,Artículo 9,"$5,465.00",Sanborns,Alimentos y bebidas,501
+2002,Afore,NA,07/03/2024,11:25:32,NA,"$8,224.00",Banorte,Sector Financiero,389
+9980,Afore,NA,06/06/2024,04:28:46,NA,"$3,640.00",Banorte,Sector Financiero,501
+5231,Tarjeta de débito,Soriana 236,06/17/2024,22:34:47,Artículo 15,"$8,921.00",Soriana,Retail,406
+9980,Tarjeta de débito,Spotify 287,06/20/2024,17:05:18,Artículo 43,"$3,548.00",Spotify,Supermercado,501
+1001,Tarjeta de débito,Oxxo 385,06/23/2024,12:32:25,Artículo 21,"$9,295.00",Oxxo,Supermercado,736
+7555,Fondos de Inversión,NA,06/13/2024,08:33:18,NA,"$7,827.00",Banorte,Sector Financiero,659
+8765,Afore,NA,07/01/2024,06:09:44,NA,"$4,564.00",Banorte,Sector Financiero,480
+5432,Tarjeta de débito,Walmart 226,06/07/2024,21:47:33,Artículo 29,"$5,962.00",Walmart,Alimentos y bebidas,737
+5432,Tarjeta de crédito,Starbucks 867,06/23/2024,01:35:31,Artículo 12,"$4,824.00",Starbucks,Supermercado,737
+6478,Afore,NA,07/01/2024,20:40:28,NA,"$7,646.00",Banorte,Sector Financiero,611
+9876,Afore,NA,06/04/2024,11:55:38,NA,"$2,924.00",Banorte,Sector Financiero,591
+1001,Fondos de Inversión,NA,06/26/2024,15:50:17,NA,"$9,864.00",Banorte,Sector Financiero,736
+2002,Fondos de Inversión,NA,06/12/2024,13:44:28,NA,"$7,130.00",Banorte,Sector Financiero,389
+1001,Afore,NA,06/22/2024,14:44:27,NA,"$5,188.00",Banorte,Sector Financiero,736
+5231,Tarjeta de débito,Mercado Libre 40,06/08/2024,04:08:44,Artículo 29,"$2,044.00",Mercado Libre,Entretenimiento,406
+7555,Tarjeta de débito,Amazon 518,06/06/2024,18:16:38,Artículo 1,"$1,025.00",Amazon,Electronics,659
+6478,Fondos de Inversión,NA,07/04/2024,08:35:58,NA,"$9,499.00",Banorte,Sector Financiero,611
+6478,Afore,NA,06/26/2024,22:02:54,NA,"$8,050.00",Banorte,Sector Financiero,611
+9980,Tarjeta de crédito,Starbucks 549,06/22/2024,10:28:18,Artículo 48,"$9,565.00",Starbucks,Retail,501
+7555,Tarjeta de crédito,Liverpool 454,06/22/2024,00:14:20,Artículo 46,"$8,048.00",Liverpool,Clothing,659
+2002,Fondos de Inversión,NA,06/19/2024,23:12:07,NA,"$9,103.00",Banorte,Sector Financiero,389
+6478,Tarjeta de crédito,iShop 775,06/04/2024,03:09:23,Artículo 15,"$3,851.00",iShop,Clothing,611
+2002,Tarjeta de débito,Sanborns 221,06/04/2024,15:25:39,Artículo 31,"$3,744.00",Sanborns,Tecnología,389
+6478,Tarjeta de débito,El Palacio de Hierro 490,06/11/2024,11:13:03,Artículo 38,"$5,066.00",El Palacio de Hierro,Supermercado,611
+8765,Afore,NA,06/10/2024,10:05:47,NA,"$7,862.00",Banorte,Sector Financiero,480
+9980,Fondos de Inversión,NA,06/12/2024,11:50:32,NA,"$2,473.00",Banorte,Sector Financiero,501
+7555,Fondos de Inversión,NA,06/08/2024,18:18:28,NA,"$6,503.00",Banorte,Sector Financiero,659
+2002,Afore,NA,07/04/2024,09:31:37,NA,"$5,059.00",Banorte,Sector Financiero,389
+2002,Tarjeta de débito,Amazon 375,06/06/2024,04:50:26,Artículo 40,"$4,071.00",Amazon,Supermercado,389
+1001,Afore,NA,06/25/2024,16:18:22,NA,"$6,875.00",Banorte,Sector Financiero,736
+8765,Tarjeta de crédito,Soriana 228,06/07/2024,19:52:09,Artículo 29,"$2,319.00",Soriana,Retail,480
+5231,Tarjeta de débito,Sanborns 144,06/17/2024,09:16:10,Artículo 23,"$9,589.00",Sanborns,Tecnología,406
+7555,Afore,NA,07/04/2024,08:26:20,NA,"$7,736.00",Banorte,Sector Financiero,659
+1234,Tarjeta de débito,Oxxo 791,06/17/2024,12:02:01,Artículo 40,"$3,222.00",Oxxo,Retail,571
+1234,Fondos de Inversión,NA,06/09/2024,22:16:25,NA,"$2,491.00",Banorte,Sector Financiero,571
+1234,Tarjeta de débito,Oxxo 145,06/16/2024,04:33:02,Artículo 9,"$4,112.00",Oxxo,Electronics,571
+6478,Afore,NA,06/26/2024,04:38:26,NA,$685.00,Banorte,Sector Financiero,611
+1001,Fondos de Inversión,NA,07/04/2024,16:08:15,NA,"$2,787.00",Banorte,Sector Financiero,736
+7555,Tarjeta de crédito,Uber Eats 316,06/15/2024,22:39:52,Artículo 7,"$5,401.00",Uber Eats,Comida a domicilio,659
+2002,Afore,NA,06/04/2024,16:13:43,NA,"$7,927.00",Banorte,Sector Financiero,389
+2002,Tarjeta de débito,Liverpool 587,06/18/2024,03:01:10,Artículo 12,"$6,239.00",Liverpool,Supermercado,389
+1234,Tarjeta de débito,Starbucks 158,06/19/2024,18:03:05,Artículo 8,"$6,630.00",Starbucks,Alimentos y bebidas,571
+2002,Tarjeta de crédito,Starbucks 746,06/24/2024,22:51:12,Artículo 23,"$6,574.00",Starbucks,Alimentos y bebidas,389
+6478,Tarjeta de crédito,Sanborns 890,06/04/2024,09:59:02,Artículo 18,"$3,943.00",Sanborns,Alimentos y bebidas,611
+1001,Fondos de Inversión,NA,07/04/2024,22:09:30,NA,"$7,255.00",Banorte,Sector Financiero,736
+1234,Tarjeta de débito,Starbucks 372,06/29/2024,22:58:38,Artículo 21,$721.00,Starbucks,Restaurant,571
+1001,Fondos de Inversión,NA,06/27/2024,04:41:20,NA,"$1,684.00",Banorte,Sector Financiero,736
+1001,Tarjeta de débito,Walmart 536,06/10/2024,21:10:04,Artículo 29,"$8,206.00",Walmart,Entretenimiento,736
+5432,Tarjeta de débito,Starbucks 381,06/12/2024,13:34:54,Artículo 23,"$8,860.00",Starbucks,Restaurant,737
+8765,Tarjeta de crédito,Cinemex 7,06/07/2024,05:08:29,Artículo 37,"$6,100.00",Cinemex,Tecnología,480
+7555,Tarjeta de crédito,Oxxo 746,07/02/2024,05:53:28,Artículo 47,"$7,772.00",Oxxo,E-commerce,659
+5231,Fondos de Inversión,NA,06/15/2024,10:05:25,NA,"$4,053.00",Banorte,Sector Financiero,406
+1234,Tarjeta de crédito,Cinemex 679,06/04/2024,03:04:34,Artículo 41,"$3,265.00",Cinemex,Restaurant,571
+8765,Fondos de Inversión,NA,06/12/2024,15:04:09,NA,"$4,763.00",Banorte,Sector Financiero,480
+7555,Tarjeta de débito,Amazon 752,06/15/2024,21:35:35,Artículo 42,"$4,415.00",Amazon,Comida a domicilio,659
+5231,Tarjeta de crédito,Sanborns 881,06/24/2024,00:01:43,Artículo 13,"$1,629.00",Sanborns,Electronics,406
+2002,Afore,NA,06/04/2024,20:07:23,NA,"$4,053.00",Banorte,Sector Financiero,389
+5432,Afore,NA,06/29/2024,18:28:47,NA,"$8,363.00",Banorte,Sector Financiero,737
+9980,Tarjeta de débito,Oxxo 645,06/08/2024,04:24:11,Artículo 3,$126.00,Oxxo,Retail,501
+5231,Tarjeta de débito,Soriana 688,06/20/2024,11:24:26,Artículo 21,"$9,753.00",Soriana,Supermercado,406
+1234,Tarjeta de débito,El Palacio de Hierro 394,06/21/2024,05:08:18,Artículo 37,$117.00,El Palacio de Hierro,Alimentos y bebidas,571
+1234,Fondos de Inversión,NA,06/13/2024,07:12:02,NA,"$4,878.00",Banorte,Sector Financiero,571
+6478,Afore,NA,06/13/2024,09:03:46,NA,$58.00,Banorte,Sector Financiero,611
+5432,Tarjeta de crédito,Uber Eats 336,06/17/2024,03:22:51,Artículo 2,"$8,740.00",Uber Eats,Alimentos y bebidas,737
+1001,Afore,NA,07/04/2024,20:37:08,NA,"$3,775.00",Banorte,Sector Financiero,736
+9876,Fondos de Inversión,NA,06/22/2024,04:17:33,NA,"$9,415.00",Banorte,Sector Financiero,591
+9876,Tarjeta de débito,Sanborns 439,06/25/2024,14:57:38,Artículo 18,"$7,060.00",Sanborns,E-commerce,591
+1001,Fondos de Inversión,NA,06/23/2024,19:41:16,NA,"$3,070.00",Banorte,Sector Financiero,736
+9876,Fondos de Inversión,NA,06/06/2024,07:24:08,NA,"$8,055.00",Banorte,Sector Financiero,591
+5231,Afore,NA,06/08/2024,00:35:02,NA,"$2,628.00",Banorte,Sector Financiero,406
+6478,Tarjeta de crédito,Uber Eats 351,06/29/2024,03:10:52,Artículo 32,"$6,581.00",Uber Eats,Electronics,611
+6478,Fondos de Inversión,NA,06/17/2024,01:17:44,NA,"$9,130.00",Banorte,Sector Financiero,611
+5432,Tarjeta de crédito,Cinemex 876,06/19/2024,19:09:18,Artículo 22,"$7,514.00",Cinemex,Entretenimiento,737
+5432,Fondos de Inversión,NA,06/13/2024,07:29:21,NA,"$4,573.00",Banorte,Sector Financiero,737
+7555,Tarjeta de crédito,Spotify 639,06/29/2024,05:49:05,Artículo 26,"$5,832.00",Spotify,Electronics,659
+9876,Tarjeta de crédito,Sanborns 232,06/26/2024,01:23:51,Artículo 17,"$4,884.00",Sanborns,Alimentos y bebidas,591
+9876,Afore,NA,06/10/2024,07:24:26,NA,"$2,424.00",Banorte,Sector Financiero,591
+9980,Fondos de Inversión,NA,06/22/2024,01:58:13,NA,"$6,927.00",Banorte,Sector Financiero,501
+2002,Afore,NA,06/10/2024,06:33:51,NA,"$2,331.00",Banorte,Sector Financiero,389
+1234,Fondos de Inversión,NA,06/30/2024,07:22:35,NA,"$5,419.00",Banorte,Sector Financiero,571
+9876,Tarjeta de débito,Liverpool 603,06/04/2024,01:32:46,Artículo 37,"$1,180.00",Liverpool,Restaurant,591
+9980,Fondos de Inversión,NA,06/06/2024,04:54:16,NA,"$8,050.00",Banorte,Sector Financiero,501
+9876,Afore,NA,06/15/2024,17:33:27,NA,"$5,199.00",Banorte,Sector Financiero,591
+2002,Afore,NA,06/13/2024,14:18:24,NA,"$2,135.00",Banorte,Sector Financiero,389
+9876,Tarjeta de crédito,Spotify 613,06/27/2024,20:07:35,Artículo 10,$884.00,Spotify,Entretenimiento,591
+2002,Tarjeta de crédito,Soriana 424,06/22/2024,01:42:52,Artículo 43,"$5,964.00",Soriana,Comida a domicilio,389
+1234,Tarjeta de crédito,Soriana 31,06/19/2024,18:25:49,Artículo 7,$305.00,Soriana,Supermercado,571
+1234,Afore,NA,07/02/2024,11:57:33,NA,"$6,831.00",Banorte,Sector Financiero,571
+2002,Tarjeta de crédito,Liverpool 404,06/11/2024,12:21:39,Artículo 32,"$1,559.00",Liverpool,Supermercado,389
+9980,Afore,NA,06/27/2024,04:02:48,NA,"$1,806.00",Banorte,Sector Financiero,501
+9980,Afore,NA,07/01/2024,13:45:14,NA,"$6,090.00",Banorte,Sector Financiero,501
+8765,Tarjeta de débito,Starbucks 941,07/02/2024,22:21:17,Artículo 41,"$8,195.00",Starbucks,Restaurant,480
+9876,Fondos de Inversión,NA,06/17/2024,03:58:33,NA,"$9,307.00",Banorte,Sector Financiero,591
+5231,Tarjeta de crédito,El Palacio de Hierro 940,06/24/2024,10:25:47,Artículo 6,"$5,180.00",El Palacio de Hierro,Restaurant,406
+7555,Tarjeta de crédito,Spotify 205,07/03/2024,06:28:29,Artículo 12,"$2,589.00",Spotify,Entretenimiento,659
+7555,Tarjeta de crédito,Oxxo 299,06/08/2024,17:56:12,Artículo 17,$823.00,Oxxo,Tecnología,659
+1234,Fondos de Inversión,NA,06/17/2024,17:21:49,NA,"$3,596.00",Banorte,Sector Financiero,571
+8765,Tarjeta de débito,El Palacio de Hierro 887,06/10/2024,04:49:38,Artículo 11,"$8,078.00",El Palacio de Hierro,Electronics,480
+6478,Tarjeta de débito,Cinemex 571,06/28/2024,18:11:52,Artículo 13,"$5,671.00",Cinemex,Electronics,611
+7555,Tarjeta de débito,Starbucks 951,06/08/2024,20:38:30,Artículo 14,"$6,781.00",Starbucks,Restaurant,659
+5231,Tarjeta de débito,Amazon 569,06/12/2024,22:45:42,Artículo 14,"$3,645.00",Amazon,Comida a domicilio,406
+7555,Tarjeta de crédito,iShop 503,06/05/2024,18:35:43,Artículo 21,"$4,374.00",iShop,Clothing,659
+9876,Fondos de Inversión,NA,06/04/2024,15:56:14,NA,$551.00,Banorte,Sector Financiero,591
+6478,Tarjeta de crédito,Starbucks 834,06/12/2024,09:00:08,Artículo 37,"$3,074.00",Starbucks,Restaurant,611
+7555,Fondos de Inversión,NA,06/24/2024,19:19:34,NA,"$6,750.00",Banorte,Sector Financiero,659
+1234,Tarjeta de crédito,Spotify 874,07/04/2024,17:01:20,Artículo 34,"$2,423.00",Spotify,Supermercado,571
+9980,Tarjeta de crédito,Mercado Libre 810,06/13/2024,06:14:13,Artículo 16,"$2,465.00",Mercado Libre,E-commerce,501
+2002,Tarjeta de crédito,Chedraui 864,06/15/2024,11:28:00,Artículo 16,"$1,269.00",Chedraui,Restaurant,389
+9980,Tarjeta de débito,Banorte 258,06/24/2024,05:25:20,Artículo 27,$880.00,Banorte,Alimentos y bebidas,501
+7555,Fondos de Inversión,NA,07/01/2024,14:37:21,NA,"$6,602.00",Banorte,Sector Financiero,659
+9876,Fondos de Inversión,NA,07/02/2024,01:53:56,NA,"$6,271.00",Banorte,Sector Financiero,591
+7555,Tarjeta de débito,iShop 96,06/14/2024,16:40:32,Artículo 10,"$6,216.00",iShop,Entretenimiento,659
+8765,Tarjeta de crédito,Uber Eats 378,06/13/2024,15:30:39,Artículo 28,"$5,111.00",Uber Eats,Comida a domicilio,480
+6478,Tarjeta de débito,El Palacio de Hierro 884,06/05/2024,23:00:27,Artículo 44,"$9,420.00",El Palacio de Hierro,Tecnología,611
+5432,Afore,NA,06/25/2024,20:16:37,NA,"$9,634.00",Banorte,Sector Financiero,737
+9876,Fondos de Inversión,NA,06/20/2024,02:45:36,NA,"$3,363.00",Banorte,Sector Financiero,591
+9980,Tarjeta de crédito,Spotify 915,07/04/2024,17:58:28,Artículo 9,"$9,262.00",Spotify,Entretenimiento,501
+9980,Tarjeta de crédito,Amazon 172,07/03/2024,19:31:08,Artículo 9,"$7,515.00",Amazon,Entretenimiento,501
+6478,Tarjeta de débito,Starbucks 524,06/07/2024,00:01:40,Artículo 44,"$5,841.00",Starbucks,Restaurant,611
+6478,Tarjeta de crédito,Walmart 573,06/22/2024,14:47:25,Artículo 26,"$5,324.00",Walmart,Comida a domicilio,611
+2002,Tarjeta de débito,Liverpool 663,07/03/2024,09:15:38,Artículo 31,$384.00,Liverpool,Electronics,389
+9980,Fondos de Inversión,NA,06/18/2024,20:39:35,NA,"$4,739.00",Banorte,Sector Financiero,501
+5231,Fondos de Inversión,NA,07/04/2024,12:52:57,NA,"$3,758.00",Banorte,Sector Financiero,406
+9876,Fondos de Inversión,NA,06/06/2024,16:54:13,NA,"$1,871.00",Banorte,Sector Financiero,591
+1234,Tarjeta de débito,Spotify 10,06/20/2024,11:33:46,Artículo 49,"$8,871.00",Spotify,Supermercado,571
+9876,Fondos de Inversión,NA,06/16/2024,03:42:23,NA,"$3,765.00",Banorte,Sector Financiero,591
+8765,Tarjeta de crédito,Soriana 495,07/02/2024,19:35:54,Artículo 47,"$6,187.00",Soriana,Electronics,480
+2002,Tarjeta de crédito,Cinemex 671,06/28/2024,16:19:06,Artículo 46,"$2,326.00",Cinemex,Comida a domicilio,389
+7555,Fondos de Inversión,NA,06/12/2024,01:24:14,NA,"$6,634.00",Banorte,Sector Financiero,659
+1234,Afore,NA,07/01/2024,07:04:54,NA,"$9,194.00",Banorte,Sector Financiero,571
+5231,Afore,NA,06/11/2024,04:04:45,NA,"$5,119.00",Banorte,Sector Financiero,406
+5432,Fondos de Inversión,NA,06/25/2024,08:04:59,NA,"$5,861.00",Banorte,Sector Financiero,737
+5432,Tarjeta de débito,Uber Eats 507,06/09/2024,08:27:38,Artículo 22,"$7,663.00",Uber Eats,Restaurant,737
+7555,Tarjeta de débito,Sanborns 976,06/10/2024,21:22:57,Artículo 6,"$4,569.00",Sanborns,E-commerce,659
+8765,Fondos de Inversión,NA,06/28/2024,23:24:39,NA,"$4,342.00",Banorte,Sector Financiero,480
+5231,Afore,NA,07/04/2024,00:45:00,NA,"$2,413.00",Banorte,Sector Financiero,406
+7555,Tarjeta de débito,Chedraui 737,06/24/2024,08:19:40,Artículo 32,"$6,377.00",Chedraui,Restaurant,659
+5231,Afore,NA,06/16/2024,19:50:56,NA,"$6,921.00",Banorte,Sector Financiero,406
+2002,Afore,NA,06/16/2024,16:08:52,NA,"$3,664.00",Banorte,Sector Financiero,389
+9876,Fondos de Inversión,NA,06/11/2024,10:30:13,NA,$931.00,Banorte,Sector Financiero,591
+7555,Tarjeta de crédito,Cinemex 48,06/04/2024,12:41:25,Artículo 41,"$6,931.00",Cinemex,Clothing,659
+2002,Afore,NA,06/16/2024,09:30:35,NA,"$6,224.00",Banorte,Sector Financiero,389
+7555,Tarjeta de débito,iShop 902,06/11/2024,11:31:09,Artículo 37,"$9,028.00",iShop,Electronics,659
+9980,Afore,NA,06/15/2024,03:23:43,NA,"$4,970.00",Banorte,Sector Financiero,501
+5432,Tarjeta de débito,Sanborns 491,06/22/2024,22:08:48,Artículo 50,"$5,772.00",Sanborns,Clothing,737
+5432,Fondos de Inversión,NA,06/23/2024,21:19:22,NA,"$9,461.00",Banorte,Sector Financiero,737
+1234,Fondos de Inversión,NA,06/18/2024,04:00:15,NA,"$3,748.00",Banorte,Sector Financiero,571
+7555,Tarjeta de débito,Starbucks 400,06/28/2024,14:42:28,Artículo 19,"$2,672.00",Starbucks,Tecnología,659
+5231,Fondos de Inversión,NA,06/13/2024,08:28:32,NA,"$6,140.00",Banorte,Sector Financiero,406
+8765,Fondos de Inversión,NA,06/19/2024,23:14:39,NA,"$7,174.00",Banorte,Sector Financiero,480
+6478,Tarjeta de débito,Spotify 947,07/02/2024,10:26:20,Artículo 11,"$3,071.00",Spotify,Restaurant,611
+2002,Afore,NA,06/18/2024,08:58:26,NA,"$3,212.00",Banorte,Sector Financiero,389
+9980,Tarjeta de crédito,Soriana 32,06/29/2024,05:30:50,Artículo 47,"$9,695.00",Soriana,Comida a domicilio,501
+1234,Fondos de Inversión,NA,06/16/2024,12:18:31,NA,"$8,599.00",Banorte,Sector Financiero,571
+9980,Fondos de Inversión,NA,06/10/2024,23:26:16,NA,"$2,579.00",Banorte,Sector Financiero,501
+2002,Tarjeta de débito,Walmart 156,06/25/2024,22:58:50,Artículo 11,"$6,650.00",Walmart,Tecnología,389
+9980,Fondos de Inversión,NA,06/28/2024,04:38:08,NA,"$9,327.00",Banorte,Sector Financiero,501
+5231,Tarjeta de débito,Sanborns 797,06/20/2024,20:57:25,Artículo 8,$51.00,Sanborns,Restaurant,406
+7555,Fondos de Inversión,NA,07/02/2024,20:45:53,NA,"$2,044.00",Banorte,Sector Financiero,659
+1234,Fondos de Inversión,NA,06/20/2024,19:34:57,NA,"$2,468.00",Banorte,Sector Financiero,571
+5432,Fondos de Inversión,NA,06/04/2024,22:08:03,NA,"$6,929.00",Banorte,Sector Financiero,737
+7555,Tarjeta de crédito,Starbucks 196,06/27/2024,17:14:11,Artículo 2,"$1,167.00",Starbucks,E-commerce,659
+5231,Tarjeta de débito,Amazon 60,06/07/2024,06:08:45,Artículo 5,"$9,675.00",Amazon,E-commerce,406
+1234,Tarjeta de crédito,Starbucks 13,06/26/2024,23:43:05,Artículo 16,"$4,454.00",Starbucks,Alimentos y bebidas,571
+7555,Fondos de Inversión,NA,06/11/2024,18:15:44,NA,"$8,140.00",Banorte,Sector Financiero,659
+1234,Fondos de Inversión,NA,06/06/2024,03:10:03,NA,"$1,701.00",Banorte,Sector Financiero,571
+9980,Fondos de Inversión,NA,06/04/2024,18:01:35,NA,"$3,307.00",Banorte,Sector Financiero,501
+8765,Tarjeta de débito,El Palacio de Hierro 133,06/28/2024,09:15:41,Artículo 30,"$5,262.00",El Palacio de Hierro,Clothing,480
+2002,Tarjeta de débito,Amazon 344,06/13/2024,20:09:28,Artículo 17,"$2,484.00",Amazon,Retail,389
+8765,Tarjeta de débito,Amazon 67,06/15/2024,14:16:53,Artículo 9,"$6,188.00",Amazon,Supermercado,480
+6478,Tarjeta de débito,Walmart 176,06/20/2024,13:58:19,Artículo 17,"$3,195.00",Walmart,Alimentos y bebidas,611
+8765,Tarjeta de débito,Oxxo 108,06/07/2024,02:30:55,Artículo 34,"$8,981.00",Oxxo,Retail,480
+1001,Afore,NA,06/20/2024,18:54:11,NA,"$5,795.00",Banorte,Sector Financiero,736
+2002,Afore,NA,06/08/2024,10:37:45,NA,"$6,107.00",Banorte,Sector Financiero,389
+2002,Tarjeta de crédito,Starbucks 981,06/16/2024,03:04:40,Artículo 37,"$6,122.00",Starbucks,Electronics,389
+1001,Tarjeta de débito,Uber Eats 113,06/29/2024,20:26:52,Artículo 20,"$5,862.00",Uber Eats,Supermercado,736
+1001,Tarjeta de crédito,El Palacio de Hierro 947,06/19/2024,17:16:04,Artículo 26,"$7,590.00",El Palacio de Hierro,Tecnología,736
+1234,Fondos de Inversión,NA,06/10/2024,16:22:31,NA,"$8,257.00",Banorte,Sector Financiero,571
+5231,Afore,NA,07/01/2024,06:58:16,NA,"$2,779.00",Banorte,Sector Financiero,406
+5432,Tarjeta de crédito,Soriana 592,06/26/2024,09:07:21,Artículo 35,"$5,829.00",Soriana,Electronics,737
+9876,Tarjeta de crédito,iShop 321,06/20/2024,04:50:23,Artículo 2,"$6,615.00",iShop,Retail,591
+5432,Fondos de Inversión,NA,06/23/2024,10:38:50,NA,"$7,335.00",Banorte,Sector Financiero,737
+9876,Tarjeta de débito,Walmart 715,06/27/2024,16:56:37,Artículo 36,"$1,229.00",Walmart,Clothing,591
+1234,Tarjeta de crédito,Liverpool 787,06/10/2024,07:38:01,Artículo 48,"$3,795.00",Liverpool,Supermercado,571
+7555,Fondos de Inversión,NA,06/08/2024,06:14:34,NA,"$5,119.00",Banorte,Sector Financiero,659
+2002,Tarjeta de débito,Banorte 612,06/22/2024,06:03:41,Artículo 36,"$5,517.00",Banorte,E-commerce,389
+9876,Tarjeta de débito,Sanborns 266,06/05/2024,20:36:00,Artículo 16,"$8,376.00",Sanborns,Supermercado,591
+8765,Tarjeta de débito,Spotify 215,06/16/2024,21:49:42,Artículo 21,"$7,656.00",Spotify,Electronics,480
+9980,Afore,NA,06/05/2024,23:19:05,NA,"$3,163.00",Banorte,Sector Financiero,501
+7555,Fondos de Inversión,NA,06/14/2024,20:51:38,NA,"$1,249.00",Banorte,Sector Financiero,659
+9980,Tarjeta de crédito,Walmart 216,06/12/2024,03:37:37,Artículo 5,"$9,739.00",Walmart,Retail,501
+5432,Afore,NA,06/21/2024,21:24:59,NA,"$8,477.00",Banorte,Sector Financiero,737
+5432,Tarjeta de crédito,Banorte 36,06/09/2024,03:59:32,Artículo 47,"$2,569.00",Banorte,Alimentos y bebidas,737
+5432,Tarjeta de crédito,Sanborns 129,06/27/2024,14:27:50,Artículo 29,"$1,711.00",Sanborns,Supermercado,737
+9876,Fondos de Inversión,NA,06/30/2024,07:04:39,NA,"$9,685.00",Banorte,Sector Financiero,591
+7555,Tarjeta de débito,Uber Eats 335,06/26/2024,07:46:23,Artículo 20,"$6,035.00",Uber Eats,Comida a domicilio,659
+9876,Fondos de Inversión,NA,06/30/2024,09:41:33,NA,"$3,342.00",Banorte,Sector Financiero,591
+2002,Tarjeta de crédito,Sanborns 472,06/27/2024,12:43:59,Artículo 27,"$1,457.00",Sanborns,Supermercado,389
+8765,Afore,NA,06/22/2024,08:28:47,NA,"$6,165.00",Banorte,Sector Financiero,480
+5231,Tarjeta de débito,Spotify 814,07/01/2024,04:16:13,Artículo 48,"$5,013.00",Spotify,Entretenimiento,406
+5432,Tarjeta de crédito,iShop 909,06/27/2024,06:49:59,Artículo 50,$156.00,iShop,Clothing,737
+7555,Tarjeta de débito,Mercado Libre 416,06/04/2024,00:24:45,Artículo 47,"$8,933.00",Mercado Libre,Electronics,659
+8765,Tarjeta de crédito,Cinemex 133,07/01/2024,14:30:52,Artículo 37,$588.00,Cinemex,Entretenimiento,480
+1001,Afore,NA,06/23/2024,13:30:12,NA,"$7,658.00",Banorte,Sector Financiero,736
+5231,Afore,NA,06/23/2024,18:24:15,NA,"$3,121.00",Banorte,Sector Financiero,406
+9980,Tarjeta de crédito,Banorte 675,06/13/2024,07:11:01,Artículo 19,"$6,352.00",Banorte,Clothing,501
+9980,Fondos de Inversión,NA,06/06/2024,03:10:59,NA,$605.00,Banorte,Sector Financiero,501
+8765,Afore,NA,06/21/2024,00:21:52,NA,"$9,202.00",Banorte,Sector Financiero,480
+6478,Tarjeta de crédito,Spotify 51,06/16/2024,23:57:48,Artículo 24,"$9,649.00",Spotify,Tecnología,611
+1234,Fondos de Inversión,NA,06/22/2024,09:34:35,NA,"$3,073.00",Banorte,Sector Financiero,571
+2002,Tarjeta de débito,Chedraui 3,06/26/2024,08:27:14,Artículo 35,"$6,634.00",Chedraui,Comida a domicilio,389
+8765,Tarjeta de crédito,Chedraui 444,06/30/2024,19:56:19,Artículo 24,"$2,547.00",Chedraui,Retail,480
+8765,Afore,NA,06/09/2024,05:41:27,NA,"$6,235.00",Banorte,Sector Financiero,480
+7555,Tarjeta de débito,Chedraui 513,06/28/2024,01:57:09,Artículo 12,"$6,041.00",Chedraui,Clothing,659
+9980,Tarjeta de crédito,Starbucks 201,06/16/2024,01:15:10,Artículo 41,"$6,124.00",Starbucks,Restaurant,501
+2002,Tarjeta de débito,Amazon 862,06/27/2024,18:46:56,Artículo 2,"$3,902.00",Amazon,Entretenimiento,389
+5231,Tarjeta de crédito,Chedraui 759,06/18/2024,15:20:40,Artículo 12,"$5,930.00",Chedraui,Clothing,406
+2002,Afore,NA,06/26/2024,11:32:16,NA,"$2,460.00",Banorte,Sector Financiero,389
+2002,Tarjeta de crédito,Sanborns 291,06/30/2024,23:36:08,Artículo 21,$295.00,Sanborns,Entretenimiento,389
+5231,Afore,NA,06/06/2024,11:09:24,NA,"$4,797.00",Banorte,Sector Financiero,406
+9980,Tarjeta de crédito,Amazon 795,07/03/2024,16:25:07,Artículo 30,"$9,885.00",Amazon,E-commerce,501
+1001,Afore,NA,06/26/2024,20:31:01,NA,"$6,400.00",Banorte,Sector Financiero,736
+1234,Tarjeta de débito,Starbucks 486,06/14/2024,16:58:31,Artículo 3,"$2,903.00",Starbucks,Alimentos y bebidas,571
+6478,Tarjeta de débito,Starbucks 964,06/08/2024,02:32:32,Artículo 31,"$7,663.00",Starbucks,Electronics,611
+6478,Afore,NA,06/25/2024,16:39:15,NA,"$9,226.00",Banorte,Sector Financiero,611
+7555,Afore,NA,06/12/2024,09:58:24,NA,$160.00,Banorte,Sector Financiero,659
+2002,Fondos de Inversión,NA,06/05/2024,01:09:22,NA,$957.00,Banorte,Sector Financiero,389
+1234,Fondos de Inversión,NA,06/05/2024,22:38:48,NA,$163.00,Banorte,Sector Financiero,571
+1001,Fondos de Inversión,NA,06/20/2024,05:16:18,NA,"$6,798.00",Banorte,Sector Financiero,736
+1001,Fondos de Inversión,NA,06/07/2024,22:55:26,NA,"$3,011.00",Banorte,Sector Financiero,736
+1234,Fondos de Inversión,NA,06/29/2024,05:28:10,NA,"$1,488.00",Banorte,Sector Financiero,571
+1001,Tarjeta de crédito,Sanborns 527,06/15/2024,22:52:01,Artículo 3,"$9,864.00",Sanborns,Retail,736
+9980,Afore,NA,06/17/2024,13:44:41,NA,"$8,641.00",Banorte,Sector Financiero,501
+6478,Afore,NA,06/30/2024,05:15:48,NA,"$6,897.00",Banorte,Sector Financiero,611
+1234,Tarjeta de crédito,Uber Eats 400,06/29/2024,14:38:54,Artículo 19,"$6,639.00",Uber Eats,Restaurant,571
+2002,Tarjeta de débito,Uber Eats 833,06/26/2024,02:27:17,Artículo 16,"$7,096.00",Uber Eats,Tecnología,389
+2002,Fondos de Inversión,NA,06/26/2024,01:03:00,NA,"$4,952.00",Banorte,Sector Financiero,389
+1234,Fondos de Inversión,NA,06/16/2024,00:28:19,NA,"$3,643.00",Banorte,Sector Financiero,571
+5432,Tarjeta de crédito,Uber Eats 841,07/01/2024,08:51:49,Artículo 28,"$7,058.00",Uber Eats,Tecnología,737
+5432,Tarjeta de débito,Amazon 742,06/04/2024,17:18:59,Artículo 21,"$2,523.00",Amazon,Comida a domicilio,737
+5231,Afore,NA,06/23/2024,04:19:05,NA,"$1,729.00",Banorte,Sector Financiero,406
+2002,Tarjeta de débito,Cinemex 28,07/04/2024,14:45:00,Artículo 28,$756.00,Cinemex,Entretenimiento,389
+1001,Tarjeta de débito,Chedraui 897,06/23/2024,05:01:10,Artículo 28,"$9,723.00",Chedraui,Tecnología,736
+2002,Fondos de Inversión,NA,06/06/2024,00:12:58,NA,"$4,269.00",Banorte,Sector Financiero,389
+5231,Fondos de Inversión,NA,06/30/2024,00:44:23,NA,"$2,181.00",Banorte,Sector Financiero,406
+5432,Fondos de Inversión,NA,06/27/2024,07:04:36,NA,"$8,074.00",Banorte,Sector Financiero,737
+8765,Tarjeta de débito,Oxxo 848,06/10/2024,12:07:38,Artículo 4,"$1,982.00",Oxxo,Supermercado,480
+7555,Afore,NA,06/21/2024,09:00:27,NA,"$3,932.00",Banorte,Sector Financiero,659
+5432,Tarjeta de débito,Oxxo 23,06/13/2024,13:56:43,Artículo 34,"$4,441.00",Oxxo,Retail,737
+2002,Tarjeta de débito,El Palacio de Hierro 57,06/14/2024,05:59:17,Artículo 7,"$4,982.00",El Palacio de Hierro,Electronics,389
+7555,Tarjeta de crédito,Mercado Libre 937,06/08/2024,04:55:18,Artículo 17,$870.00,Mercado Libre,Electronics,659
+7555,Tarjeta de crédito,Liverpool 188,06/20/2024,11:59:42,Artículo 24,"$5,814.00",Liverpool,Retail,659
+2002,Tarjeta de crédito,Soriana 145,06/28/2024,15:40:38,Artículo 9,"$5,909.00",Soriana,Alimentos y bebidas,389
+1234,Afore,NA,06/12/2024,02:29:27,NA,"$3,062.00",Banorte,Sector Financiero,571
+5231,Tarjeta de débito,Chedraui 770,06/13/2024,00:54:27,Artículo 47,"$6,887.00",Chedraui,Tecnología,406
+1234,Tarjeta de débito,Mercado Libre 720,06/10/2024,23:38:31,Artículo 1,$939.00,Mercado Libre,Retail,571
+1234,Fondos de Inversión,NA,06/19/2024,13:13:59,NA,"$6,254.00",Banorte,Sector Financiero,571
+8765,Fondos de Inversión,NA,06/05/2024,02:11:29,NA,"$6,515.00",Banorte,Sector Financiero,480
+9876,Tarjeta de crédito,Starbucks 231,06/17/2024,21:15:23,Artículo 33,"$7,760.00",Starbucks,Electronics,591
+9876,Tarjeta de crédito,El Palacio de Hierro 589,07/03/2024,09:54:48,Artículo 38,"$3,544.00",El Palacio de Hierro,Entretenimiento,591
+7555,Tarjeta de débito,Mercado Libre 477,06/09/2024,10:23:47,Artículo 13,"$8,934.00",Mercado Libre,Supermercado,659
+9980,Fondos de Inversión,NA,06/17/2024,06:26:12,NA,"$7,425.00",Banorte,Sector Financiero,501
+9876,Tarjeta de débito,Sanborns 438,06/15/2024,22:20:07,Artículo 41,"$8,799.00",Sanborns,Tecnología,591
+9876,Afore,NA,06/24/2024,13:37:45,NA,"$9,537.00",Banorte,Sector Financiero,591
+9980,Tarjeta de crédito,Amazon 502,06/07/2024,21:12:09,Artículo 15,"$8,508.00",Amazon,Comida a domicilio,501
+5231,Tarjeta de débito,Soriana 46,06/04/2024,20:03:33,Artículo 42,"$8,637.00",Soriana,Electronics,406
+5231,Fondos de Inversión,NA,06/21/2024,05:13:30,NA,$651.00,Banorte,Sector Financiero,406
+2002,Tarjeta de crédito,Chedraui 343,06/29/2024,16:19:00,Artículo 28,"$3,829.00",Chedraui,Restaurant,389
+6478,Tarjeta de débito,Starbucks 647,06/15/2024,15:05:53,Artículo 30,"$3,387.00",Starbucks,Alimentos y bebidas,611
+9876,Tarjeta de débito,Mercado Libre 966,06/29/2024,04:27:20,Artículo 9,"$8,320.00",Mercado Libre,Supermercado,591
+8765,Tarjeta de débito,Oxxo 1000,06/11/2024,17:00:31,Artículo 5,"$8,389.00",Oxxo,Alimentos y bebidas,480
+9876,Afore,NA,07/04/2024,17:45:46,NA,"$9,228.00",Banorte,Sector Financiero,591
+9876,Tarjeta de crédito,Banorte 127,06/29/2024,07:33:02,Artículo 34,"$1,490.00",Banorte,Entretenimiento,591
+9980,Afore,NA,06/10/2024,05:23:02,NA,"$4,808.00",Banorte,Sector Financiero,501
+7555,Fondos de Inversión,NA,06/12/2024,04:55:50,NA,"$7,611.00",Banorte,Sector Financiero,659
+6478,Afore,NA,06/10/2024,13:36:04,NA,"$7,944.00",Banorte,Sector Financiero,611
+8765,Fondos de Inversión,NA,06/22/2024,11:23:14,NA,$897.00,Banorte,Sector Financiero,480
+8765,Tarjeta de crédito,Oxxo 883,07/03/2024,23:36:38,Artículo 6,"$7,156.00",Oxxo,Clothing,480
+7555,Tarjeta de crédito,Oxxo 453,06/10/2024,14:54:46,Artículo 43,"$4,193.00",Oxxo,Comida a domicilio,659
+9876,Afore,NA,06/21/2024,08:11:13,NA,"$3,467.00",Banorte,Sector Financiero,591
+9980,Tarjeta de débito,Oxxo 76,07/02/2024,09:20:59,Artículo 25,"$7,962.00",Oxxo,Clothing,501
+8765,Tarjeta de débito,Amazon 407,06/10/2024,06:06:16,Artículo 41,"$3,370.00",Amazon,Tecnología,480
+9980,Tarjeta de crédito,iShop 526,06/08/2024,22:03:32,Artículo 49,"$5,765.00",iShop,Entretenimiento,501
+8765,Tarjeta de débito,Walmart 400,06/04/2024,20:54:09,Artículo 41,"$2,268.00",Walmart,Tecnología,480
+7555,Fondos de Inversión,NA,06/25/2024,00:38:13,NA,"$3,269.00",Banorte,Sector Financiero,659
+2002,Afore,NA,06/30/2024,19:50:06,NA,"$1,935.00",Banorte,Sector Financiero,389
+5432,Tarjeta de débito,Spotify 8,06/07/2024,09:34:56,Artículo 10,"$8,291.00",Spotify,E-commerce,737
+6478,Afore,NA,06/13/2024,05:50:02,NA,"$4,371.00",Banorte,Sector Financiero,611
+1234,Fondos de Inversión,NA,06/30/2024,09:29:45,NA,"$2,534.00",Banorte,Sector Financiero,571
+6478,Fondos de Inversión,NA,06/27/2024,22:36:54,NA,"$8,470.00",Banorte,Sector Financiero,611
+2002,Tarjeta de crédito,Soriana 704,06/22/2024,18:46:23,Artículo 41,"$5,637.00",Soriana,E-commerce,389
+5432,Afore,NA,06/06/2024,18:10:14,NA,"$9,644.00",Banorte,Sector Financiero,737
+9876,Tarjeta de débito,Sanborns 866,07/01/2024,21:43:28,Artículo 23,"$2,109.00",Sanborns,Comida a domicilio,591
+9980,Tarjeta de débito,Soriana 420,06/07/2024,17:50:14,Artículo 34,"$1,876.00",Soriana,Tecnología,501
+9876,Afore,NA,06/10/2024,17:55:03,NA,"$6,709.00",Banorte,Sector Financiero,591
+7555,Afore,NA,07/04/2024,19:09:13,NA,"$2,492.00",Banorte,Sector Financiero,659
+9980,Fondos de Inversión,NA,06/25/2024,23:43:33,NA,"$2,042.00",Banorte,Sector Financiero,501
+6478,Afore,NA,06/10/2024,09:37:49,NA,$419.00,Banorte,Sector Financiero,611
+6478,Tarjeta de crédito,Walmart 801,06/24/2024,10:46:09,Artículo 30,"$1,024.00",Walmart,Alimentos y bebidas,611
+5432,Tarjeta de débito,Uber Eats 643,06/05/2024,19:56:22,Artículo 48,"$7,883.00",Uber Eats,Entretenimiento,737
+7555,Afore,NA,06/29/2024,18:32:03,NA,"$3,564.00",Banorte,Sector Financiero,659
+6478,Tarjeta de débito,Walmart 142,06/20/2024,19:57:30,Artículo 6,"$1,007.00",Walmart,Restaurant,611
+9876,Tarjeta de débito,Walmart 32,06/28/2024,04:47:41,Artículo 5,$247.00,Walmart,Tecnología,591
+9876,Tarjeta de crédito,Chedraui 187,07/03/2024,16:37:03,Artículo 49,"$9,563.00",Chedraui,Comida a domicilio,591
+1001,Afore,NA,06/05/2024,09:49:45,NA,"$4,686.00",Banorte,Sector Financiero,736
+1234,Tarjeta de débito,Uber Eats 614,06/25/2024,02:26:49,Artículo 48,$148.00,Uber Eats,Restaurant,571
+2002,Tarjeta de débito,Starbucks 913,06/30/2024,20:26:07,Artículo 23,"$6,364.00",Starbucks,Clothing,389
+9876,Tarjeta de crédito,Spotify 564,06/24/2024,19:36:55,Artículo 2,"$7,816.00",Spotify,E-commerce,591
+1234,Fondos de Inversión,NA,06/05/2024,02:56:14,NA,"$4,071.00",Banorte,Sector Financiero,571
+5432,Tarjeta de crédito,Mercado Libre 508,06/10/2024,16:29:30,Artículo 9,$852.00,Mercado Libre,Supermercado,737
+9876,Tarjeta de crédito,iShop 645,07/01/2024,15:02:08,Artículo 7,"$6,532.00",iShop,Tecnología,591
+6478,Afore,NA,07/03/2024,15:50:38,NA,"$7,478.00",Banorte,Sector Financiero,611
+2002,Afore,NA,06/27/2024,00:25:22,NA,$234.00,Banorte,Sector Financiero,389
+7555,Afore,NA,06/16/2024,16:08:41,NA,"$7,837.00",Banorte,Sector Financiero,659
+8765,Tarjeta de crédito,Walmart 92,06/05/2024,22:11:44,Artículo 15,"$2,469.00",Walmart,Retail,480
+1234,Tarjeta de crédito,Banorte 492,07/02/2024,09:03:07,Artículo 4,"$2,454.00",Banorte,Restaurant,571
+1234,Tarjeta de débito,iShop 202,06/19/2024,10:56:00,Artículo 21,"$7,191.00",iShop,Alimentos y bebidas,571
+1234,Tarjeta de crédito,Amazon 320,06/15/2024,13:06:42,Artículo 8,"$8,515.00",Amazon,Entretenimiento,571
+9876,Fondos de Inversión,NA,06/10/2024,18:27:37,NA,"$6,401.00",Banorte,Sector Financiero,591
+7555,Tarjeta de débito,Walmart 87,06/04/2024,08:44:38,Artículo 27,"$7,298.00",Walmart,Entretenimiento,659
+5231,Fondos de Inversión,NA,06/05/2024,23:15:17,NA,"$5,076.00",Banorte,Sector Financiero,406
+9980,Tarjeta de crédito,Mercado Libre 678,06/04/2024,08:52:05,Artículo 49,"$5,364.00",Mercado Libre,Electronics,501
+6478,Afore,NA,06/10/2024,23:40:14,NA,"$6,034.00",Banorte,Sector Financiero,611
+8765,Afore,NA,07/01/2024,01:14:21,NA,"$5,127.00",Banorte,Sector Financiero,480
+5231,Afore,NA,06/28/2024,10:46:02,NA,"$2,049.00",Banorte,Sector Financiero,406
+5231,Afore,NA,06/05/2024,15:35:38,NA,"$5,750.00",Banorte,Sector Financiero,406
+8765,Fondos de Inversión,NA,06/16/2024,03:20:55,NA,"$6,728.00",Banorte,Sector Financiero,480
+5231,Tarjeta de crédito,Cinemex 36,06/23/2024,23:07:27,Artículo 8,"$2,086.00",Cinemex,Comida a domicilio,406
+1001,Afore,NA,06/04/2024,03:38:09,NA,$191.00,Banorte,Sector Financiero,736
+2002,Tarjeta de débito,Walmart 221,06/05/2024,03:23:56,Artículo 47,"$6,908.00",Walmart,Comida a domicilio,389
+8765,Tarjeta de débito,Oxxo 829,06/16/2024,08:34:39,Artículo 28,"$4,778.00",Oxxo,Electronics,480
+7555,Fondos de Inversión,NA,06/23/2024,09:56:28,NA,"$3,355.00",Banorte,Sector Financiero,659
+5231,Tarjeta de débito,Oxxo 812,06/27/2024,23:54:41,Artículo 45,"$9,455.00",Oxxo,Clothing,406
+1234,Afore,NA,06/11/2024,23:01:12,NA,"$5,500.00",Banorte,Sector Financiero,571
+9980,Fondos de Inversión,NA,07/02/2024,12:49:45,NA,"$6,536.00",Banorte,Sector Financiero,501
+1001,Tarjeta de crédito,Banorte 839,06/20/2024,00:43:24,Artículo 11,"$8,720.00",Banorte,Supermercado,736
+9980,Afore,NA,06/17/2024,08:52:53,NA,"$3,298.00",Banorte,Sector Financiero,501
+8765,Afore,NA,06/20/2024,10:23:17,NA,"$5,029.00",Banorte,Sector Financiero,480
+6478,Tarjeta de débito,Sanborns 324,06/16/2024,08:47:16,Artículo 46,"$7,364.00",Sanborns,Electronics,611
+9876,Afore,NA,06/17/2024,09:10:23,NA,"$4,059.00",Banorte,Sector Financiero,591
+1234,Fondos de Inversión,NA,06/21/2024,13:07:10,NA,"$7,502.00",Banorte,Sector Financiero,571
+7555,Fondos de Inversión,NA,06/22/2024,15:38:03,NA,"$6,560.00",Banorte,Sector Financiero,659
+9876,Afore,NA,06/25/2024,08:50:15,NA,"$8,206.00",Banorte,Sector Financiero,591
+9980,Fondos de Inversión,NA,06/19/2024,06:46:08,NA,"$6,838.00",Banorte,Sector Financiero,501
+2002,Fondos de Inversión,NA,06/26/2024,22:04:04,NA,"$5,851.00",Banorte,Sector Financiero,389
+7555,Tarjeta de crédito,Sanborns 343,06/10/2024,01:27:21,Artículo 40,"$8,863.00",Sanborns,Clothing,659
+2002,Fondos de Inversión,NA,06/22/2024,14:59:40,NA,"$5,839.00",Banorte,Sector Financiero,389
+5432,Tarjeta de crédito,Mercado Libre 860,06/26/2024,10:18:09,Artículo 4,"$2,357.00",Mercado Libre,Electronics,737
+9876,Fondos de Inversión,NA,06/20/2024,19:29:59,NA,"$7,721.00",Banorte,Sector Financiero,591
+2002,Afore,NA,06/24/2024,00:09:35,NA,"$1,320.00",Banorte,Sector Financiero,389
+6478,Tarjeta de crédito,Amazon 974,06/20/2024,01:33:31,Artículo 39,$709.00,Amazon,Restaurant,611
+1234,Tarjeta de crédito,Oxxo 303,06/25/2024,23:28:04,Artículo 4,"$2,876.00",Oxxo,Supermercado,571
+9876,Afore,NA,07/03/2024,01:35:18,NA,"$3,596.00",Banorte,Sector Financiero,591
+1001,Fondos de Inversión,NA,06/29/2024,04:43:12,NA,"$4,862.00",Banorte,Sector Financiero,736
+5432,Tarjeta de crédito,Sanborns 97,06/10/2024,18:33:25,Artículo 43,"$8,211.00",Sanborns,Restaurant,737
+9980,Tarjeta de crédito,Starbucks 17,06/23/2024,10:57:34,Artículo 48,"$1,914.00",Starbucks,Supermercado,501
+8765,Afore,NA,06/12/2024,21:07:36,NA,$761.00,Banorte,Sector Financiero,480
+2002,Fondos de Inversión,NA,06/08/2024,18:24:52,NA,"$7,150.00",Banorte,Sector Financiero,389
+7555,Tarjeta de débito,El Palacio de Hierro 92,06/04/2024,11:34:49,Artículo 34,"$4,901.00",El Palacio de Hierro,Clothing,659
+9876,Afore,NA,07/01/2024,05:41:44,NA,"$7,465.00",Banorte,Sector Financiero,591
+6478,Tarjeta de débito,Sanborns 212,06/10/2024,13:07:29,Artículo 49,"$7,825.00",Sanborns,Tecnología,611
+9876,Afore,NA,07/04/2024,03:13:59,NA,"$9,496.00",Banorte,Sector Financiero,591
+6478,Fondos de Inversión,NA,06/19/2024,11:00:44,NA,"$7,370.00",Banorte,Sector Financiero,611
+8765,Fondos de Inversión,NA,06/11/2024,15:42:42,NA,"$1,899.00",Banorte,Sector Financiero,480
+5231,Tarjeta de débito,Spotify 19,06/17/2024,06:05:26,Artículo 1,"$8,888.00",Spotify,Entretenimiento,406
+9980,Fondos de Inversión,NA,07/02/2024,22:01:32,NA,"$9,896.00",Banorte,Sector Financiero,501
+8765,Tarjeta de crédito,Banorte 34,06/28/2024,21:07:59,Artículo 39,"$3,244.00",Banorte,Clothing,480
+2002,Tarjeta de crédito,Soriana 961,07/03/2024,00:36:27,Artículo 32,$302.00,Soriana,Supermercado,389
+2002,Tarjeta de débito,Sanborns 699,06/25/2024,08:17:42,Artículo 17,$34.00,Sanborns,Clothing,389
+8765,Fondos de Inversión,NA,06/11/2024,01:18:45,NA,"$7,325.00",Banorte,Sector Financiero,480
+5432,Tarjeta de débito,Soriana 139,07/04/2024,21:06:30,Artículo 8,$456.00,Soriana,Supermercado,737
+5231,Fondos de Inversión,NA,07/04/2024,05:04:20,NA,"$5,116.00",Banorte,Sector Financiero,406
+7555,Afore,NA,06/23/2024,18:26:15,NA,"$8,526.00",Banorte,Sector Financiero,659
+9876,Afore,NA,06/07/2024,13:47:54,NA,"$4,443.00",Banorte,Sector Financiero,591
+1234,Afore,NA,06/04/2024,00:43:22,NA,"$9,997.00",Banorte,Sector Financiero,571
+5231,Tarjeta de crédito,Sanborns 327,06/14/2024,14:28:20,Artículo 5,"$4,018.00",Sanborns,Restaurant,406
+6478,Tarjeta de débito,Spotify 433,06/20/2024,12:28:46,Artículo 26,"$9,124.00",Spotify,Electronics,611
+8765,Tarjeta de crédito,Spotify 953,06/11/2024,12:30:56,Artículo 2,"$8,870.00",Spotify,Electronics,480
+2002,Tarjeta de débito,Mercado Libre 146,06/14/2024,11:24:35,Artículo 42,"$3,163.00",Mercado Libre,Clothing,389
+9980,Fondos de Inversión,NA,06/30/2024,23:54:47,NA,"$2,399.00",Banorte,Sector Financiero,501
+1234,Fondos de Inversión,NA,06/17/2024,17:39:05,NA,"$9,417.00",Banorte,Sector Financiero,571
+5432,Tarjeta de débito,Mercado Libre 357,06/29/2024,23:29:44,Artículo 42,"$4,427.00",Mercado Libre,Comida a domicilio,737
+2002,Tarjeta de crédito,Sanborns 629,06/04/2024,07:50:36,Artículo 37,"$5,448.00",Sanborns,E-commerce,389
+6478,Tarjeta de débito,Uber Eats 816,06/08/2024,17:54:54,Artículo 14,"$6,556.00",Uber Eats,Retail,611
+1001,Fondos de Inversión,NA,06/09/2024,15:00:56,NA,"$6,221.00",Banorte,Sector Financiero,736
+9980,Afore,NA,06/30/2024,01:46:12,NA,"$9,281.00",Banorte,Sector Financiero,501
+2002,Afore,NA,06/22/2024,18:22:42,NA,"$2,606.00",Banorte,Sector Financiero,389
+5432,Tarjeta de crédito,Mercado Libre 764,06/06/2024,14:51:58,Artículo 41,"$2,777.00",Mercado Libre,Entretenimiento,737
+2002,Tarjeta de crédito,Banorte 588,06/14/2024,12:41:22,Artículo 27,"$6,679.00",Banorte,E-commerce,389
+2002,Fondos de Inversión,NA,06/24/2024,14:45:31,NA,"$3,432.00",Banorte,Sector Financiero,389
+7555,Tarjeta de crédito,Starbucks 169,06/24/2024,09:59:45,Artículo 22,"$7,289.00",Starbucks,Entretenimiento,659
+6478,Afore,NA,06/22/2024,12:05:32,NA,$357.00,Banorte,Sector Financiero,611
+6478,Tarjeta de débito,Oxxo 534,06/27/2024,20:57:40,Artículo 29,"$6,893.00",Oxxo,Supermercado,611
+9876,Tarjeta de crédito,Soriana 851,06/20/2024,23:22:42,Artículo 42,"$5,817.00",Soriana,Tecnología,591
+5432,Fondos de Inversión,NA,06/09/2024,03:05:30,NA,"$8,832.00",Banorte,Sector Financiero,737
+9876,Tarjeta de crédito,Uber Eats 342,06/18/2024,03:37:57,Artículo 24,"$9,543.00",Uber Eats,Restaurant,591
+5231,Tarjeta de débito,Banorte 584,06/19/2024,00:17:23,Artículo 22,"$4,765.00",Banorte,Alimentos y bebidas,406
+7555,Afore,NA,06/26/2024,13:50:18,NA,"$7,417.00",Banorte,Sector Financiero,659
+5231,Fondos de Inversión,NA,06/09/2024,18:36:33,NA,$479.00,Banorte,Sector Financiero,406
+1001,Tarjeta de crédito,Oxxo 494,06/28/2024,02:56:57,Artículo 13,"$9,817.00",Oxxo,Comida a domicilio,736
+2002,Tarjeta de débito,Spotify 860,06/10/2024,05:08:31,Artículo 38,"$7,593.00",Spotify,E-commerce,389
+5432,Fondos de Inversión,NA,06/10/2024,08:30:23,NA,$352.00,Banorte,Sector Financiero,737
+9876,Tarjeta de débito,Soriana 777,06/14/2024,09:38:49,Artículo 8,"$1,899.00",Soriana,Comida a domicilio,591
+9876,Fondos de Inversión,NA,06/15/2024,18:25:13,NA,"$9,268.00",Banorte,Sector Financiero,591
+1001,Tarjeta de crédito,iShop 78,06/30/2024,23:07:42,Artículo 6,"$4,065.00",iShop,Supermercado,736
+1001,Afore,NA,06/07/2024,03:52:47,NA,"$4,396.00",Banorte,Sector Financiero,736
+1001,Fondos de Inversión,NA,07/03/2024,16:49:42,NA,$680.00,Banorte,Sector Financiero,736
+5432,Afore,NA,06/19/2024,22:01:43,NA,"$5,071.00",Banorte,Sector Financiero,737
+1234,Afore,NA,06/12/2024,22:54:12,NA,"$3,825.00",Banorte,Sector Financiero,571
+9980,Afore,NA,06/08/2024,09:37:00,NA,"$5,657.00",Banorte,Sector Financiero,501
+1234,Tarjeta de débito,Mercado Libre 155,06/10/2024,18:54:21,Artículo 6,"$4,396.00",Mercado Libre,Retail,571
+5231,Tarjeta de débito,Starbucks 357,06/23/2024,00:55:34,Artículo 23,"$6,948.00",Starbucks,Restaurant,406
+8765,Fondos de Inversión,NA,07/03/2024,17:52:05,NA,"$6,538.00",Banorte,Sector Financiero,480
+1234,Afore,NA,06/05/2024,05:20:14,NA,"$9,408.00",Banorte,Sector Financiero,571
+9876,Fondos de Inversión,NA,07/01/2024,04:27:46,NA,"$7,160.00",Banorte,Sector Financiero,591
+5432,Fondos de Inversión,NA,06/25/2024,17:22:20,NA,"$2,501.00",Banorte,Sector Financiero,737
+9980,Tarjeta de crédito,iShop 301,06/15/2024,13:56:01,Artículo 24,"$6,856.00",iShop,E-commerce,501
+1001,Afore,NA,06/27/2024,00:00:40,NA,"$2,172.00",Banorte,Sector Financiero,736
+9980,Tarjeta de débito,Liverpool 717,06/23/2024,15:27:18,Artículo 33,"$6,194.00",Liverpool,Restaurant,501
+6478,Fondos de Inversión,NA,06/28/2024,17:41:21,NA,"$1,991.00",Banorte,Sector Financiero,611
+6478,Tarjeta de débito,Spotify 634,06/29/2024,14:42:58,Artículo 28,"$7,398.00",Spotify,Restaurant,611
+1234,Afore,NA,06/18/2024,03:45:07,NA,"$9,698.00",Banorte,Sector Financiero,571
+1234,Fondos de Inversión,NA,06/15/2024,04:57:23,NA,$78.00,Banorte,Sector Financiero,571
+5231,Tarjeta de crédito,El Palacio de Hierro 58,06/14/2024,10:29:06,Artículo 8,"$7,626.00",El Palacio de Hierro,Entretenimiento,406
+1234,Tarjeta de débito,Liverpool 485,06/26/2024,11:30:05,Artículo 27,"$1,156.00",Liverpool,Alimentos y bebidas,571
+9876,Fondos de Inversión,NA,06/27/2024,12:52:22,NA,"$8,907.00",Banorte,Sector Financiero,591
+5231,Tarjeta de crédito,Oxxo 281,06/10/2024,23:16:18,Artículo 2,"$8,654.00",Oxxo,Supermercado,406
+6478,Tarjeta de crédito,El Palacio de Hierro 880,06/10/2024,14:25:40,Artículo 22,"$3,204.00",El Palacio de Hierro,Restaurant,611
+1234,Tarjeta de débito,Starbucks 581,06/17/2024,04:13:16,Artículo 37,"$8,277.00",Starbucks,Retail,571
+9980,Tarjeta de crédito,Spotify 174,07/01/2024,10:58:43,Artículo 12,"$4,083.00",Spotify,E-commerce,501
+2002,Fondos de Inversión,NA,06/07/2024,22:13:31,NA,"$6,282.00",Banorte,Sector Financiero,389
+6478,Fondos de Inversión,NA,06/17/2024,00:00:16,NA,"$1,756.00",Banorte,Sector Financiero,611
+9876,Tarjeta de débito,Banorte 943,06/26/2024,10:31:42,Artículo 31,"$6,601.00",Banorte,Clothing,591
+9980,Fondos de Inversión,NA,06/25/2024,01:38:41,NA,"$1,425.00",Banorte,Sector Financiero,501
+5231,Tarjeta de crédito,Banorte 838,06/28/2024,14:10:11,Artículo 46,"$1,601.00",Banorte,E-commerce,406
+1001,Tarjeta de crédito,Soriana 95,06/15/2024,02:47:53,Artículo 6,"$8,445.00",Soriana,Retail,736
+7555,Afore,NA,06/15/2024,07:13:18,NA,"$5,673.00",Banorte,Sector Financiero,659
+5432,Afore,NA,06/27/2024,00:47:39,NA,"$3,421.00",Banorte,Sector Financiero,737
+1001,Tarjeta de débito,Soriana 968,06/16/2024,19:56:40,Artículo 17,"$8,578.00",Soriana,Alimentos y bebidas,736
+5432,Fondos de Inversión,NA,06/12/2024,05:13:51,NA,"$6,521.00",Banorte,Sector Financiero,737
+2002,Afore,NA,06/21/2024,14:37:14,NA,"$5,195.00",Banorte,Sector Financiero,389
+5231,Tarjeta de débito,Spotify 877,06/05/2024,07:46:52,Artículo 35,"$8,230.00",Spotify,Clothing,406
+8765,Tarjeta de débito,Mercado Libre 666,06/11/2024,09:15:13,Artículo 23,"$9,362.00",Mercado Libre,Electronics,480
+1001,Fondos de Inversión,NA,07/03/2024,05:07:10,NA,"$3,698.00",Banorte,Sector Financiero,736
+9980,Tarjeta de crédito,Banorte 548,06/10/2024,08:41:16,Artículo 2,"$9,120.00",Banorte,Comida a domicilio,501
+5231,Fondos de Inversión,NA,06/09/2024,08:40:21,NA,"$4,130.00",Banorte,Sector Financiero,406
+1234,Tarjeta de débito,Cinemex 984,06/29/2024,02:02:15,Artículo 17,"$6,154.00",Cinemex,Electronics,571
+5231,Tarjeta de débito,Chedraui 948,06/25/2024,15:11:08,Artículo 4,"$8,845.00",Chedraui,Alimentos y bebidas,406
+2002,Tarjeta de débito,Soriana 682,06/30/2024,22:46:26,Artículo 7,"$4,264.00",Soriana,Clothing,389
+5432,Tarjeta de débito,Soriana 478,07/03/2024,05:25:52,Artículo 14,"$9,245.00",Soriana,Electronics,737
+1001,Fondos de Inversión,NA,06/12/2024,19:47:00,NA,"$6,110.00",Banorte,Sector Financiero,736
+5432,Afore,NA,06/16/2024,13:06:34,NA,"$3,898.00",Banorte,Sector Financiero,737
+6478,Fondos de Inversión,NA,06/26/2024,07:14:14,NA,"$6,315.00",Banorte,Sector Financiero,611
+6478,Fondos de Inversión,NA,06/24/2024,12:03:25,NA,"$2,329.00",Banorte,Sector Financiero,611
+9876,Tarjeta de crédito,iShop 788,06/06/2024,18:07:47,Artículo 25,$408.00,iShop,Restaurant,591
+5231,Afore,NA,06/07/2024,20:51:39,NA,"$3,370.00",Banorte,Sector Financiero,406
+1234,Afore,NA,06/07/2024,00:45:16,NA,"$6,791.00",Banorte,Sector Financiero,571
+1001,Afore,NA,07/02/2024,18:31:06,NA,"$6,547.00",Banorte,Sector Financiero,736
+8765,Afore,NA,06/17/2024,14:40:06,NA,"$4,714.00",Banorte,Sector Financiero,480
+1001,Tarjeta de débito,Uber Eats 146,06/07/2024,09:16:40,Artículo 46,"$4,351.00",Uber Eats,Clothing,736
+1234,Tarjeta de crédito,Sanborns 655,06/06/2024,04:01:55,Artículo 14,"$4,208.00",Sanborns,Restaurant,571
+8765,Tarjeta de débito,Chedraui 12,06/21/2024,22:31:53,Artículo 13,"$5,307.00",Chedraui,Tecnología,480
+8765,Tarjeta de débito,Starbucks 822,06/05/2024,20:09:41,Artículo 22,"$2,394.00",Starbucks,Electronics,480
+7555,Tarjeta de débito,iShop 291,06/18/2024,10:09:57,Artículo 6,"$3,592.00",iShop,Clothing,659
+8765,Afore,NA,07/04/2024,22:26:14,NA,$920.00,Banorte,Sector Financiero,480
+2002,Tarjeta de crédito,Amazon 383,06/23/2024,20:01:17,Artículo 6,"$3,091.00",Amazon,Tecnología,389
+9876,Tarjeta de débito,Soriana 933,06/06/2024,22:58:14,Artículo 9,$960.00,Soriana,Entretenimiento,591
+9876,Afore,NA,06/23/2024,15:02:39,NA,"$9,776.00",Banorte,Sector Financiero,591
+7555,Fondos de Inversión,NA,06/09/2024,08:13:55,NA,"$1,295.00",Banorte,Sector Financiero,659
+6478,Tarjeta de débito,Walmart 335,07/01/2024,04:01:30,Artículo 46,"$4,693.00",Walmart,Alimentos y bebidas,611
+2002,Tarjeta de débito,Cinemex 348,06/10/2024,16:33:17,Artículo 11,"$1,578.00",Cinemex,Comida a domicilio,389
+7555,Afore,NA,06/25/2024,07:28:56,NA,"$4,801.00",Banorte,Sector Financiero,659
+8765,Afore,NA,06/05/2024,18:25:47,NA,"$8,472.00",Banorte,Sector Financiero,480
+9980,Tarjeta de débito,Soriana 657,06/10/2024,03:44:48,Artículo 41,"$6,096.00",Soriana,Clothing,501
+6478,Tarjeta de crédito,Starbucks 99,07/04/2024,02:27:44,Artículo 12,"$9,245.00",Starbucks,Alimentos y bebidas,611
+7555,Tarjeta de crédito,Oxxo 292,06/12/2024,17:14:23,Artículo 11,"$2,562.00",Oxxo,Comida a domicilio,659
+9980,Tarjeta de crédito,Cinemex 460,06/17/2024,07:42:40,Artículo 38,$360.00,Cinemex,Supermercado,501
+2002,Afore,NA,06/18/2024,06:44:31,NA,"$6,538.00",Banorte,Sector Financiero,389
+5231,Fondos de Inversión,NA,07/02/2024,04:29:43,NA,"$7,884.00",Banorte,Sector Financiero,406
+9980,Tarjeta de crédito,Oxxo 456,06/09/2024,10:24:41,Artículo 2,"$6,467.00",Oxxo,Supermercado,501
+5231,Tarjeta de débito,Liverpool 819,06/19/2024,19:23:29,Artículo 15,"$9,504.00",Liverpool,Electronics,406
+8765,Afore,NA,06/08/2024,00:51:10,NA,"$2,866.00",Banorte,Sector Financiero,480
+1234,Fondos de Inversión,NA,06/22/2024,20:12:30,NA,"$4,493.00",Banorte,Sector Financiero,571
+9876,Afore,NA,06/29/2024,13:36:11,NA,"$9,451.00",Banorte,Sector Financiero,591
+1001,Fondos de Inversión,NA,06/26/2024,00:41:06,NA,"$9,427.00",Banorte,Sector Financiero,736
+2002,Afore,NA,06/23/2024,07:11:08,NA,"$5,987.00",Banorte,Sector Financiero,389
+2002,Tarjeta de débito,El Palacio de Hierro 16,06/20/2024,23:34:48,Artículo 41,"$6,702.00",El Palacio de Hierro,Entretenimiento,389
+9980,Fondos de Inversión,NA,06/30/2024,12:33:52,NA,"$2,491.00",Banorte,Sector Financiero,501
+1234,Fondos de Inversión,NA,07/01/2024,03:18:16,NA,"$9,238.00",Banorte,Sector Financiero,571
+9876,Tarjeta de débito,El Palacio de Hierro 207,07/03/2024,16:13:44,Artículo 2,"$9,795.00",El Palacio de Hierro,Electronics,591
+7555,Tarjeta de débito,Cinemex 226,07/03/2024,08:56:19,Artículo 44,"$8,907.00",Cinemex,Alimentos y bebidas,659
+5231,Fondos de Inversión,NA,06/27/2024,03:59:31,NA,"$1,166.00",Banorte,Sector Financiero,406
+7555,Tarjeta de débito,Amazon 641,06/18/2024,05:08:20,Artículo 17,"$7,613.00",Amazon,Electronics,659
+6478,Afore,NA,06/17/2024,06:37:50,NA,"$1,999.00",Banorte,Sector Financiero,611
+8765,Fondos de Inversión,NA,06/24/2024,20:11:31,NA,$118.00,Banorte,Sector Financiero,480
+1001,Tarjeta de débito,Chedraui 792,06/28/2024,16:59:08,Artículo 13,"$4,646.00",Chedraui,Electronics,736
+8765,Afore,NA,06/24/2024,15:20:21,NA,"$1,531.00",Banorte,Sector Financiero,480
+2002,Tarjeta de débito,Banorte 816,06/04/2024,06:38:09,Artículo 30,"$1,001.00",Banorte,Alimentos y bebidas,389
+6478,Tarjeta de débito,Walmart 385,06/20/2024,02:34:55,Artículo 43,"$3,136.00",Walmart,Restaurant,611
+2002,Afore,NA,06/05/2024,04:30:44,NA,"$8,604.00",Banorte,Sector Financiero,389
+9876,Tarjeta de débito,Oxxo 805,06/18/2024,22:45:30,Artículo 26,"$1,982.00",Oxxo,Entretenimiento,591
+7555,Tarjeta de crédito,Chedraui 52,06/12/2024,22:19:21,Artículo 7,"$4,179.00",Chedraui,Electronics,659
+7555,Tarjeta de débito,Liverpool 444,06/19/2024,19:41:30,Artículo 12,"$5,237.00",Liverpool,Electronics,659
+2002,Afore,NA,06/24/2024,05:56:21,NA,"$5,158.00",Banorte,Sector Financiero,389
+5432,Tarjeta de crédito,Uber Eats 398,06/13/2024,19:55:39,Artículo 12,"$2,955.00",Uber Eats,Tecnología,737
+1234,Tarjeta de crédito,Soriana 467,07/03/2024,15:33:22,Artículo 16,"$1,041.00",Soriana,Electronics,571
+1234,Tarjeta de crédito,El Palacio de Hierro 471,06/25/2024,19:08:50,Artículo 12,"$8,389.00",El Palacio de Hierro,Electronics,571
+7555,Afore,NA,06/18/2024,20:59:06,NA,"$6,248.00",Banorte,Sector Financiero,659
+6478,Fondos de Inversión,NA,06/04/2024,14:16:47,NA,"$8,764.00",Banorte,Sector Financiero,611
+5231,Tarjeta de crédito,El Palacio de Hierro 623,07/01/2024,17:49:23,Artículo 13,"$3,720.00",El Palacio de Hierro,Comida a domicilio,406
+8765,Tarjeta de débito,Liverpool 52,06/08/2024,09:50:04,Artículo 11,"$9,023.00",Liverpool,Supermercado,480
+8765,Afore,NA,06/09/2024,10:41:37,NA,"$3,912.00",Banorte,Sector Financiero,480
+2002,Afore,NA,06/12/2024,02:56:34,NA,"$8,201.00",Banorte,Sector Financiero,389
+2002,Afore,NA,06/17/2024,09:57:12,NA,$838.00,Banorte,Sector Financiero,389
+2002,Afore,NA,06/12/2024,20:53:10,NA,"$6,451.00",Banorte,Sector Financiero,389
+5231,Fondos de Inversión,NA,06/29/2024,14:22:25,NA,"$4,448.00",Banorte,Sector Financiero,406
+9980,Tarjeta de débito,Chedraui 490,06/29/2024,06:27:16,Artículo 5,"$1,297.00",Chedraui,Entretenimiento,501
+9876,Tarjeta de débito,Starbucks 959,06/25/2024,22:47:06,Artículo 12,"$8,759.00",Starbucks,Alimentos y bebidas,591
+1234,Tarjeta de débito,El Palacio de Hierro 288,06/17/2024,15:54:08,Artículo 15,"$7,938.00",El Palacio de Hierro,Restaurant,571
+5432,Tarjeta de débito,Cinemex 196,06/14/2024,23:43:05,Artículo 20,"$8,602.00",Cinemex,E-commerce,737
+2002,Tarjeta de crédito,Liverpool 813,06/27/2024,04:44:20,Artículo 20,"$8,154.00",Liverpool,Comida a domicilio,389
+6478,Fondos de Inversión,NA,06/05/2024,14:39:15,NA,"$2,200.00",Banorte,Sector Financiero,611
+9980,Tarjeta de débito,Amazon 78,07/03/2024,11:55:51,Artículo 15,"$6,484.00",Amazon,Entretenimiento,501
+7555,Fondos de Inversión,NA,06/21/2024,22:12:40,NA,"$7,877.00",Banorte,Sector Financiero,659
+9876,Fondos de Inversión,NA,06/18/2024,00:35:36,NA,"$2,620.00",Banorte,Sector Financiero,591
+5231,Tarjeta de débito,Liverpool 994,07/02/2024,00:38:28,Artículo 32,"$1,344.00",Liverpool,Entretenimiento,406
+1234,Afore,NA,06/29/2024,12:28:35,NA,"$1,786.00",Banorte,Sector Financiero,571
+8765,Tarjeta de crédito,Starbucks 814,06/23/2024,06:21:13,Artículo 7,"$1,268.00",Starbucks,Retail,480
+7555,Tarjeta de débito,Banorte 52,06/06/2024,12:25:25,Artículo 28,"$7,476.00",Banorte,Electronics,659
+6478,Tarjeta de crédito,Mercado Libre 3,06/18/2024,20:22:01,Artículo 50,"$6,977.00",Mercado Libre,Restaurant,611
+5231,Tarjeta de crédito,Walmart 499,06/28/2024,05:50:12,Artículo 29,"$9,519.00",Walmart,Restaurant,406
+2002,Tarjeta de débito,Liverpool 61,06/08/2024,06:26:38,Artículo 21,"$3,625.00",Liverpool,E-commerce,389
+8765,Afore,NA,07/03/2024,02:17:33,NA,"$5,482.00",Banorte,Sector Financiero,480
+7555,Afore,NA,06/10/2024,18:33:26,NA,"$2,571.00",Banorte,Sector Financiero,659
+1001,Tarjeta de débito,El Palacio de Hierro 800,06/29/2024,23:19:32,Artículo 29,$636.00,El Palacio de Hierro,Supermercado,736
+9980,Tarjeta de crédito,Starbucks 991,06/17/2024,08:07:44,Artículo 10,"$5,293.00",Starbucks,Alimentos y bebidas,501
+9876,Tarjeta de débito,Sanborns 856,06/23/2024,07:16:16,Artículo 42,"$7,415.00",Sanborns,Entretenimiento,591
+7555,Fondos de Inversión,NA,06/29/2024,00:25:25,NA,"$2,318.00",Banorte,Sector Financiero,659
+9876,Fondos de Inversión,NA,06/27/2024,01:50:10,NA,"$8,770.00",Banorte,Sector Financiero,591
+9980,Afore,NA,06/28/2024,16:02:21,NA,"$6,031.00",Banorte,Sector Financiero,501
+6478,Afore,NA,06/15/2024,13:49:58,NA,"$9,950.00",Banorte,Sector Financiero,611
+1001,Tarjeta de débito,El Palacio de Hierro 274,06/28/2024,04:14:53,Artículo 17,"$4,713.00",El Palacio de Hierro,Entretenimiento,736
+8765,Afore,NA,06/28/2024,06:04:07,NA,"$7,049.00",Banorte,Sector Financiero,480
+9980,Fondos de Inversión,NA,06/25/2024,10:24:37,NA,"$8,895.00",Banorte,Sector Financiero,501
+7555,Afore,NA,06/15/2024,16:26:25,NA,"$7,478.00",Banorte,Sector Financiero,659
+8765,Afore,NA,06/27/2024,03:19:57,NA,"$9,043.00",Banorte,Sector Financiero,480
+1234,Afore,NA,06/06/2024,02:21:57,NA,$649.00,Banorte,Sector Financiero,571
+5231,Tarjeta de débito,Mercado Libre 487,06/25/2024,22:17:49,Artículo 40,"$9,265.00",Mercado Libre,Supermercado,406
+5432,Afore,NA,07/04/2024,06:35:13,NA,"$7,443.00",Banorte,Sector Financiero,737
+2002,Tarjeta de débito,Sanborns 766,06/18/2024,13:29:19,Artículo 45,"$6,587.00",Sanborns,Tecnología,389
+5231,Fondos de Inversión,NA,06/07/2024,01:13:54,NA,"$1,433.00",Banorte,Sector Financiero,406
+1001,Tarjeta de crédito,Uber Eats 605,06/06/2024,23:35:39,Artículo 4,"$5,707.00",Uber Eats,Entretenimiento,736
+6478,Fondos de Inversión,NA,06/08/2024,04:01:06,NA,"$2,888.00",Banorte,Sector Financiero,611
+1234,Afore,NA,06/06/2024,23:41:01,NA,"$2,068.00",Banorte,Sector Financiero,571
+9980,Tarjeta de crédito,Uber Eats 175,06/21/2024,18:23:22,Artículo 38,"$3,602.00",Uber Eats,Restaurant,501
+6478,Fondos de Inversión,NA,06/30/2024,15:42:59,NA,"$1,539.00",Banorte,Sector Financiero,611
+8765,Afore,NA,07/02/2024,05:12:05,NA,"$8,563.00",Banorte,Sector Financiero,480
+7555,Afore,NA,06/12/2024,17:57:00,NA,"$2,804.00",Banorte,Sector Financiero,659
+8765,Tarjeta de débito,Walmart 730,06/24/2024,23:01:24,Artículo 39,"$1,072.00",Walmart,Alimentos y bebidas,480
+2002,Afore,NA,06/19/2024,17:22:54,NA,"$7,998.00",Banorte,Sector Financiero,389
+5432,Tarjeta de crédito,Cinemex 838,06/29/2024,13:11:23,Artículo 41,"$5,983.00",Cinemex,Tecnología,737
+9980,Fondos de Inversión,NA,06/26/2024,21:43:01,NA,"$8,406.00",Banorte,Sector Financiero,501
+6478,Fondos de Inversión,NA,06/06/2024,21:28:40,NA,"$4,625.00",Banorte,Sector Financiero,611
+6478,Afore,NA,06/13/2024,07:08:58,NA,"$7,917.00",Banorte,Sector Financiero,611
+9876,Tarjeta de débito,Mercado Libre 108,06/15/2024,06:44:17,Artículo 18,"$8,220.00",Mercado Libre,Retail,591
+1234,Fondos de Inversión,NA,06/12/2024,23:12:06,NA,"$5,992.00",Banorte,Sector Financiero,571
+9980,Afore,NA,06/07/2024,11:19:10,NA,"$3,048.00",Banorte,Sector Financiero,501
+6478,Tarjeta de crédito,Uber Eats 118,06/15/2024,11:05:48,Artículo 5,"$4,158.00",Uber Eats,Electronics,611
+7555,Afore,NA,06/11/2024,16:59:22,NA,"$1,522.00",Banorte,Sector Financiero,659
+9876,Tarjeta de crédito,Banorte 766,06/04/2024,08:06:29,Artículo 17,"$4,760.00",Banorte,Retail,591
+6478,Afore,NA,06/13/2024,20:28:45,NA,"$7,320.00",Banorte,Sector Financiero,611
+7555,Afore,NA,06/29/2024,07:29:41,NA,"$8,914.00",Banorte,Sector Financiero,659
+1234,Afore,NA,06/27/2024,14:48:40,NA,"$4,615.00",Banorte,Sector Financiero,571
+5231,Tarjeta de crédito,El Palacio de Hierro 365,06/30/2024,09:33:20,Artículo 2,"$3,734.00",El Palacio de Hierro,E-commerce,406
+5231,Tarjeta de crédito,Liverpool 488,07/02/2024,13:41:04,Artículo 20,"$4,104.00",Liverpool,Electronics,406
+8765,Tarjeta de crédito,Oxxo 290,06/23/2024,00:50:37,Artículo 7,"$9,660.00",Oxxo,Supermercado,480
+1001,Fondos de Inversión,NA,06/16/2024,08:58:38,NA,"$9,481.00",Banorte,Sector Financiero,736
+9876,Fondos de Inversión,NA,06/12/2024,09:57:41,NA,"$4,299.00",Banorte,Sector Financiero,591
+9876,Tarjeta de débito,Soriana 754,06/17/2024,20:18:55,Artículo 17,"$3,282.00",Soriana,Entretenimiento,591
+9980,Tarjeta de débito,Walmart 737,06/21/2024,21:41:05,Artículo 16,"$8,149.00",Walmart,Electronics,501
+5432,Afore,NA,06/22/2024,23:45:46,NA,$952.00,Banorte,Sector Financiero,737
+2002,Tarjeta de débito,Sanborns 747,07/03/2024,10:44:01,Artículo 30,"$5,305.00",Sanborns,Electronics,389
+5432,Afore,NA,06/08/2024,10:45:05,NA,"$1,054.00",Banorte,Sector Financiero,737
+8765,Tarjeta de crédito,Chedraui 460,06/14/2024,19:54:22,Artículo 7,"$4,390.00",Chedraui,Clothing,480
+6478,Fondos de Inversión,NA,06/04/2024,17:11:53,NA,"$7,777.00",Banorte,Sector Financiero,611
+8765,Fondos de Inversión,NA,06/07/2024,14:48:46,NA,"$4,569.00",Banorte,Sector Financiero,480
+5231,Afore,NA,06/22/2024,23:56:23,NA,"$3,701.00",Banorte,Sector Financiero,406
+6478,Afore,NA,06/10/2024,20:40:44,NA,"$4,191.00",Banorte,Sector Financiero,611
+5231,Afore,NA,06/22/2024,13:18:50,NA,"$6,694.00",Banorte,Sector Financiero,406
+6478,Fondos de Inversión,NA,06/28/2024,14:52:17,NA,"$1,314.00",Banorte,Sector Financiero,611
+1234,Afore,NA,06/21/2024,17:22:35,NA,"$5,222.00",Banorte,Sector Financiero,571
+9980,Tarjeta de débito,El Palacio de Hierro 977,06/08/2024,12:51:46,Artículo 3,$182.00,El Palacio de Hierro,Electronics,501
+6478,Afore,NA,06/14/2024,23:27:33,NA,"$1,310.00",Banorte,Sector Financiero,611
+7555,Fondos de Inversión,NA,06/08/2024,09:17:55,NA,"$6,439.00",Banorte,Sector Financiero,659
+6478,Fondos de Inversión,NA,07/03/2024,02:09:48,NA,"$1,016.00",Banorte,Sector Financiero,611
+2002,Fondos de Inversión,NA,06/19/2024,17:39:10,NA,"$3,479.00",Banorte,Sector Financiero,389
+9980,Tarjeta de débito,Uber Eats 464,07/02/2024,18:14:48,Artículo 49,"$3,174.00",Uber Eats,Retail,501
+7555,Tarjeta de crédito,Walmart 910,06/30/2024,23:22:00,Artículo 6,"$3,469.00",Walmart,Comida a domicilio,659
+7555,Tarjeta de crédito,Liverpool 411,07/01/2024,13:36:49,Artículo 18,"$1,344.00",Liverpool,E-commerce,659
+9876,Tarjeta de crédito,Starbucks 260,06/28/2024,07:44:49,Artículo 5,"$2,393.00",Starbucks,E-commerce,591
+9980,Fondos de Inversión,NA,07/01/2024,02:24:57,NA,"$8,563.00",Banorte,Sector Financiero,501
+8765,Tarjeta de crédito,Spotify 687,06/23/2024,02:15:09,Artículo 33,"$7,675.00",Spotify,Entretenimiento,480
+9876,Afore,NA,06/29/2024,02:05:57,NA,"$3,846.00",Banorte,Sector Financiero,591
+8765,Fondos de Inversión,NA,06/05/2024,14:54:30,NA,"$7,374.00",Banorte,Sector Financiero,480
+9980,Tarjeta de crédito,Sanborns 265,06/05/2024,11:15:29,Artículo 1,"$8,658.00",Sanborns,Supermercado,501
+8765,Fondos de Inversión,NA,06/15/2024,07:11:46,NA,"$3,175.00",Banorte,Sector Financiero,480
+1234,Fondos de Inversión,NA,06/08/2024,12:19:50,NA,"$7,220.00",Banorte,Sector Financiero,571
+9980,Tarjeta de crédito,Soriana 859,06/10/2024,08:50:35,Artículo 15,"$2,139.00",Soriana,Alimentos y bebidas,501
+8765,Tarjeta de débito,El Palacio de Hierro 33,06/13/2024,21:16:32,Artículo 23,"$9,116.00",El Palacio de Hierro,E-commerce,480
+5231,Fondos de Inversión,NA,07/02/2024,21:18:51,NA,"$1,248.00",Banorte,Sector Financiero,406
+2002,Tarjeta de débito,Mercado Libre 20,07/03/2024,14:56:56,Artículo 8,"$4,935.00",Mercado Libre,E-commerce,389
+2002,Afore,NA,06/09/2024,13:49:47,NA,"$4,438.00",Banorte,Sector Financiero,389
+5231,Tarjeta de crédito,iShop 942,06/27/2024,19:55:23,Artículo 16,"$5,569.00",iShop,E-commerce,406
+7555,Tarjeta de débito,Chedraui 422,06/25/2024,19:55:10,Artículo 26,"$3,515.00",Chedraui,Clothing,659
+2002,Tarjeta de crédito,Soriana 905,06/04/2024,23:05:24,Artículo 47,"$2,052.00",Soriana,E-commerce,389
+9980,Afore,NA,06/04/2024,01:35:41,NA,"$1,355.00",Banorte,Sector Financiero,501
+6478,Tarjeta de débito,Soriana 379,06/29/2024,22:29:49,Artículo 19,"$6,870.00",Soriana,Alimentos y bebidas,611
+8765,Tarjeta de crédito,El Palacio de Hierro 452,06/25/2024,09:08:34,Artículo 2,"$7,901.00",El Palacio de Hierro,Restaurant,480
+5231,Tarjeta de débito,Amazon 489,06/07/2024,18:52:58,Artículo 45,"$1,888.00",Amazon,Supermercado,406
+9980,Afore,NA,06/07/2024,19:57:54,NA,"$1,491.00",Banorte,Sector Financiero,501
+2002,Tarjeta de crédito,Liverpool 124,06/25/2024,10:52:33,Artículo 4,"$6,469.00",Liverpool,Comida a domicilio,389
+9980,Tarjeta de crédito,iShop 249,06/17/2024,17:08:22,Artículo 35,"$6,549.00",iShop,Comida a domicilio,501
+1001,Afore,NA,06/23/2024,14:58:15,NA,"$9,025.00",Banorte,Sector Financiero,736
+2002,Fondos de Inversión,NA,06/23/2024,02:11:54,NA,$61.00,Banorte,Sector Financiero,389
+6478,Fondos de Inversión,NA,06/22/2024,11:08:36,NA,"$2,633.00",Banorte,Sector Financiero,611
+1234,Afore,NA,06/26/2024,06:16:16,NA,$720.00,Banorte,Sector Financiero,571
+1234,Tarjeta de débito,Amazon 812,06/30/2024,12:46:54,Artículo 13,"$9,879.00",Amazon,E-commerce,571
+9876,Fondos de Inversión,NA,06/24/2024,11:36:52,NA,"$9,698.00",Banorte,Sector Financiero,591
+2002,Tarjeta de crédito,Liverpool 373,06/18/2024,22:41:49,Artículo 5,"$7,621.00",Liverpool,Alimentos y bebidas,389
+8765,Fondos de Inversión,NA,06/14/2024,20:49:59,NA,"$7,657.00",Banorte,Sector Financiero,480
+7555,Tarjeta de crédito,Cinemex 79,06/30/2024,01:42:58,Artículo 21,"$8,331.00",Cinemex,Tecnología,659
+5432,Afore,NA,06/24/2024,18:55:48,NA,"$1,705.00",Banorte,Sector Financiero,737
+9876,Tarjeta de crédito,iShop 409,06/20/2024,20:54:57,Artículo 34,"$7,348.00",iShop,E-commerce,591
+5432,Fondos de Inversión,NA,06/07/2024,20:49:17,NA,$101.00,Banorte,Sector Financiero,737
+5231,Tarjeta de débito,Banorte 99,06/10/2024,06:14:39,Artículo 42,"$5,062.00",Banorte,Tecnología,406
+9876,Fondos de Inversión,NA,06/22/2024,06:21:12,NA,"$2,350.00",Banorte,Sector Financiero,591
+8765,Fondos de Inversión,NA,07/01/2024,02:53:27,NA,"$9,708.00",Banorte,Sector Financiero,480
+7555,Afore,NA,06/26/2024,19:02:49,NA,"$9,554.00",Banorte,Sector Financiero,659
+8765,Tarjeta de débito,El Palacio de Hierro 401,06/27/2024,08:40:35,Artículo 32,"$7,072.00",El Palacio de Hierro,Comida a domicilio,480
+6478,Fondos de Inversión,NA,06/17/2024,04:10:51,NA,"$4,243.00",Banorte,Sector Financiero,611
+8765,Tarjeta de crédito,Starbucks 445,06/24/2024,22:55:27,Artículo 39,"$9,323.00",Starbucks,Clothing,480
+7555,Tarjeta de crédito,Sanborns 110,07/03/2024,06:21:05,Artículo 32,"$4,768.00",Sanborns,Retail,659
+5432,Tarjeta de crédito,Cinemex 372,06/30/2024,04:26:15,Artículo 47,"$5,910.00",Cinemex,Clothing,737
+1234,Afore,NA,07/04/2024,20:21:50,NA,"$9,727.00",Banorte,Sector Financiero,571
+1234,Afore,NA,06/24/2024,05:17:59,NA,$478.00,Banorte,Sector Financiero,571
+8765,Fondos de Inversión,NA,06/06/2024,05:45:20,NA,"$7,466.00",Banorte,Sector Financiero,480
+1001,Afore,NA,06/23/2024,10:16:12,NA,"$4,906.00",Banorte,Sector Financiero,736
+1001,Tarjeta de crédito,Mercado Libre 555,06/06/2024,15:54:27,Artículo 37,"$6,548.00",Mercado Libre,Clothing,736
+7555,Fondos de Inversión,NA,06/29/2024,17:11:45,NA,"$3,047.00",Banorte,Sector Financiero,659
+9980,Tarjeta de débito,Amazon 690,06/21/2024,14:39:01,Artículo 30,"$7,970.00",Amazon,Clothing,501
+5432,Tarjeta de débito,El Palacio de Hierro 472,06/15/2024,10:09:33,Artículo 30,"$9,893.00",El Palacio de Hierro,Electronics,737
+2002,Fondos de Inversión,NA,06/22/2024,02:03:24,NA,"$7,108.00",Banorte,Sector Financiero,389
+9876,Tarjeta de débito,Liverpool 163,06/07/2024,16:10:30,Artículo 31,"$2,444.00",Liverpool,Tecnología,591
+7555,Afore,NA,07/02/2024,05:46:38,NA,"$8,552.00",Banorte,Sector Financiero,659
+1001,Afore,NA,06/29/2024,00:15:42,NA,"$1,706.00",Banorte,Sector Financiero,736
+9980,Tarjeta de crédito,Chedraui 576,06/21/2024,08:23:47,Artículo 29,"$1,418.00",Chedraui,Supermercado,501
+9876,Afore,NA,06/14/2024,12:57:35,NA,"$3,675.00",Banorte,Sector Financiero,591
+1234,Tarjeta de crédito,Sanborns 923,06/14/2024,17:41:30,Artículo 10,"$9,537.00",Sanborns,Entretenimiento,571
+2002,Tarjeta de débito,Chedraui 897,06/25/2024,05:34:36,Artículo 45,"$2,980.00",Chedraui,Tecnología,389
+8765,Tarjeta de crédito,Soriana 745,06/24/2024,11:51:39,Artículo 33,$777.00,Soriana,E-commerce,480
+6478,Tarjeta de débito,Soriana 814,06/26/2024,20:29:37,Artículo 30,"$4,118.00",Soriana,Alimentos y bebidas,611
+2002,Afore,NA,06/06/2024,23:22:55,NA,"$9,735.00",Banorte,Sector Financiero,389
+5231,Tarjeta de débito,iShop 375,07/01/2024,01:34:04,Artículo 47,"$1,561.00",iShop,Clothing,406
+6478,Tarjeta de crédito,Starbucks 320,06/30/2024,11:34:52,Artículo 39,$627.00,Starbucks,Comida a domicilio,611
+6478,Fondos de Inversión,NA,06/23/2024,11:11:41,NA,"$2,784.00",Banorte,Sector Financiero,611
+8765,Fondos de Inversión,NA,06/16/2024,23:58:11,NA,$479.00,Banorte,Sector Financiero,480
+1234,Tarjeta de débito,Banorte 44,06/06/2024,13:01:35,Artículo 15,$245.00,Banorte,Electronics,571
+5432,Tarjeta de débito,Liverpool 346,06/08/2024,08:13:22,Artículo 10,"$8,103.00",Liverpool,Retail,737
+2002,Tarjeta de crédito,Starbucks 865,07/03/2024,09:35:22,Artículo 45,$955.00,Starbucks,Clothing,389
+5432,Tarjeta de crédito,Amazon 562,07/04/2024,16:14:29,Artículo 46,"$3,060.00",Amazon,Supermercado,737
+2002,Afore,NA,06/15/2024,20:01:07,NA,$120.00,Banorte,Sector Financiero,389
+1234,Fondos de Inversión,NA,06/23/2024,14:44:44,NA,"$9,993.00",Banorte,Sector Financiero,571
+1234,Tarjeta de débito,El Palacio de Hierro 504,06/22/2024,07:53:30,Artículo 43,"$6,206.00",El Palacio de Hierro,Supermercado,571
+9876,Afore,NA,06/29/2024,22:16:56,NA,"$4,845.00",Banorte,Sector Financiero,591
+2002,Afore,NA,06/28/2024,08:52:34,NA,$133.00,Banorte,Sector Financiero,389
+1234,Afore,NA,06/29/2024,08:44:07,NA,"$1,914.00",Banorte,Sector Financiero,571
+8765,Tarjeta de débito,Amazon 822,06/22/2024,22:21:23,Artículo 12,"$8,990.00",Amazon,Restaurant,480
+6478,Fondos de Inversión,NA,06/05/2024,19:37:01,NA,"$5,575.00",Banorte,Sector Financiero,611
+9980,Afore,NA,06/17/2024,19:23:31,NA,"$4,429.00",Banorte,Sector Financiero,501
+7555,Tarjeta de crédito,Sanborns 341,06/18/2024,01:12:13,Artículo 47,"$1,833.00",Sanborns,Restaurant,659
+8765,Fondos de Inversión,NA,06/14/2024,15:47:26,NA,$928.00,Banorte,Sector Financiero,480
+9980,Tarjeta de crédito,Soriana 568,06/24/2024,23:45:24,Artículo 15,"$8,430.00",Soriana,Comida a domicilio,501
+9876,Tarjeta de crédito,Starbucks 860,06/16/2024,11:10:31,Artículo 2,"$1,169.00",Starbucks,Alimentos y bebidas,591
+5231,Tarjeta de crédito,Chedraui 791,06/30/2024,03:55:31,Artículo 46,"$7,370.00",Chedraui,Comida a domicilio,406
+1001,Tarjeta de débito,Soriana 686,06/20/2024,23:19:21,Artículo 27,"$2,930.00",Soriana,Alimentos y bebidas,736
+5231,Tarjeta de crédito,Amazon 126,06/15/2024,04:55:23,Artículo 42,"$3,910.00",Amazon,Supermercado,406
+2002,Afore,NA,06/27/2024,20:48:15,NA,"$3,522.00",Banorte,Sector Financiero,389
+5432,Tarjeta de crédito,Sanborns 771,06/29/2024,07:20:27,Artículo 4,"$5,545.00",Sanborns,Comida a domicilio,737
+9876,Tarjeta de débito,Cinemex 180,06/06/2024,08:12:23,Artículo 29,"$7,802.00",Cinemex,E-commerce,591
+9876,Tarjeta de débito,Oxxo 413,06/07/2024,16:55:46,Artículo 8,"$6,745.00",Oxxo,Alimentos y bebidas,591
+8765,Afore,NA,07/02/2024,09:41:19,NA,"$4,739.00",Banorte,Sector Financiero,480
+9876,Tarjeta de débito,Banorte 839,06/14/2024,04:05:30,Artículo 10,"$9,027.00",Banorte,Electronics,591
+5432,Afore,NA,06/12/2024,02:15:42,NA,"$1,656.00",Banorte,Sector Financiero,737
+1001,Fondos de Inversión,NA,06/14/2024,10:04:57,NA,"$9,869.00",Banorte,Sector Financiero,736
+9980,Tarjeta de crédito,Starbucks 884,06/04/2024,20:42:08,Artículo 14,"$8,907.00",Starbucks,Comida a domicilio,501
+2002,Fondos de Inversión,NA,06/05/2024,09:17:17,NA,"$2,398.00",Banorte,Sector Financiero,389
+9980,Afore,NA,06/30/2024,08:52:21,NA,"$2,532.00",Banorte,Sector Financiero,501
+5231,Tarjeta de débito,Spotify 791,06/08/2024,17:54:18,Artículo 30,"$9,399.00",Spotify,Clothing,406
+1001,Fondos de Inversión,NA,06/22/2024,04:18:39,NA,"$3,879.00",Banorte,Sector Financiero,736
+5432,Tarjeta de crédito,Amazon 477,06/29/2024,23:34:23,Artículo 28,"$3,138.00",Amazon,Supermercado,737
+9876,Tarjeta de crédito,Starbucks 445,06/27/2024,19:41:04,Artículo 28,"$8,072.00",Starbucks,Tecnología,591
+9876,Afore,NA,06/11/2024,01:00:30,NA,"$2,165.00",Banorte,Sector Financiero,591
+9876,Tarjeta de crédito,Chedraui 118,06/20/2024,23:48:08,Artículo 26,"$6,279.00",Chedraui,Entretenimiento,591
+2002,Fondos de Inversión,NA,06/14/2024,18:23:13,NA,"$2,388.00",Banorte,Sector Financiero,389
+6478,Tarjeta de crédito,Amazon 64,06/12/2024,12:47:07,Artículo 8,"$7,973.00",Amazon,Retail,611
+9876,Fondos de Inversión,NA,06/27/2024,23:16:20,NA,"$9,951.00",Banorte,Sector Financiero,591
+5432,Fondos de Inversión,NA,06/07/2024,04:21:40,NA,"$9,567.00",Banorte,Sector Financiero,737
+5432,Fondos de Inversión,NA,06/12/2024,23:23:55,NA,"$6,160.00",Banorte,Sector Financiero,737
+5432,Tarjeta de crédito,Sanborns 56,06/12/2024,05:39:27,Artículo 9,"$6,760.00",Sanborns,Electronics,737
+1001,Fondos de Inversión,NA,06/05/2024,14:02:43,NA,"$8,502.00",Banorte,Sector Financiero,736
+7555,Fondos de Inversión,NA,06/22/2024,13:38:55,NA,"$5,004.00",Banorte,Sector Financiero,659
+5432,Fondos de Inversión,NA,06/05/2024,18:39:09,NA,"$4,464.00",Banorte,Sector Financiero,737
+1234,Afore,NA,06/04/2024,02:41:09,NA,"$1,562.00",Banorte,Sector Financiero,571
+1001,Afore,NA,07/01/2024,17:21:19,NA,"$6,883.00",Banorte,Sector Financiero,736
+1234,Afore,NA,06/14/2024,16:30:58,NA,"$7,761.00",Banorte,Sector Financiero,571
+5432,Tarjeta de crédito,Spotify 603,07/01/2024,21:15:15,Artículo 26,"$2,192.00",Spotify,Clothing,737
+1234,Fondos de Inversión,NA,06/26/2024,17:00:20,NA,"$6,053.00",Banorte,Sector Financiero,571
+7555,Afore,NA,06/12/2024,11:21:43,NA,"$4,081.00",Banorte,Sector Financiero,659
+9876,Tarjeta de débito,Uber Eats 891,06/18/2024,13:02:23,Artículo 5,$58.00,Uber Eats,Comida a domicilio,591
+1234,Tarjeta de crédito,Uber Eats 380,06/26/2024,18:10:22,Artículo 18,"$3,216.00",Uber Eats,Alimentos y bebidas,571
+8765,Afore,NA,06/23/2024,06:32:38,NA,"$8,006.00",Banorte,Sector Financiero,480
+5432,Tarjeta de débito,Sanborns 743,06/26/2024,18:27:51,Artículo 35,$757.00,Sanborns,Restaurant,737
+5432,Afore,NA,06/06/2024,13:52:27,NA,"$2,013.00",Banorte,Sector Financiero,737
+1001,Fondos de Inversión,NA,07/04/2024,23:33:24,NA,"$7,097.00",Banorte,Sector Financiero,736
+9980,Tarjeta de crédito,Uber Eats 115,06/30/2024,02:14:35,Artículo 48,"$6,364.00",Uber Eats,Supermercado,501
+9876,Afore,NA,06/10/2024,01:00:42,NA,"$2,429.00",Banorte,Sector Financiero,591
+1234,Tarjeta de crédito,Spotify 97,06/11/2024,03:26:20,Artículo 29,"$2,430.00",Spotify,E-commerce,571
+1234,Afore,NA,06/21/2024,22:57:29,NA,"$8,879.00",Banorte,Sector Financiero,571
+1234,Fondos de Inversión,NA,06/10/2024,19:56:13,NA,"$2,207.00",Banorte,Sector Financiero,571
+9980,Afore,NA,06/21/2024,11:51:28,NA,"$5,689.00",Banorte,Sector Financiero,501
+5432,Tarjeta de débito,Starbucks 859,06/11/2024,14:46:28,Artículo 19,"$8,439.00",Starbucks,Supermercado,737
+5231,Tarjeta de crédito,Sanborns 781,06/16/2024,17:44:07,Artículo 47,"$5,457.00",Sanborns,Clothing,406
+5231,Tarjeta de débito,Soriana 573,06/30/2024,03:24:09,Artículo 30,"$6,728.00",Soriana,Alimentos y bebidas,406
+1234,Afore,NA,06/04/2024,10:08:29,NA,$758.00,Banorte,Sector Financiero,571
+1234,Afore,NA,07/02/2024,08:27:14,NA,"$9,096.00",Banorte,Sector Financiero,571
+2002,Tarjeta de crédito,Spotify 39,06/22/2024,08:29:24,Artículo 8,"$8,472.00",Spotify,Supermercado,389
+8765,Tarjeta de crédito,Starbucks 816,06/09/2024,15:15:47,Artículo 32,"$8,522.00",Starbucks,Retail,480
+5231,Fondos de Inversión,NA,06/25/2024,00:29:47,NA,$839.00,Banorte,Sector Financiero,406
+5432,Fondos de Inversión,NA,06/15/2024,09:13:26,NA,"$4,422.00",Banorte,Sector Financiero,737
+2002,Fondos de Inversión,NA,06/30/2024,22:27:07,NA,"$3,680.00",Banorte,Sector Financiero,389
+5231,Tarjeta de débito,Banorte 636,06/09/2024,14:24:24,Artículo 36,"$7,512.00",Banorte,Clothing,406
+8765,Tarjeta de crédito,iShop 502,06/23/2024,02:28:57,Artículo 48,"$6,216.00",iShop,Restaurant,480
+5231,Afore,NA,06/29/2024,19:09:06,NA,"$9,772.00",Banorte,Sector Financiero,406
+2002,Tarjeta de débito,Walmart 729,07/01/2024,23:37:13,Artículo 33,"$6,567.00",Walmart,Alimentos y bebidas,389
+6478,Tarjeta de crédito,Walmart 755,06/30/2024,21:23:54,Artículo 29,"$8,876.00",Walmart,Comida a domicilio,611
+8765,Fondos de Inversión,NA,06/15/2024,17:46:56,NA,"$8,114.00",Banorte,Sector Financiero,480
+9876,Tarjeta de débito,Chedraui 542,06/21/2024,12:55:54,Artículo 45,"$2,838.00",Chedraui,Entretenimiento,591
+2002,Tarjeta de crédito,Oxxo 722,06/28/2024,00:53:26,Artículo 16,"$9,794.00",Oxxo,Entretenimiento,389
+5432,Fondos de Inversión,NA,06/11/2024,10:50:24,NA,"$5,193.00",Banorte,Sector Financiero,737
+1001,Tarjeta de débito,Oxxo 617,06/25/2024,06:27:53,Artículo 2,$472.00,Oxxo,Entretenimiento,736
+1001,Tarjeta de débito,Mercado Libre 78,06/18/2024,14:23:47,Artículo 49,"$4,018.00",Mercado Libre,Clothing,736
+5231,Tarjeta de débito,Mercado Libre 792,06/14/2024,22:54:55,Artículo 9,"$9,321.00",Mercado Libre,Supermercado,406
+1234,Tarjeta de débito,Uber Eats 917,06/18/2024,09:59:55,Artículo 28,"$9,696.00",Uber Eats,Electronics,571
+1234,Fondos de Inversión,NA,06/21/2024,21:10:44,NA,"$1,708.00",Banorte,Sector Financiero,571
+5432,Fondos de Inversión,NA,06/23/2024,11:18:14,NA,"$2,887.00",Banorte,Sector Financiero,737
+1234,Afore,NA,06/19/2024,10:26:36,NA,"$1,232.00",Banorte,Sector Financiero,571
+6478,Fondos de Inversión,NA,07/04/2024,01:38:31,NA,"$6,647.00",Banorte,Sector Financiero,611
+2002,Tarjeta de crédito,Spotify 158,06/15/2024,23:24:31,Artículo 36,"$8,675.00",Spotify,Comida a domicilio,389
+9876,Afore,NA,06/16/2024,14:25:16,NA,"$6,577.00",Banorte,Sector Financiero,591
+1001,Tarjeta de débito,Spotify 882,06/25/2024,05:36:47,Artículo 14,"$8,237.00",Spotify,Alimentos y bebidas,736
+1234,Fondos de Inversión,NA,06/30/2024,04:37:43,NA,"$4,951.00",Banorte,Sector Financiero,571
+9980,Fondos de Inversión,NA,06/07/2024,01:44:40,NA,"$5,501.00",Banorte,Sector Financiero,501
+8765,Fondos de Inversión,NA,06/09/2024,00:12:20,NA,"$6,684.00",Banorte,Sector Financiero,480
+2002,Afore,NA,06/27/2024,07:44:34,NA,"$3,577.00",Banorte,Sector Financiero,389
+8765,Afore,NA,06/06/2024,16:59:14,NA,"$7,975.00",Banorte,Sector Financiero,480
+5231,Afore,NA,06/17/2024,02:12:55,NA,"$2,847.00",Banorte,Sector Financiero,406
+8765,Fondos de Inversión,NA,06/24/2024,11:09:07,NA,"$1,512.00",Banorte,Sector Financiero,480
+5231,Fondos de Inversión,NA,07/04/2024,00:34:23,NA,"$3,956.00",Banorte,Sector Financiero,406
+8765,Tarjeta de crédito,Banorte 200,06/06/2024,06:45:56,Artículo 31,"$5,820.00",Banorte,Supermercado,480
+1234,Tarjeta de débito,Chedraui 890,06/12/2024,17:55:12,Artículo 35,"$4,310.00",Chedraui,Retail,571
+1234,Afore,NA,06/29/2024,23:34:32,NA,"$4,140.00",Banorte,Sector Financiero,571
+6478,Tarjeta de crédito,Cinemex 984,06/12/2024,09:10:36,Artículo 44,"$9,764.00",Cinemex,Supermercado,611
+9980,Tarjeta de crédito,Mercado Libre 948,06/27/2024,09:59:10,Artículo 19,"$6,783.00",Mercado Libre,Supermercado,501
+5432,Afore,NA,06/25/2024,01:08:24,NA,"$4,960.00",Banorte,Sector Financiero,737
+9980,Afore,NA,06/19/2024,08:20:07,NA,"$8,597.00",Banorte,Sector Financiero,501
+5432,Fondos de Inversión,NA,06/25/2024,04:18:54,NA,"$6,274.00",Banorte,Sector Financiero,737
+9876,Tarjeta de débito,iShop 70,06/27/2024,22:19:55,Artículo 46,$573.00,iShop,E-commerce,591
+1234,Tarjeta de crédito,Banorte 825,06/05/2024,22:51:19,Artículo 26,"$3,351.00",Banorte,Entretenimiento,571
+5432,Afore,NA,06/26/2024,10:10:04,NA,"$8,089.00",Banorte,Sector Financiero,737
+7555,Tarjeta de crédito,El Palacio de Hierro 361,06/07/2024,05:23:09,Artículo 24,"$3,551.00",El Palacio de Hierro,Electronics,659
+5432,Tarjeta de crédito,Walmart 371,06/19/2024,11:47:08,Artículo 46,"$5,499.00",Walmart,Supermercado,737
+6478,Fondos de Inversión,NA,06/21/2024,23:02:46,NA,"$5,617.00",Banorte,Sector Financiero,611
+2002,Afore,NA,06/17/2024,16:31:13,NA,"$7,930.00",Banorte,Sector Financiero,389
+1234,Afore,NA,07/01/2024,05:35:53,NA,"$1,029.00",Banorte,Sector Financiero,571
+5231,Tarjeta de crédito,Spotify 955,06/30/2024,02:05:40,Artículo 40,"$6,247.00",Spotify,Supermercado,406
+5231,Fondos de Inversión,NA,06/06/2024,23:23:39,NA,"$8,465.00",Banorte,Sector Financiero,406
+1001,Tarjeta de débito,Walmart 125,06/16/2024,15:57:35,Artículo 36,"$9,565.00",Walmart,Electronics,736
+2002,Tarjeta de crédito,Banorte 311,06/27/2024,22:36:29,Artículo 33,"$1,641.00",Banorte,Tecnología,389
+1234,Fondos de Inversión,NA,06/29/2024,00:18:15,NA,"$1,645.00",Banorte,Sector Financiero,571
+5231,Tarjeta de crédito,Starbucks 691,06/28/2024,13:58:21,Artículo 4,"$6,582.00",Starbucks,Restaurant,406
+1234,Tarjeta de crédito,Sanborns 595,06/24/2024,10:03:52,Artículo 10,"$2,870.00",Sanborns,Retail,571
+1001,Tarjeta de crédito,Sanborns 789,06/04/2024,12:01:05,Artículo 42,"$4,183.00",Sanborns,Restaurant,736
+8765,Fondos de Inversión,NA,06/25/2024,14:55:10,NA,"$8,551.00",Banorte,Sector Financiero,480
+6478,Tarjeta de débito,Banorte 245,06/04/2024,02:12:26,Artículo 37,$681.00,Banorte,Entretenimiento,611
+6478,Tarjeta de débito,Starbucks 447,06/29/2024,06:26:04,Artículo 41,$165.00,Starbucks,Retail,611
+1001,Tarjeta de débito,Soriana 244,06/14/2024,12:33:41,Artículo 15,"$7,780.00",Soriana,Comida a domicilio,736
+5231,Tarjeta de débito,iShop 500,06/28/2024,13:11:34,Artículo 9,"$8,479.00",iShop,Restaurant,406
+7555,Afore,NA,06/12/2024,20:52:48,NA,"$2,544.00",Banorte,Sector Financiero,659
+7555,Afore,NA,06/22/2024,19:51:11,NA,"$8,635.00",Banorte,Sector Financiero,659
+9980,Tarjeta de débito,Cinemex 979,06/12/2024,03:46:59,Artículo 23,"$2,655.00",Cinemex,E-commerce,501
+9980,Fondos de Inversión,NA,06/20/2024,01:18:28,NA,"$8,347.00",Banorte,Sector Financiero,501
+1001,Fondos de Inversión,NA,06/25/2024,20:31:11,NA,"$7,546.00",Banorte,Sector Financiero,736
+1001,Tarjeta de crédito,Starbucks 14,06/13/2024,03:53:45,Artículo 41,"$9,036.00",Starbucks,Comida a domicilio,736
+8765,Afore,NA,06/05/2024,11:57:48,NA,$785.00,Banorte,Sector Financiero,480
+9876,Tarjeta de crédito,Amazon 107,06/14/2024,18:36:29,Artículo 11,"$7,647.00",Amazon,Tecnología,591
+9980,Afore,NA,06/21/2024,09:45:27,NA,"$3,953.00",Banorte,Sector Financiero,501
+2002,Tarjeta de débito,Liverpool 15,06/09/2024,14:41:12,Artículo 22,$363.00,Liverpool,Comida a domicilio,389
+6478,Fondos de Inversión,NA,06/21/2024,13:16:39,NA,"$3,356.00",Banorte,Sector Financiero,611
+1001,Afore,NA,06/28/2024,10:32:52,NA,$248.00,Banorte,Sector Financiero,736
+5231,Tarjeta de crédito,Uber Eats 670,06/22/2024,08:00:17,Artículo 30,"$5,138.00",Uber Eats,Alimentos y bebidas,406
+5432,Tarjeta de crédito,Cinemex 673,06/20/2024,17:53:20,Artículo 20,"$5,526.00",Cinemex,Restaurant,737
+1001,Tarjeta de crédito,iShop 920,06/08/2024,00:20:31,Artículo 49,"$8,140.00",iShop,Tecnología,736
+5432,Tarjeta de débito,iShop 467,06/20/2024,00:17:29,Artículo 27,"$9,967.00",iShop,Supermercado,737
+1234,Tarjeta de crédito,Soriana 192,06/10/2024,06:08:08,Artículo 17,"$9,675.00",Soriana,E-commerce,571
+9876,Fondos de Inversión,NA,06/15/2024,04:50:54,NA,"$9,836.00",Banorte,Sector Financiero,591
+5432,Fondos de Inversión,NA,06/30/2024,22:20:14,NA,"$8,722.00",Banorte,Sector Financiero,737
+9876,Fondos de Inversión,NA,06/12/2024,14:51:18,NA,"$5,247.00",Banorte,Sector Financiero,591
+2002,Tarjeta de crédito,Spotify 235,06/21/2024,07:57:35,Artículo 15,"$1,667.00",Spotify,Tecnología,389
+9876,Afore,NA,07/04/2024,15:34:40,NA,"$2,392.00",Banorte,Sector Financiero,591
+5231,Tarjeta de crédito,Cinemex 886,06/18/2024,12:07:29,Artículo 13,"$2,967.00",Cinemex,Retail,406
+5231,Tarjeta de débito,Cinemex 859,07/04/2024,10:32:48,Artículo 24,"$4,288.00",Cinemex,Comida a domicilio,406
+9980,Afore,NA,06/22/2024,09:46:03,NA,"$4,689.00",Banorte,Sector Financiero,501
+6478,Fondos de Inversión,NA,07/04/2024,10:22:20,NA,"$3,237.00",Banorte,Sector Financiero,611
+5432,Tarjeta de crédito,Sanborns 657,06/10/2024,10:37:54,Artículo 45,"$8,490.00",Sanborns,Retail,737
+7555,Fondos de Inversión,NA,07/04/2024,15:52:23,NA,"$5,773.00",Banorte,Sector Financiero,659
+1001,Tarjeta de débito,Spotify 74,06/26/2024,01:00:41,Artículo 2,"$2,514.00",Spotify,Entretenimiento,736
+1234,Tarjeta de débito,Cinemex 164,06/29/2024,13:46:29,Artículo 39,$819.00,Cinemex,Retail,571
+6478,Afore,NA,06/20/2024,18:28:27,NA,"$5,091.00",Banorte,Sector Financiero,611
+9980,Afore,NA,06/09/2024,17:53:46,NA,"$1,823.00",Banorte,Sector Financiero,501
+6478,Tarjeta de débito,Liverpool 718,06/10/2024,04:51:12,Artículo 8,$735.00,Liverpool,Supermercado,611
+9876,Fondos de Inversión,NA,06/24/2024,23:26:05,NA,"$5,657.00",Banorte,Sector Financiero,591
+9876,Afore,NA,06/12/2024,16:25:51,NA,"$9,847.00",Banorte,Sector Financiero,591
+9876,Tarjeta de débito,Oxxo 803,06/17/2024,15:46:20,Artículo 2,"$7,865.00",Oxxo,E-commerce,591
+6478,Tarjeta de crédito,Oxxo 1000,06/11/2024,06:01:26,Artículo 14,"$4,375.00",Oxxo,Supermercado,611
+7555,Afore,NA,06/13/2024,22:42:44,NA,"$7,667.00",Banorte,Sector Financiero,659
+8765,Afore,NA,06/19/2024,11:55:14,NA,"$3,087.00",Banorte,Sector Financiero,480
+9980,Afore,NA,06/29/2024,21:44:39,NA,"$6,746.00",Banorte,Sector Financiero,501
+5432,Fondos de Inversión,NA,06/15/2024,01:16:32,NA,"$8,941.00",Banorte,Sector Financiero,737
+1001,Afore,NA,06/06/2024,10:47:48,NA,$483.00,Banorte,Sector Financiero,736
+9876,Tarjeta de débito,Cinemex 533,06/25/2024,22:39:17,Artículo 18,"$8,527.00",Cinemex,Supermercado,591
+1234,Fondos de Inversión,NA,06/08/2024,02:02:31,NA,"$4,486.00",Banorte,Sector Financiero,571
+9876,Tarjeta de crédito,Chedraui 333,06/21/2024,08:18:12,Artículo 16,"$3,527.00",Chedraui,Tecnología,591
+8765,Fondos de Inversión,NA,06/10/2024,02:42:58,NA,"$9,206.00",Banorte,Sector Financiero,480
+2002,Tarjeta de crédito,Sanborns 295,06/04/2024,03:51:12,Artículo 38,"$2,481.00",Sanborns,E-commerce,389
+9876,Fondos de Inversión,NA,07/03/2024,20:25:31,NA,"$1,271.00",Banorte,Sector Financiero,591
+5432,Tarjeta de débito,Starbucks 571,06/22/2024,09:54:57,Artículo 42,"$7,108.00",Starbucks,Supermercado,737
+2002,Afore,NA,06/08/2024,13:09:15,NA,"$3,916.00",Banorte,Sector Financiero,389
+9980,Tarjeta de crédito,Cinemex 771,06/10/2024,19:10:04,Artículo 19,"$8,616.00",Cinemex,Alimentos y bebidas,501
+9980,Afore,NA,06/04/2024,18:43:22,NA,"$9,323.00",Banorte,Sector Financiero,501
+2002,Tarjeta de crédito,Mercado Libre 41,06/07/2024,05:55:44,Artículo 2,$127.00,Mercado Libre,Entretenimiento,389
+5432,Fondos de Inversión,NA,06/13/2024,19:38:10,NA,$148.00,Banorte,Sector Financiero,737
+9876,Tarjeta de crédito,Liverpool 548,06/22/2024,14:18:30,Artículo 19,"$1,616.00",Liverpool,Supermercado,591
+8765,Tarjeta de crédito,Banorte 723,06/21/2024,02:32:22,Artículo 29,"$4,651.00",Banorte,Alimentos y bebidas,480
+9876,Tarjeta de crédito,Banorte 974,06/27/2024,13:47:00,Artículo 30,"$7,945.00",Banorte,Entretenimiento,591
+9876,Tarjeta de débito,iShop 780,06/27/2024,18:17:17,Artículo 4,"$1,457.00",iShop,Electronics,591
+7555,Afore,NA,06/08/2024,06:55:05,NA,"$5,532.00",Banorte,Sector Financiero,659
+1001,Fondos de Inversión,NA,07/01/2024,02:40:54,NA,"$3,055.00",Banorte,Sector Financiero,736
+1234,Fondos de Inversión,NA,07/02/2024,23:45:09,NA,"$4,564.00",Banorte,Sector Financiero,571
+5432,Fondos de Inversión,NA,06/23/2024,04:20:42,NA,"$4,233.00",Banorte,Sector Financiero,737
+7555,Fondos de Inversión,NA,06/20/2024,16:19:20,NA,"$5,582.00",Banorte,Sector Financiero,659
+1001,Tarjeta de débito,Uber Eats 583,06/06/2024,09:26:25,Artículo 9,"$4,367.00",Uber Eats,Retail,736
+8765,Tarjeta de débito,Spotify 836,07/03/2024,16:24:05,Artículo 8,"$6,417.00",Spotify,Restaurant,480
+5231,Tarjeta de débito,Banorte 579,06/13/2024,15:28:11,Artículo 2,"$2,561.00",Banorte,Electronics,406
+6478,Tarjeta de crédito,Amazon 135,06/18/2024,17:37:58,Artículo 18,"$1,272.00",Amazon,Supermercado,611
+5231,Afore,NA,07/02/2024,13:36:43,NA,"$1,695.00",Banorte,Sector Financiero,406
+1234,Fondos de Inversión,NA,06/23/2024,12:41:15,NA,$64.00,Banorte,Sector Financiero,571
+8765,Fondos de Inversión,NA,06/25/2024,01:11:46,NA,"$2,444.00",Banorte,Sector Financiero,480
+6478,Tarjeta de crédito,Spotify 566,06/09/2024,23:10:59,Artículo 50,"$6,855.00",Spotify,Retail,611
+9876,Tarjeta de crédito,Oxxo 721,06/12/2024,13:48:16,Artículo 4,"$8,245.00",Oxxo,Retail,591
+2002,Tarjeta de crédito,Oxxo 903,06/22/2024,23:10:31,Artículo 34,"$1,038.00",Oxxo,E-commerce,389
+9980,Tarjeta de crédito,Walmart 675,07/03/2024,09:39:41,Artículo 49,"$4,959.00",Walmart,Comida a domicilio,501
+8765,Tarjeta de débito,Banorte 667,07/04/2024,05:29:47,Artículo 35,"$8,090.00",Banorte,E-commerce,480
+6478,Tarjeta de débito,Banorte 892,06/22/2024,03:52:14,Artículo 15,"$8,789.00",Banorte,E-commerce,611
+9876,Tarjeta de crédito,Cinemex 985,06/08/2024,14:48:11,Artículo 18,"$1,355.00",Cinemex,Clothing,591
+2002,Fondos de Inversión,NA,07/03/2024,02:05:01,NA,"$5,804.00",Banorte,Sector Financiero,389
+9876,Tarjeta de crédito,Walmart 728,07/01/2024,17:51:28,Artículo 6,"$2,040.00",Walmart,Clothing,591
+1234,Afore,NA,06/14/2024,12:57:03,NA,"$3,504.00",Banorte,Sector Financiero,571
+7555,Fondos de Inversión,NA,07/02/2024,13:46:00,NA,"$1,599.00",Banorte,Sector Financiero,659
+1234,Tarjeta de débito,Liverpool 586,06/19/2024,06:05:59,Artículo 43,"$8,529.00",Liverpool,Retail,571
+5432,Tarjeta de débito,Mercado Libre 777,06/18/2024,23:56:22,Artículo 6,"$5,803.00",Mercado Libre,Tecnología,737
+9876,Afore,NA,06/14/2024,10:31:26,NA,"$4,774.00",Banorte,Sector Financiero,591
+6478,Tarjeta de crédito,Liverpool 383,06/04/2024,07:27:43,Artículo 30,"$8,701.00",Liverpool,Electronics,611
+5231,Tarjeta de débito,Liverpool 309,06/12/2024,09:55:53,Artículo 12,"$8,819.00",Liverpool,Tecnología,406
+9980,Tarjeta de crédito,Chedraui 92,06/05/2024,05:32:43,Artículo 21,"$5,846.00",Chedraui,Electronics,501
+7555,Tarjeta de débito,Sanborns 828,06/20/2024,02:53:39,Artículo 23,"$4,353.00",Sanborns,Entretenimiento,659
+2002,Afore,NA,06/23/2024,06:26:54,NA,"$7,618.00",Banorte,Sector Financiero,389
+5432,Tarjeta de débito,El Palacio de Hierro 864,06/28/2024,13:29:15,Artículo 50,"$9,242.00",El Palacio de Hierro,Comida a domicilio,737
+6478,Fondos de Inversión,NA,06/16/2024,08:35:34,NA,"$5,959.00",Banorte,Sector Financiero,611
+5432,Tarjeta de débito,Chedraui 124,06/20/2024,21:14:26,Artículo 16,"$1,588.00",Chedraui,Tecnología,737
+2002,Afore,NA,06/08/2024,01:08:58,NA,"$4,449.00",Banorte,Sector Financiero,389
+6478,Fondos de Inversión,NA,06/27/2024,14:44:14,NA,"$8,674.00",Banorte,Sector Financiero,611
+1234,Afore,NA,07/04/2024,18:40:02,NA,"$1,873.00",Banorte,Sector Financiero,571
+1234,Tarjeta de débito,Banorte 329,07/02/2024,11:46:01,Artículo 1,"$6,523.00",Banorte,Entretenimiento,571
+7555,Tarjeta de débito,Mercado Libre 919,06/16/2024,04:41:01,Artículo 1,"$9,617.00",Mercado Libre,Comida a domicilio,659
+6478,Tarjeta de débito,Liverpool 499,06/28/2024,17:35:59,Artículo 47,"$4,983.00",Liverpool,Clothing,611
+1001,Afore,NA,06/14/2024,01:58:45,NA,"$9,556.00",Banorte,Sector Financiero,736
+2002,Tarjeta de crédito,El Palacio de Hierro 970,06/26/2024,19:45:30,Artículo 22,"$2,996.00",El Palacio de Hierro,Alimentos y bebidas,389
+2002,Fondos de Inversión,NA,06/09/2024,07:49:09,NA,"$6,230.00",Banorte,Sector Financiero,389
+7555,Tarjeta de crédito,Soriana 459,06/22/2024,20:36:38,Artículo 18,"$2,334.00",Soriana,Clothing,659
+8765,Tarjeta de crédito,iShop 180,06/24/2024,09:07:57,Artículo 22,"$1,686.00",iShop,Electronics,480
+1001,Tarjeta de débito,Chedraui 982,06/25/2024,07:45:51,Artículo 3,"$5,509.00",Chedraui,Entretenimiento,736
+5231,Tarjeta de débito,Cinemex 486,06/05/2024,12:50:10,Artículo 25,"$6,471.00",Cinemex,Electronics,406
+9876,Afore,NA,06/10/2024,10:09:15,NA,"$5,840.00",Banorte,Sector Financiero,591
+2002,Tarjeta de débito,Cinemex 891,06/18/2024,18:23:35,Artículo 11,"$3,026.00",Cinemex,Retail,389
+7555,Afore,NA,06/09/2024,02:47:09,NA,"$6,903.00",Banorte,Sector Financiero,659
+8765,Fondos de Inversión,NA,07/02/2024,23:57:29,NA,"$2,600.00",Banorte,Sector Financiero,480
+1234,Tarjeta de débito,Chedraui 759,07/04/2024,04:36:13,Artículo 26,"$2,147.00",Chedraui,Alimentos y bebidas,571
+5432,Tarjeta de débito,Cinemex 271,06/21/2024,19:15:50,Artículo 21,"$1,449.00",Cinemex,Retail,737
+2002,Fondos de Inversión,NA,06/15/2024,03:36:24,NA,"$8,275.00",Banorte,Sector Financiero,389
+9876,Afore,NA,06/10/2024,02:33:11,NA,$649.00,Banorte,Sector Financiero,591
+2002,Tarjeta de débito,Sanborns 732,07/04/2024,20:24:01,Artículo 33,"$9,852.00",Sanborns,Supermercado,389
+7555,Tarjeta de débito,Chedraui 475,06/05/2024,04:38:44,Artículo 7,"$9,071.00",Chedraui,E-commerce,659
